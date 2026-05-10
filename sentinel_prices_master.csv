@@ -1,0 +1,1309 @@
+store_name,store_postal,product_name,persona,size_type,description,price_cad,unit,available,price_approximate,collection_date,needs_manual_review
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Bok Choy,Chinese,bulk,Bok Choy by weight $3.95/kg,3.95,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Bok Choy,Chinese,small,Baby Bok Choy 227g,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Chinese,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Chinese,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Jasmine Rice,Chinese,bulk,Three Rings Thai Jasmine Rice 10kg,22.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Jasmine Rice,Chinese,small,Three Rings Thai Jasmine Rice 5kg,13.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Pork Belly,Chinese,bulk,NOT FOUND – no bulk fixed pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Pork Belly,Chinese,small,Pork Belly by weight $13.21/kg,13.21,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Sesame Oil,Chinese,bulk,Kadoya Pure Sesame Oil 1L,12.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Sesame Oil,Chinese,small,Kadoya Pure Sesame Oil 327ml,5.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Silken Tofu,Chinese,bulk,Sunrise Fresh Pack Tofu Smooth 700g,3.59,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Silken Tofu,Chinese,small,Rooster Silken Tofu 454g,2.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.89L,8.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Soy Sauce,Chinese,small,Kikkoman Soy Sauce 250ml,2.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Tofu (Firm),Chinese,bulk,Sunrise Medium Firm Tofu 454g,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Tofu (Firm),Chinese,small,Sunrise Extra Firm Tofu 350g,3.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Carrots,European,bulk,Farmer's Market Carrots 5LB (2.268kg),7.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Carrots,European,small,Farmer's Market Carrots 2 lb bag (907g),3.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Cheddar Cheese,European,bulk,Armstrong Marble Cheddar Cheese 820g,13.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Cheddar Cheese,European,small,Armstrong Old Cheddar Cheese 600g,7.98,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,European,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,European,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,European,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,European,small,Hunt's Heirloom Diced Tomatoes 796ml,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,European,bulk,Club Pack Lean Ground Beef by weight $17.61/kg,17.61,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,European,small,Butcher's Choice Lean Ground Beef 0.45kg,9.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Liberté Greek Yogurt,European,bulk,Liberté Greek 2% Yogurt Plain 750g,7.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Liberté Greek Yogurt,European,small,Liberté Méditerranée 9% Yogurt 500g,2.73,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Olive Oil,European,bulk,Bertolli Rich Taste Extra Virgin Olive Oil 2L,37.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Olive Oil,European,small,Bertolli Extra Light Taste Olive Oil 500ml,10.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,European,bulk,Farmer's Market Russet Potatoes 10 lb Bag (4.54kg),7.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,European,small,PC Russet Potatoes 5 lb Bag (2.268kg),5.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,European,bulk,Dairyland Homo Milk 4L,7.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,European,small,Dairyland Homo Milk 1L,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Wheat Bread,European,bulk,Deli World 100% Whole Wheat Sandwich Bread 900g,4.79,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Wheat Bread,European,small,Wonder Whole Wheat Bread 570g,2.86,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Aroy-D Coconut Milk,Filipino,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Aroy-D Coconut Milk,Filipino,small,Aroy D Canned Coconut Milk 400ml,2.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggplant,Filipino,bulk,NOT FOUND – no pre-packed bulk,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggplant,Filipino,small,Purple Eggplants by weight $6.59/kg,6.59,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Filipino,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Filipino,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Fish Sauce,Filipino,bulk,Cock Fish Sauce 700ml,4.29,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Fish Sauce,Filipino,small,Cock Fish Sauce 200ml,1.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Tilapia,Filipino,bulk,Seaquest Tilapia Fillets Club Size 1kg,18.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Tilapia,Filipino,small,Seaquest Tilapia Fillets 400g,8.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Garlic,Filipino,bulk,Garlic 3-pack bag 0.21kg,2.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Garlic,Filipino,small,Garlic Loose Single Bulb ~0.1kg,0.88,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Jasmine Rice,Filipino,bulk,Three Rings Thai Jasmine Rice 10kg,22.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Jasmine Rice,Filipino,small,Three Rings Thai Jasmine Rice 5kg,13.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Pork Belly,Filipino,bulk,NOT FOUND – no bulk fixed pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Pork Belly,Filipino,small,Pork Belly by weight $13.21/kg,13.21,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Long Grain Rice,Filipino,bulk,No Name Long Grain White Rice 10kg,15.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Long Grain Rice,Filipino,small,No Name Long Grain White Rice 2kg,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,All-Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,14.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,All-Purpose Flour,Indigenous,small,No Name All Purpose Flour 2.5kg,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Indigenous,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Indigenous,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,Indigenous,bulk,Farmer's Market Russet Potatoes 10 lb Bag (4.54kg),7.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,Indigenous,small,PC Russet Potatoes 5 lb Bag (2.268kg),5.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,Indigenous,bulk,Dairyland Homo Milk 4L,7.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,Indigenous,small,Dairyland Homo Milk 1L,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Bean Sprouts,Korean,bulk,NOT FOUND – no 1kg bag,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Bean Sprouts,Korean,small,Bean Sprouts 340g,2.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Dried Seaweed / Nori,Korean,bulk,Jayone Seasoned & Roasted Seaweed 120g,11.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Dried Seaweed / Nori,Korean,small,T&T Sushi Nori Roasted Seaweed Sheets 27g,3.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Korean,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Korean,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Mackerel,Korean,bulk,Chub Mackerel 1kg,6.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Mackerel,Korean,small,Previously Frozen Whole Mackerel ~0.44kg,3.85,each,True,True,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Gochujang,Korean,bulk,NOT FOUND – no 1kg,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Gochujang,Korean,small,O Food Hot Pepper Paste 500g,5.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Kimchi,Korean,bulk,Rooster Kimchi 1kg,11.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Kimchi,Korean,small,JONGGA Sliced Kimchi 80g,1.79,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,Korean,bulk,Club Pack Lean Ground Beef by weight $17.61/kg,17.61,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,Korean,small,Butcher's Choice Lean Ground Beef 0.45kg,9.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Sesame Oil,Korean,bulk,Kadoya Pure Sesame Oil 1L,12.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Sesame Oil,Korean,small,Kadoya Pure Sesame Oil 327ml,5.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Short Grain Rice,Korean,bulk,Diamond G Calrose Rice 6.8kg,17.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Short Grain Rice,Korean,small,Kokuho Premium Rice 2.26kg,12.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Silken Tofu,Korean,bulk,Sunrise Fresh Pack Tofu Smooth 700g,3.59,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Silken Tofu,Korean,small,Rooster Silken Tofu 454g,2.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Tofu (Firm),Korean,bulk,Sunrise Medium Firm Tofu 454g,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Tofu (Firm),Korean,small,Sunrise Extra Firm Tofu 350g,3.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Butter,Others,bulk,PC Salted Butter 2×454g (908g),10.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Butter,Others,small,PC Salted Butter 454g,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canned Chickpeas,Others,bulk,PC Blue Menu Chick Peas 6×540ml,9.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canned Chickpeas,Others,small,No Name Chick Peas 540ml,1.19,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canned Tuna,Others,bulk,Clover Leaf Flaked Light Tuna 8×170g,11.92,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canned Tuna,Others,small,Clover Leaf Flaked Light Tuna 170g,1.79,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canola Oil,Others,bulk,No Name Canola Oil 3L,10.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canola Oil,Others,small,No Name Canola Oil 1L,4.29,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Carrots,Others,bulk,Farmer's Market Carrots 5LB (2.268kg),7.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Carrots,Others,small,Farmer's Market Carrots 2 lb bag (907g),3.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Chicken Breast,Others,bulk,Club Pack Chicken Breast Boneless ~1.8kg,18.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Chicken Breast,Others,small,Fresh Chicken Breast Boneless Skinless ~1kg,10.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Others,bulk,PC Free Run Eggs Large 18ct,8.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Eggs,Others,small,PC Free Run Eggs Large 12ct,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Edamame,Others,bulk,No Name Edamame in Shell 1kg,5.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Frozen Edamame,Others,small,PC Edamame in Shell 500g,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,Others,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,Others,small,Hunt's Heirloom Diced Tomatoes 796ml,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,Others,bulk,Club Pack Lean Ground Beef by weight $17.61/kg,17.61,per_kg,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lean Ground Beef,Others,small,Butcher's Choice Lean Ground Beef 0.45kg,9.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,Others,bulk,Farmer's Market Russet Potatoes 10 lb Bag (4.54kg),7.0,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Russet Potatoes,Others,small,PC Russet Potatoes 5 lb Bag (2.268kg),5.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Long Grain Rice,Others,bulk,No Name Long Grain White Rice 10kg,15.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Long Grain Rice,Others,small,No Name Long Grain White Rice 2kg,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Sugar,Others,bulk,Redpath White Sugar 10kg,17.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,White Sugar,Others,small,Redpath White Sugar 2kg,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,Others,bulk,Dairyland Homo Milk 4L,7.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,Others,small,Dairyland Homo Milk 1L,2.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Wheat Bread,Others,bulk,Deli World 100% Whole Wheat Sandwich Bread 900g,4.79,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Wheat Bread,Others,small,Wonder Whole Wheat Bread 570g,2.86,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Basmati Rice,South Asian,bulk,Tilda Pure Basmati Rice 10kg,37.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Basmati Rice,South Asian,small,Tilda Pure Basmati Rice 2kg,10.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canola Oil,South Asian,bulk,No Name Canola Oil 3L,10.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Canola Oil,South Asian,small,No Name Canola Oil 1L,4.29,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Garlic,South Asian,bulk,Garlic 3-pack bag 0.21kg,2.5,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Garlic,South Asian,small,Garlic Loose Single Bulb ~0.1kg,0.88,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Ginger Root,South Asian,bulk,Ginger Root ~0.5kg (by weight),6.55,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Ginger Root,South Asian,small,Ginger Root ~0.1kg (by weight $13.10/kg),1.31,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,South Asian,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Hunt's Diced Tomatoes,South Asian,small,Hunt's Heirloom Diced Tomatoes 796ml,4.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lentils (Red),South Asian,bulk,No Name Red Lentils 4kg,11.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Lentils (Red),South Asian,small,No Name Red Lentils 900g,3.79,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Liberté Greek Yogurt,South Asian,bulk,Liberté Greek 2% Yogurt Plain 750g,7.49,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Liberté Greek Yogurt,South Asian,small,Liberté Méditerranée 9% Yogurt 500g,2.73,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,South Asian,bulk,Dairyland Homo Milk 4L,7.99,each,True,False,2026-04-25,False
+Real Canadian Superstore Seymour Blvd,V5K 0A1,Whole Milk,South Asian,small,Dairyland Homo Milk 1L,2.99,each,True,False,2026-04-25,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Bok Choy,Chinese,bulk,Bok Choy Fresh 1.4kg,7.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Bok Choy,Chinese,small,YU Baby Bok Choy 454g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Chinese,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Chinese,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Firm Tofu,Chinese,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Firm Tofu,Chinese,small,Sunrise Firm Tofu 500g,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Jasmine Rice,Chinese,bulk,Geoland Jasmine White Rice 8kg,25.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Jasmine Rice,Chinese,small,Western Family Jasmine Rice 1.81kg,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L,14.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 591ml,9.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Belly,Chinese,bulk,NOT FOUND – fixed bulk pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Belly,Chinese,small,SOF Pork Belly Skin On Quarter Cut ~907g (by wt),18.58,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Shoulder,Chinese,bulk,WC Pork Roast Shoulder Boneless ~2kg (by wt),39.64,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Shoulder,Chinese,small,WC Pork Butt Steak Bone In ~800g (by wt),13.21,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil 500ml,19.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Sesame Oil,Chinese,small,Oi Toasted Sesame Oil 250ml,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Silk Soy Milk,Chinese,bulk,Silk Soy Protein Milk 1.89L,6.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946ml,3.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Carrots,European,bulk,Carrots Orange 5lb,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Carrots,European,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Cheddar Cheese,European,bulk,Value Priced Medium Cheddar Block 820g,14.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese 400g,8.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,European,bulk,Aylmer Diced Tomatoes 8-pack,21.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,European,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,European,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,European,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Greek Yogurt,European,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Greek Yogurt,European,small,Western Family Greek Style Yogurt 500g,5.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,European,bulk,Dairyland 3.25% Milk 4L,6.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,European,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,European,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,European,small,WC Lean Ground Beef 454g,9.5,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Olive Oil,European,bulk,Filippo Berio EVOO 1.5L,31.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Olive Oil,European,small,Western Family EVOO 500ml,11.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,European,bulk,Russet Potatoes 10lb bag,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,European,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Bread,European,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Bread,European,small,Western Family Whole Wheat Bread 570g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Coconut Milk,Filipino,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Coconut Milk,Filipino,small,Western Family Premium Coconut Milk 400ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggplant,Filipino,bulk,NOT FOUND – no bulk bag,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggplant,Filipino,small,Eggplant Purple Regular (single),3.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Filipino,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Filipino,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Frozen Tilapia,Filipino,bulk,NOT FOUND – no 2kg,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Frozen Tilapia,Filipino,small,Western Family Tilapia Loins 400g,15.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Garlic,Filipino,bulk,Garlic Fresh Mesh Bag 1kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Garlic,Filipino,small,Garlic Bulb Mesh 3-pack,1.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Jasmine Rice,Filipino,bulk,Geoland Jasmine White Rice 8kg,25.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Jasmine Rice,Filipino,small,Western Family Jasmine Rice 1.81kg,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Belly,Filipino,bulk,NOT FOUND – fixed bulk pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Pork Belly,Filipino,small,SOF Pork Belly Skin On Quarter Cut ~907g (by wt),18.58,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,White Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg,19.79,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,White Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Yellow Onions,Filipino,bulk,NOT FOUND – 5kg bag,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Yellow Onions,Filipino,small,Yellow Onions Mesh Bag 3lb,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Indigenous,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Gold Seal Pink Salmon Canned,Indigenous,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Gold Seal Pink Salmon Canned,Indigenous,small,Gold Seal Wild Pink Salmon 213g,5.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,Indigenous,bulk,Dairyland 3.25% Milk 4L,6.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,Indigenous,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood AP Flour Original 10kg,15.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood AP Flour Original 1kg,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb bag,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Bean Sprouts,Korean,bulk,NOT FOUND – no 1kg,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Korean,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Korean,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Firm Tofu,Korean,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Firm Tofu,Korean,small,Sunrise Firm Tofu 500g,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Frozen Mackerel Fillets,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Frozen Mackerel Fillets,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Gochujang,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Gochujang,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Kimchi,Korean,bulk,Hankook Kimchi 900g,15.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Kimchi,Korean,small,Hankook Kimchi 450g,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,Korean,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,Korean,small,WC Lean Ground Beef 454g,9.5,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil 500ml,19.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Sesame Oil,Korean,small,Oi Toasted Sesame Oil 250ml,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Short Grain Rice,Korean,bulk,Kokuho Rose California Supreme Rice 10kg,49.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Short Grain Rice,Korean,small,Kokuho Rose California Supreme Rice 2kg,14.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Canola Oil,Others,bulk,Western Family Pure Canola Oil 3L,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Canola Oil,Others,small,Western Family Pure Canola Oil 946ml,6.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Carrots,Others,bulk,Carrots Orange 5lb,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Carrots,Others,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,Others,bulk,Aylmer Diced Tomatoes 8-pack,21.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,Others,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Others,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Eggs Large,Others,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,Others,bulk,Dairyland 3.25% Milk 4L,6.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,Others,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,Others,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Lean Ground Beef,Others,small,WC Lean Ground Beef 454g,9.5,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,Others,bulk,Russet Potatoes 10lb bag,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Russet Potatoes,Others,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,White Rice,Others,bulk,Western Family Long Grain White Rice 8kg,19.79,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,White Rice,Others,small,Western Family Long Grain White Rice 1.81kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Bread,Others,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Bread,Others,small,Western Family Whole Wheat Bread 570g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Balkan Yogurt,South Asian,bulk,Olympic Organic Plain Yogurt 1.75kg,11.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Balkan Yogurt,South Asian,small,Olympic Organic Plain Yogurt 650g,4.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Basmati Rice,South Asian,bulk,Tilda Pure Basmati Rice 4.54kg,22.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Basmati Rice,South Asian,small,Western Family White Basmati Rice 2kg,11.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Canola Oil,South Asian,bulk,Western Family Pure Canola Oil 3L,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Canola Oil,South Asian,small,Western Family Pure Canola Oil 946ml,6.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Chicken Thighs,South Asian,bulk,WF Boneless Skinless Chicken Thighs 3kg,38.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Chicken Thighs,South Asian,small,SOF Chicken Thighs Boneless Skinless ~750g,11.56,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,South Asian,bulk,Aylmer Diced Tomatoes 8-pack,21.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Diced Canned Tomatoes,South Asian,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Garlic,South Asian,bulk,Garlic Fresh Mesh Bag 1kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Garlic,South Asian,small,Garlic Bulb Mesh 3-pack,1.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Greek Yogurt,South Asian,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Greek Yogurt,South Asian,small,Western Family Greek Style Yogurt 500g,5.29,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,South Asian,bulk,Dairyland 3.25% Milk 4L,6.69,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Homo Milk,South Asian,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Roma Tomatoes,South Asian,bulk,Windset Farms Roma Tomatoes 3lb,7.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Roma Tomatoes,South Asian,small,Roma Tomatoes Fresh (per ea),0.89,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Toor Dal,South Asian,bulk,NOT FOUND – bulk,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Toor Dal,South Asian,small,Sundar Toor Dal 2lb (907g),5.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Atta,South Asian,bulk,Sher Fibr Wala WW Atta 9.07kg,20.99,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Whole Wheat Atta,South Asian,small,Sher Durum Atta 20lb (~9kg) [smallest],19.49,each,True,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Yellow Onions,South Asian,bulk,NOT FOUND – 5kg bag,,each,False,False,2026-04-26,False
+Save-On-Foods Cambie Street Vancouver,V5Z 0A1,Yellow Onions,South Asian,small,Yellow Onions Mesh Bag 3lb,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bok Choy,Chinese,bulk,Bok Choy Fresh 1400g per kg,5.5,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bok Choy,Chinese,small,YU Baby Bok Choy Fresh Bunch 454g per kg,8.8,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Chinese,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Chinese,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Firm Tofu,Chinese,bulk,Sunrise Traditional Tofu 700g,3.59,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Firm Tofu,Chinese,small,Sunrise Tofu Extra Firm 350 Gram,3.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Green Onions,Chinese,bulk,Green Onions 3-bunch pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Green Onions,Chinese,small,Green Onions Scallions Bunch Fresh 1 Each,2.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Jasmine Rice,Chinese,bulk,Geoland Jasmine White Scented Rice 8 Kilogram,23.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Jasmine Rice,Chinese,small,Texana Thai Jasmine Rice 2 Kilogram,9.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Kikkoman Soy Sauce,Chinese,bulk,KIKKOMAN Soy Sauce 1.2 Litre,14.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Kikkoman Soy Sauce,Chinese,small,KIKKOMAN Soy Sauce 296 Millilitre,6.89,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Napa Cabbage,Chinese,bulk,Napa Cabbage 3kg bag NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Napa Cabbage,Chinese,small,Cabbage Sui Choy Fresh per kg,5.9,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pork Shoulder,Chinese,bulk,Western Canadian Pork Roast Shoulder Blade per kg,19.8,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pork Shoulder,Chinese,small,Pork Shoulder Blade Thin Cut per kg,24.2,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil 500ml,19.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Sesame Oil,Chinese,small,Kadoya Pure Sesame Oil 327 Millilitre,9.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Silk Soy Milk,Chinese,bulk,Silk Soy Protein Milk Original 1.89 Litre,5.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946 Millilitre,3.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Carrots,European,bulk,Carrots Orange 5lb Cello,7.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Carrots,European,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Cheddar Cheese,European,bulk,Value Priced Old Cheddar Block 820 Gram,14.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese 400 Gram,8.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Dempsters Whole Wheat Bread,European,bulk,Dempsters 2-loaf pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Dempsters Whole Wheat Bread,European,small,Dempsters 100% Whole Wheat Bread 675 Gram,4.79,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Diced Canned Tomatoes,European,bulk,Aylmer Diced Tomatoes 8 Each,15.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Diced Canned Tomatoes,European,small,Western Family Diced Tomatoes In Juice 796 Millilitre,2.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,European,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,European,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Greek Yogurt,European,bulk,Olympic Greek Plain Yogurt 2% 1.75 Kilogram,12.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Greek Yogurt,European,small,Western Family Greek Style Yogurt 500 Gram,5.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Lean Ground Beef,European,bulk,Western Canadian Lean Ground Beef 1.36kg per kg,18.7,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Lean Ground Beef,European,small,Western Canadian Lean Ground Beef 454 Gram,9.5,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Olive Oil,European,bulk,Western Family Extra Virgin Olive Oil 1 Litre,16.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500 Millilitre,11.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,European,bulk,Potatoes Russet 10lb Bag,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,European,small,Potatoes Russet 5lb Bag,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,European,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,European,small,Dairyland 3.25% Milk 1 Litre,3.25,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Aroy-D Coconut Milk,Filipino,bulk,Aroy-D Coconut Milk 6-pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Aroy-D Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400 Millilitre,3.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Cane Vinegar,Filipino,bulk,Cane Vinegar 1L UFC no larger size,5.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Cane Vinegar,Filipino,small,UFC Sarap-asim Vinegar 1 Litre,5.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggplant,Filipino,bulk,Eggplant 2kg per kg,6.6,per_kg,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggplant,Filipino,small,Eggplant Long Fresh per kg,6.6,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Filipino,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Filipino,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Fish Sauce,Filipino,bulk,Marca Pina Patis Fish Sauce 1000 Millilitre,4.29,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Fish Sauce,Filipino,small,Squid Fish Sauce 300 Millilitre,2.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Tilapia,Filipino,bulk,Frozen Tilapia 2kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Tilapia,Filipino,small,High Liner Pan Sear Tilapia 540 Gram,10.5,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Garlic,Filipino,bulk,Garlic Fresh Mesh Bag 1 Kilogram,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Garlic,Filipino,small,Garlic Bulb Mesh 3 Each,0.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pork Belly,Filipino,bulk,Pork Belly 3kg per kg,20.5,per_kg,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pork Belly,Filipino,small,Save-On-Foods Pork Belly Skin On per kg,20.5,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,White Long Grain Rice,Filipino,bulk,Western Family Long Grain White Rice 8 Kilogram,19.79,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,White Long Grain Rice,Filipino,small,Western Family Long Grain White Rice 1.81 Kilogram,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Yellow Onions,Filipino,bulk,Yellow Onions 5kg bag NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Yellow Onions,Filipino,small,Onions Yellow Mesh Bagged 3lb,4.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bison Ground Meat,Indigenous,bulk,Bison Ground Meat largest NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bison Ground Meat,Indigenous,small,Bison Ground Meat 400g NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Crisco Shortening,Indigenous,bulk,Crisco Shortening All-Vegetable 1.36 Kilogram,14.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Crisco Shortening,Indigenous,small,Crisco Shortening All-Vegetable 454 Gram,4.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Indigenous,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Wild Blueberries,Indigenous,bulk,Western Family Cultivated Blueberries 1.5 Kilogram,9.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600 Gram,5.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Gold Seal Pink Salmon,Indigenous,bulk,Gold Seal Pink Salmon 6-pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Gold Seal Pink Salmon,Indigenous,small,Gold Seal Wild Pink Salmon 213 Gram,5.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pinto Beans Canned,Indigenous,bulk,Pinto Beans 6-pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540 Millilitre,2.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25 Kilogram,7.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Quaker Oats,Indigenous,small,Quaker Quick Oats 1 Kilogram,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10 Kilogram,14.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 5 Kilogram,16.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,Indigenous,bulk,Potatoes Russet 10lb Bag,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,Indigenous,small,Potatoes Russet 5lb Bag,6.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,Indigenous,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,Indigenous,small,Dairyland 3.25% Milk 1 Litre,3.25,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bean Sprouts,Korean,bulk,Bean Sprouts 1kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227 Gram,2.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,CJ Gochujang,Korean,bulk,Gochujang 1kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,CJ Gochujang,Korean,small,ofood Gochu Jang 215 Gram,8.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Dried Seaweed/Nori,Korean,bulk,Jayone Roasted Seaweed Seasoned 24 Each,13.79,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Dried Seaweed/Nori,Korean,small,Western Family Roasted Seaweed Sushi Nori 28 Gram,3.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Korean,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Korean,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Mackerel Fillets,Korean,bulk,Frozen Mackerel 1kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Frozen Mackerel Fillets,Korean,small,Frozen Mackerel 300g NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Kimchi Jongga,Korean,bulk,Kimchi 5kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Kimchi Jongga,Korean,small,Hankook Kimchi 900 Gram,15.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Lean Ground Beef,Korean,bulk,Western Canadian Lean Ground Beef 1.36kg per kg,18.7,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Lean Ground Beef,Korean,small,Western Canadian Lean Ground Beef 454 Gram,9.5,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil 500ml,19.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Sesame Oil,Korean,small,Kadoya Pure Sesame Oil 327 Millilitre,9.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Short Grain Rice,Korean,bulk,Shirakiku SEKKA Sushi Brown Rice 6.8 Kilogram,24.64,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Short Grain Rice,Korean,small,Katsumi US No.1 Premium Calrose Rice 2.26 Kilogram,10.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Silken Tofu,Korean,bulk,Sunrise Traditional Tofu 700g,3.59,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Silken Tofu,Korean,small,Sunrise Blue Label Tofu Soft 300 Gram,1.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bananas,Others,bulk,Bananas Yellow Fresh per kg bulk,2.0,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Bananas,Others,small,Bananas Yellow Fresh per kg,2.0,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Black Beans,Others,bulk,Western Family Black Beans 12-pack equiv,9.0,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Black Beans,Others,small,Western Family Black Beans 540 Millilitre,2.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Canola Oil,Others,bulk,Western Family Pure Canola Oil 3 Litre,11.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Canola Oil,Others,small,Western Family Pure Canola Oil 946 Millilitre,5.79,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Carrots,Others,bulk,Carrots Orange 5lb Cello,7.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Carrots,Others,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Chicken Breast Boneless,Others,bulk,Save-On-Foods Boneless Skinless Chicken Breast Warehouse per kg,20.9,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Chicken Breast Boneless,Others,small,Save-On-Foods Chicken Breast Boneless per kg,26.4,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Others,bulk,Western Family Large White Eggs 18 Each,7.35,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Eggs Large,Others,small,Western Family Large White Eggs 12 Each,4.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 Kilogram,7.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Quaker Oats,Others,small,Quaker Quick Oats 1 Kilogram,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,Others,bulk,Potatoes Russet 10lb Bag,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Russet Potatoes,Others,small,Potatoes Russet 5lb Bag,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,Others,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,Others,small,Dairyland 3.25% Milk 1 Litre,3.25,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Wheat Bread,Others,bulk,Whole Wheat Bread 2-loaf pack NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Wheat Bread,Others,small,Western Family Whole Wheat Bread 570 Gram,2.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Basmati Rice,South Asian,bulk,Teja Premium Basmati Rice 10 Pound ~4.5kg,14.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Basmati Rice,South Asian,small,Western Family White Basmati Rice 2 Kilogram,11.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Canola Oil,South Asian,bulk,Western Family Pure Canola Oil 3 Litre,11.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Canola Oil,South Asian,small,Western Family Pure Canola Oil 946 Millilitre,5.79,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Chicken Thighs,South Asian,bulk,Western Family Boneless Skinless Chicken Thighs 3 Kilogram,38.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Chicken Thighs,South Asian,small,Western Canadian Chicken Thighs per kg,16.5,per_kg,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Garlic,South Asian,bulk,Garlic Fresh Mesh Bag 1 Kilogram,6.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Garlic,South Asian,small,Garlic Bulb Mesh 3 Each,0.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Plain/Balkan Yogurt,South Asian,bulk,Olympic Organic Vanilla Yogurt 1.75 Kilogram,10.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Plain/Balkan Yogurt,South Asian,small,Astro Original Balkan Style Natural Yogurt 750 Gram,3.29,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Roma Tomatoes,South Asian,bulk,Roma Tomatoes loose per kg,0.99,per_kg,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Roma Tomatoes,South Asian,small,Windset Farms Roma Tomatoes 3 Pound bag,7.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Toor Dal/Red Lentils,South Asian,bulk,Sher Lentils Red Split 4 Pound ~1.8kg,5.49,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Toor Dal/Red Lentils,South Asian,small,Western Family Red Split Lentils 450 Gram,4.49,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,South Asian,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Milk,South Asian,small,Dairyland 3.25% Milk 1 Litre,3.25,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Wheat Atta,South Asian,bulk,Sher Durum Atta Desi Style Flour 20 Pound ~9kg,14.99,each,True,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Whole Wheat Atta,South Asian,small,Western Family Whole Wheat Flour 5 Kilogram,9.99,each,True,True,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Yellow Onions,South Asian,bulk,Yellow Onions 5kg NOT FOUND,,each,False,False,2026-05-03,False
+Save-On-Foods Coquitlam,V3K 6Y3,Yellow Onions,South Asian,small,Onions Yellow Mesh Bagged 3lb,4.99,each,True,False,2026-05-03,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Bok Choy,Chinese,bulk,Bok Choy Fresh 1.4kg,7.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Bok Choy,Chinese,small,YU Baby Bok Choy 454g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Chinese,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Chinese,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Firm Tofu,Chinese,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Firm Tofu,Chinese,small,Sunrise Firm Tofu 500g,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Jasmine Rice,Chinese,bulk,Geoland Jasmine White Rice 8kg,49.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Jasmine Rice,Chinese,small,Western Family Jasmine Rice 1.81kg,8.99,each,True,False,2026-04-28,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L,14.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 591ml,9.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Belly,Chinese,bulk,NOT FOUND – fixed bulk pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Belly,Chinese,small,SOF Pork Belly Skin On Quarter Cut ~907g (by wt),18.58,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Shoulder,Chinese,bulk,WC Pork Roast Shoulder Boneless ~2kg (by wt),44.0,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Shoulder,Chinese,small,WC Pork Butt Steak Bone In ~800g (by wt),13.21,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil 500ml,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Sesame Oil,Chinese,small,Oi Toasted Sesame Oil 250ml,,each,False,False,2026-04-26,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Silk Soy Milk,Chinese,bulk,Silk Soy Protein Milk 1.89L,6.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946ml,3.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Carrots,European,bulk,Carrots Orange 5lb,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Carrots,European,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Cheddar Cheese,European,bulk,Value Priced Medium Cheddar Block 820g,14.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese 400g,8.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,European,bulk,Aylmer Diced Tomatoes 8-pack,15.49,each,True,False,2026-04-28,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,European,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,European,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,European,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Greek Yogurt,European,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Greek Yogurt,European,small,Western Family Greek Style Yogurt 500g,5.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,European,bulk,Dairyland 3.25% Milk 4L,6.19,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,European,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,European,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,European,small,WC Lean Ground Beef 454g,9.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Olive Oil,European,bulk,Filippo Berio EVOO 1.5L,31.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Olive Oil,European,small,Western Family EVOO 500ml,11.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,European,bulk,Russet Potatoes 10lb bag,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,European,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Bread,European,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Bread,European,small,Western Family Whole Wheat Bread 570g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Coconut Milk,Filipino,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Coconut Milk,Filipino,small,Western Family Premium Coconut Milk 400ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggplant,Filipino,bulk,NOT FOUND – no bulk bag,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggplant,Filipino,small,Eggplant Purple Regular (single),3.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Filipino,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Filipino,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Frozen Tilapia,Filipino,bulk,NOT FOUND – no 2kg,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Frozen Tilapia,Filipino,small,Western Family Tilapia Loins 400g,15.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Garlic,Filipino,bulk,Garlic Fresh Mesh Bag 1kg,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Garlic,Filipino,small,Garlic Bulb Mesh 3-pack,1.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Jasmine Rice,Filipino,bulk,Geoland Jasmine White Rice 8kg,49.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Jasmine Rice,Filipino,small,Western Family Jasmine Rice 1.81kg,8.99,each,True,False,2026-04-28,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Belly,Filipino,bulk,NOT FOUND – fixed bulk pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Pork Belly,Filipino,small,SOF Pork Belly Skin On Quarter Cut ~907g (by wt),18.58,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,White Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg,19.79,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,White Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Yellow Onions,Filipino,bulk,NOT FOUND – 5kg bag,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Yellow Onions,Filipino,small,Yellow Onions Mesh Bag 3lb,3.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Indigenous,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Gold Seal Pink Salmon Canned,Indigenous,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Gold Seal Pink Salmon Canned,Indigenous,small,Gold Seal Wild Pink Salmon 213g,5.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,Indigenous,bulk,Dairyland 3.25% Milk 4L,6.19,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,Indigenous,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood AP Flour Original 10kg,15.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood AP Flour Original 1kg,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb bag,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Bean Sprouts,Korean,bulk,NOT FOUND – no 1kg,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Korean,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Korean,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Firm Tofu,Korean,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Firm Tofu,Korean,small,Sunrise Firm Tofu 500g,3.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Frozen Mackerel Fillets,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Frozen Mackerel Fillets,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Gochujang,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Gochujang,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Kimchi,Korean,bulk,Hankook Kimchi 900g,15.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Kimchi,Korean,small,Hankook Kimchi 450g,8.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,Korean,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,Korean,small,WC Lean Ground Beef 454g,9.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil 500ml,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Sesame Oil,Korean,small,Oi Toasted Sesame Oil 250ml,,each,False,False,2026-04-26,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Short Grain Rice,Korean,bulk,Kokuho Rose California Supreme Rice 10kg,6.81,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Short Grain Rice,Korean,small,Kokuho Rose California Supreme Rice 2kg,14.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Canola Oil,Others,bulk,Western Family Pure Canola Oil 3L,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Canola Oil,Others,small,Western Family Pure Canola Oil 946ml,6.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Carrots,Others,bulk,Carrots Orange 5lb,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Carrots,Others,small,Carrots Cello Bag 3lb,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,Others,bulk,Aylmer Diced Tomatoes 8-pack,15.49,each,True,False,2026-04-38,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,Others,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Others,bulk,Western Family Large White Eggs 30-pack,10.45,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Eggs Large,Others,small,Western Family Large White Eggs 12-pack,4.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,Others,bulk,Dairyland 3.25% Milk 4L,6.19,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,Others,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,Others,bulk,WC Lean Ground Beef Fine Grind ~1.36kg (by wt),25.46,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Lean Ground Beef,Others,small,WC Lean Ground Beef 454g,9.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,Others,bulk,Russet Potatoes 10lb bag,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Russet Potatoes,Others,small,Russet Potatoes 5lb bag,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,White Rice,Others,bulk,Western Family Long Grain White Rice 8kg,19.79,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,White Rice,Others,small,Western Family Long Grain White Rice 1.81kg,6.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Bread,Others,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Bread,Others,small,Western Family Whole Wheat Bread 570g,2.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Balkan Yogurt,South Asian,bulk,Olympic Organic Plain Yogurt 1.75kg,11.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Balkan Yogurt,South Asian,small,Olympic Organic Plain Yogurt 650g,4.69,each,True,False,2026-04-26,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Basmati Rice,South Asian,bulk,Tilda Pure Basmati Rice 4.54kg,22.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Basmati Rice,South Asian,small,Western Family White Basmati Rice 2kg,11.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Canola Oil,South Asian,bulk,Western Family Pure Canola Oil 3L,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Canola Oil,South Asian,small,Western Family Pure Canola Oil 946ml,6.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Chicken Thighs,South Asian,bulk,WF Boneless Skinless Chicken Thighs 3kg,38.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Chicken Thighs,South Asian,small,SOF Chicken Thighs Boneless Skinless ~750g,11.23,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,South Asian,bulk,Aylmer Diced Tomatoes 8-pack,15.49,each,True,False,2026-04-28,True
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Diced Canned Tomatoes,South Asian,small,Western Family Diced Tomatoes 796ml,2.69,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Garlic,South Asian,bulk,Garlic Fresh Mesh Bag 1kg,4.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Garlic,South Asian,small,Garlic Bulb Mesh 3-pack,1.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Greek Yogurt,South Asian,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Greek Yogurt,South Asian,small,Western Family Greek Style Yogurt 500g,5.29,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,South Asian,bulk,Dairyland 3.25% Milk 4L,6.19,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Homo Milk,South Asian,small,Dairyland 3.25% Milk 1L,3.25,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Roma Tomatoes,South Asian,bulk,Windset Farms Roma Tomatoes 3lb,7.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Roma Tomatoes,South Asian,small,Roma Tomatoes Fresh (per ea),0.49,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Toor Dal,South Asian,bulk,NOT FOUND – bulk,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Toor Dal,South Asian,small,Sundar Toor Dal 2lb (907g),5.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Atta,South Asian,bulk,Sher Fibr Wala WW Atta 9.07kg,20.99,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Whole Wheat Atta,South Asian,small,Sher Durum Atta 20lb (~9kg) [smallest],4.54,each,True,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Yellow Onions,South Asian,bulk,NOT FOUND – 5kg bag,,each,False,False,2026-04-26,False
+Save-On-Foods Fleetwood Surrey,V3R 4E7,Yellow Onions,South Asian,small,Yellow Onions Mesh Bag 3lb,3.49,each,True,False,2026-04-26,False
+Superstore Guildford Surrey,V3R 7C1,Bok Choy,Chinese,bulk,Baby Bok Choy $6.35/kg sold by weight (2kg = ~$12.70),6.35,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bok Choy,Chinese,small,Baby Bok Choy $6.35/kg sold by weight (approx 500g bunch ~$3.18),6.35,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Chinese,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Chinese,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Firm Tofu,Chinese,bulk,Rooster Firm Tofu 454g 2-pack (2 FOR $4.98),4.98,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Firm Tofu,Chinese,small,Sunrise Tofu Extra Firm 350g,3.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Green Onions,Chinese,bulk,Green Onion individual bunches only (no 3-bunch pack; 3x$0.99=$2.97 est.),2.97,each,True,True,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Green Onions,Chinese,small,Green Onion 1 bunch (sale $0.99; regular $1.79),0.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Jasmine Rice,Chinese,bulk,Rooster Scented Jasmine Rice 8kg (no 10kg available),19.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Jasmine Rice,Chinese,small,Rooster Thai Hom Mali Scented Jasmine Rice 2kg,5.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 591ml (no 1.89L Kikkoman available),6.79,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Kikkoman Soy Sauce,Chinese,small,Kikkoman Less Sodium Soy Sauce 295ml (no 250ml; closest size),5.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Napa Cabbage,Chinese,bulk,Chinese Napa Cabbage $2.82/kg sold by weight (no 3kg bag; 3kg = ~$8.46),2.82,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Napa Cabbage,Chinese,small,Chinese Napa Cabbage $2.82/kg sold by weight (approx 1 head),2.82,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pork Shoulder,Chinese,bulk,Pork Shoulder Blade Club Pack $7.25/kg sold by weight (~3kg = $21.75),7.25,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pork Shoulder,Chinese,small,Pork Shoulder Blade $7.25/kg sold by weight (~1kg),7.25,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Sesame Oil,Chinese,bulk,Lee Kum Kee Pure Sesame Oil 443ml (no 1L available; largest size),8.99,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Sesame Oil,Chinese,small,Kadoya Pure Sesame Oil 327ml,6.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Silk Soy Milk,Chinese,bulk,Silk Protein 18g Regular 1420ml (no 1.89L Silk soy milk available; closest),7.49,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Silk Soy Milk,Chinese,small,Silk Soy for Coffee Original 890ml (no plain 946ml Silk available; closest),5.79,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Carrots,European,bulk,Farmer's Market Carrots 5LB 2.268kg,7.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Carrots,European,small,Farmer's Market Carrots 2 lb Bag 907g,3.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Cheddar Cheese,European,bulk,No Name Old Cheddar Cheese 700g,8.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Cheddar Cheese,European,small,Black Diamond Medium Cheddar Cheese Bar 400g,4.88,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Dempster's Whole Wheat Bread,European,bulk,Wonder Whole Wheat Bread 570g x2 estimated (no 2-loaf pack found),5.72,each,True,True,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Dempster's Whole Wheat Bread,European,small,Wonder Whole Wheat Bread 570g (Dempster's brand not found),2.86,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Diced Canned Tomatoes,European,bulk,No Name Diced Tomatoes 796ml (no larger/multipack available),1.99,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Diced Canned Tomatoes,European,small,Unico Diced Tomatoes 796ml,1.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,European,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,European,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Greek Yogurt,European,bulk,Oikos Greek Yogurt Plain 1.5kg,11.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Greek Yogurt,European,small,President's Choice Plain Greek Yogurt 750g,6.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Lean Ground Beef,European,bulk,Lean Ground Beef Chub $17.61/kg sold by weight (~2kg = ~$35.22),17.61,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Lean Ground Beef,European,small,Butcher's Choice Lean Ground Beef 0.45kg (closest to 500g),9.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Olive Oil,European,bulk,Gallo Extra Virgin Olive Oil 1L (no larger size available),13.99,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Olive Oil,European,small,No Name 100% Extra Virgin Olive Oil 750ml,8.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,European,bulk,No Name Naturally Imperfect Russet Potatoes 20 lb Bag 9.07kg,8.48,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,European,small,President's Choice Russet Potatoes 5 lb Bag 2.268kg,5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,European,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,European,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Aroy-D Coconut Milk,Filipino,bulk,Aroy-D Canned Coconut Milk 400ml x6 (no 6-pack listed; estimated 6x$2.49),14.94,each,False,True,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Aroy-D Coconut Milk,Filipino,small,Aroy-D Canned Coconut Milk 400ml,2.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Cane Vinegar,Filipino,bulk,Datu Puti White Vinegar 1L (no larger size found),2.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Cane Vinegar,Filipino,small,Datu Puti White Vinegar 1L (no 385ml; closest Filipino brand vinegar),2.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,Filipino,bulk,No Name 100% Pure Canola Oil 3L,8.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,Filipino,small,No Name 100% Pure Canola Oil 946ml (closest to 1L),5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggplant,Filipino,bulk,Long Eggplants $4.34/kg sold by weight (per_kg ~2kg),4.34,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggplant,Filipino,small,Purple Eggplants $6.59/kg sold by weight (per_kg ~500g),6.59,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Filipino,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Filipino,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Fish Sauce,Filipino,bulk,Squid Brand Fish Sauce 725ml (closest to 750ml),3.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Fish Sauce,Filipino,small,Cock Fish Sauce 200ml (no 350ml available; closest small size),1.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Tilapia,Filipino,bulk,Seaquest Tilapia Fillets Club Size 1kg (no 2kg available; largest),18.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Tilapia,Filipino,small,Seaquest Tilapia Fillets 400g (no 500g available; closest),8.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Garlic,Filipino,bulk,Garlic Bulbs 1kg bag (no 3-pack or 500g bag),6.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Garlic,Filipino,small,Colossal Fresh Garlic single bulb $9.90/kg (approx $0.99/bulb),0.99,each,True,True,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pork Belly,Filipino,bulk,Pork Belly $13.21/kg sold by weight (~3kg = $39.63),13.21,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pork Belly,Filipino,small,Pork Belly $13.21/kg sold by weight (~1kg),13.21,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,White Long Grain Rice,Filipino,bulk,Rooster Extra Fancy Long Grain Rice 8kg (no 10kg available),17.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,White Long Grain Rice,Filipino,small,No Name Long Grain White Rice 2kg,5.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Yellow Onions,Filipino,bulk,Farmer's Market Yellow Onions 10lb bag (4.54kg; closest to 5kg),9.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Yellow Onions,Filipino,small,Farmer's Market Yellow Onions 3lb bag (1.36kg; closest to 1kg),3.25,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bison Ground Meat,Indigenous,bulk,Bison Ground Meat bulk NOT FOUND - no ground bison available,,each,False,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Bison Ground Meat,Indigenous,small,PC Free From Bison Burgers 512g (no ground bison available),20.0,each,False,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,12.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Crisco Shortening,Indigenous,small,Crisco All Vegetables Shortening 454g,3.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Indigenous,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Indigenous,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Wild Blueberries,Indigenous,bulk,President's Choice Wild Blueberries 1.5kg,19.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Wild Blueberries,Indigenous,small,President's Choice Canadian Wild Blueberries 400g,6.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Gold Seal Pink Salmon,Indigenous,bulk,GoldSeal Pink Salmon 418g,6.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Gold Seal Pink Salmon,Indigenous,small,GoldSeal Wild Pacific Pink Salmon 213g,4.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pinto Beans Canned,Indigenous,bulk,PC Blue Menu Pinto Beans 900g,3.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Pinto Beans Canned,Indigenous,small,Unico Pinto Beans 540ml,1.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 5.16kg,14.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,4.29,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood Original All Purpose Flour 10kg,18.97,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood Original All Purpose Flour 2.5kg,5.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,Indigenous,bulk,No Name Naturally Imperfect Russet Potatoes 20 lb Bag 9.07kg,8.48,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,Indigenous,small,President's Choice Russet Potatoes 5 lb Bag 2.268kg,5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,Indigenous,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,Indigenous,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bean Sprouts,Korean,bulk,NOT FOUND (no 1kg bean sprouts available),,each,False,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bean Sprouts,Korean,small,Bean Sprouts 340g,2.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,CJ Gochujang,Korean,bulk,NOT FOUND,,each,False,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,CJ Gochujang,Korean,small,O Food Hot Pepper Paste 500g (no CJ brand; closest equivalent),5.99,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Dried Seaweed Nori,Korean,bulk,Jayone Seasoned and Roasted Seaweed 120g (closest to 100g),11.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Dried Seaweed Nori,Korean,small,T&T Sushi Nori Roasted Seaweed Sheets 27g (closest to 20g),3.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Korean,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Korean,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Mackerel,Korean,bulk,Chub Mackerel 1kg (no larger pack available),12.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Frozen Mackerel,Korean,small,Previously Frozen Whole Mackerel $8.80/kg sold by weight (~300g),8.8,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Kimchi Jongga,Korean,bulk,Rooster Kimchi 1kg (no Jongga 5kg; largest available kimchi),11.0,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Kimchi Jongga,Korean,small,JONGGA Sliced Kimchi Cabbage Kimchi 80g,1.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Lean Ground Beef,Korean,bulk,Lean Ground Beef Chub $17.61/kg sold by weight (~2kg = ~$35.22),17.61,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Lean Ground Beef,Korean,small,Butcher's Choice Lean Ground Beef 0.45kg (closest to 500g),9.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Sesame Oil,Korean,bulk,Lee Kum Kee Pure Sesame Oil 443ml (no 1L available; largest size),8.99,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Sesame Oil,Korean,small,Kadoya Pure Sesame Oil 327ml,6.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Short Grain Rice,Korean,bulk,New Kenji Premium Quality Medium Grain Rice 4.54kg (no 9kg available),13.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Short Grain Rice,Korean,small,No Name Medium Grain Calrose Rice 2kg (no exact Korean short grain 2kg),8.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Silken Tofu,Korean,bulk,Rooster Silken Tofu 454g 2-pack (2 FOR $4.98),4.98,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Silken Tofu,Korean,small,Sunrise Tofu Soft 300g (closest to 349g),2.29,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bananas,Others,bulk,Bananas Bunch $1.72/kg sold by weight (bulk quantity same rate),1.72,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Bananas,Others,small,Bananas Bunch $1.72/kg sold by weight (small bunch ~1kg),1.72,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,Others,bulk,No Name 100% Pure Canola Oil 3L,8.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,Others,small,No Name 100% Pure Canola Oil 946ml (closest to 1L),5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Carrots,Others,bulk,Farmer's Market Carrots 5LB 2.268kg,7.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Carrots,Others,small,Farmer's Market Carrots 2 lb Bag 907g,3.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Chicken Breast Boneless,Others,bulk,No Name Club Pack Chicken Breasts Boneless Skinless 2kg,42.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Chicken Breast Boneless,Others,small,Sufra Halal Boneless Skinless Chicken Breast 645g,16.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Dempster's Whole Wheat Bread,Others,bulk,Wonder Whole Wheat Bread 570g x2 estimated (no 2-loaf pack found),5.72,each,True,True,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Dempster's Whole Wheat Bread,Others,small,Wonder Whole Wheat Bread 570g (Dempster's brand not found),2.86,each,True,False,2026-04-29,True
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Others,bulk,Foremost Large Size Eggs 18-Pack,7.41,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Eggs Large,Others,small,No Name Large Grade A Eggs 12ct,4.21,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,PC Black Beans,Others,bulk,PC Blue Menu Black Turtle Beans 900g,3.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,PC Black Beans,Others,small,PC Blue Menu Black Beans 540ml,3.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Quaker Oats,Others,bulk,Quaker Quick Oats 5.16kg,14.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Quaker Oats,Others,small,Quaker Quick Oats 1kg,4.29,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,Others,bulk,No Name Naturally Imperfect Russet Potatoes 20 lb Bag 9.07kg,8.48,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Russet Potatoes,Others,small,President's Choice Russet Potatoes 5 lb Bag 2.268kg,5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,Others,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,Others,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Basmati Rice,South Asian,bulk,Daawat Basmati Rice 4kg (no 10kg available),19.49,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Basmati Rice,South Asian,small,Suraj Aged Basmati Rice 1.81kg (closest to 2kg),6.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,South Asian,bulk,No Name 100% Pure Canola Oil 3L,8.79,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Canola Oil,South Asian,small,No Name 100% Pure Canola Oil 946ml (closest to 1L),5.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Chicken Thighs,South Asian,bulk,No Name Club Pack Chicken Thighs Bone-In 2kg (no 3kg pack),22.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Chicken Thighs,South Asian,small,Chicken Thighs Club Pack $11.44/kg (sold by weight; ~1kg),11.44,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Garlic,South Asian,bulk,Garlic Bulbs 1kg bag (no 3-pack or 500g bag),6.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Garlic,South Asian,small,Colossal Fresh Garlic single bulb $9.90/kg (approx $0.99/bulb),0.99,each,True,True,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Plain/Balkan Yogurt,South Asian,bulk,NOT FOUND,,each,False,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Plain/Balkan Yogurt,South Asian,small,Astro Original Balkan Style Plain Yogurt 6% 750g (650g out of stock),2.97,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Roma Tomatoes,South Asian,bulk,Roma Tomatoes per kg - $6.59/kg (no 3kg bag; sold by weight),6.59,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Roma Tomatoes,South Asian,small,Roma Tomatoes per kg - $6.59/kg (approx $0.79/unit),6.59,per_kg,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Toor Dal/Red Lentils,South Asian,bulk,Suraj Split Pigeon Peas 3.63kg (closest to 4kg),15.0,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Toor Dal/Red Lentils,South Asian,small,Suraj Toor Dal Dry 907g (closest to 900g),4.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,South Asian,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Milk,South Asian,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Wheat Atta,South Asian,bulk,Aashirvaad Whole Wheat Flour 9.07kg (~20lb),22.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Whole Wheat Atta,South Asian,small,Quality Whole Wheat Atta Flour 9.07kg (~20lb; no 10lb available),15.99,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Yellow Onions,South Asian,bulk,Farmer's Market Yellow Onions 10lb bag (4.54kg; closest to 5kg),9.5,each,True,False,2026-04-29,False
+Superstore Guildford Surrey,V3R 7C1,Yellow Onions,South Asian,small,Farmer's Market Yellow Onions 3lb bag (1.36kg; closest to 1kg),3.25,each,True,False,2026-04-29,False
+Superstore Lougheed Burnaby,V3K 6P9,Bok Choy,Chinese,bulk,Bok Choy (per kg bulk estimate),8.8,per_kg,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bok Choy,Chinese,small,Bok Choy (per kg),8.8,per_kg,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Chinese,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Chinese,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Firm Tofu,Chinese,bulk,Sunrise Firm Tofu 454g,2.89,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Firm Tofu,Chinese,small,PC Firm Tofu 350g,3.44,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Green Onions,Chinese,bulk,Green Onions 3-bunch pack,2.97,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Green Onions,Chinese,small,Green Onions 1 bunch,0.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Jasmine Rice,Chinese,bulk,PC Jasmine Rice 8kg,19.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Jasmine Rice,Chinese,small,PC Jasmine Rice 2kg,5.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Napa Cabbage,Chinese,bulk,Napa Cabbage 3kg at $3.29/kg,9.87,per_kg,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Napa Cabbage,Chinese,small,Napa Cabbage 1 head ~1.27kg,4.16,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pork Shoulder,Chinese,bulk,Pork Shoulder Blade Club Pack ~3kg,28.23,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pork Shoulder,Chinese,small,Pork Shoulder Blade ~1kg,16.68,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Sesame Oil,Chinese,bulk,Roasted Sesame Oil 1.65L,27.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Sesame Oil,Chinese,small,Roasted Sesame Oil 327ml,6.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Soy Milk,Chinese,bulk,Silk Original Soy Milk 1.89L,4.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Soy Milk,Chinese,small,Silk Original Soy Milk 946ml,3.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1L,8.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Soy Sauce,Chinese,small,Kikkoman Soy Sauce 148ml,5.49,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Butter,European,bulk,Dairyland Creamery Butter 454g x2 (estimated),11.98,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Butter,European,small,No Name Salted Butter 454g,6.19,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Carrots,European,bulk,Farmer's Market Carrots 5lb (2.268kg),7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Carrots,European,small,Farmer's Market Carrots 2lb (907g),3.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Cheddar Cheese,European,bulk,No Name Old Cheddar 700g,8.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Cheddar Cheese,European,small,Black Diamond Medium Cheddar 400g,5.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Diced Canned Tomatoes,European,bulk,No Name Diced Tomatoes 796ml x4 (estimated),7.96,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Diced Canned Tomatoes,European,small,No Name Diced Tomatoes 796ml,1.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,European,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,European,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Greek Yogurt,European,bulk,Oikos Greek Yogurt Plain 1.5kg,11.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Greek Yogurt,European,small,PC Plain Greek Yogurt 750g,6.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Olive Oil,European,bulk,Bertolli Rich Taste Extra Virgin Olive Oil 1L,13.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Olive Oil,European,small,No Name 100% Extra Virgin Olive Oil 750ml,8.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,European,bulk,Farmer's Market Russet Potatoes 10lb (4.54kg),7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,European,small,PC Russet Potatoes 5lb (2.268kg),5.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,European,bulk,Natrel Whole Milk 4L,6.11,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,European,small,Natrel Whole Milk 1L,3.04,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Bread,European,bulk,Bread Whole Wheat Unsliced Club Pack 1.5kg,6.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Bread,European,small,Wonder Whole Wheat Bread 570g,2.86,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Cane Vinegar,Filipino,bulk,Datu Puti Cane Vinegar 1L,2.79,each,True,True,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Cane Vinegar,Filipino,small,Datu Puti Cane Vinegar 385ml,2.79,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Coconut Milk,Filipino,bulk,Aroy-D Coconut Milk 6x400ml pack,14.94,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400ml,2.49,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggplant,Filipino,bulk,Eggplant bulk per kg,6.59,per_kg,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggplant,Filipino,small,Eggplant (per kg),6.59,per_kg,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Filipino,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Filipino,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Fish Sauce,Filipino,bulk,Tiparos Fish Sauce 725ml,3.49,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Fish Sauce,Filipino,small,Tiparos Fish Sauce 200ml,1.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Tilapia,Filipino,bulk,Frozen Tilapia Fillets 1kg,18.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Tilapia,Filipino,small,Frozen Tilapia Fillets 400g,7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Garlic,Filipino,bulk,Garlic 1kg bag,6.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Garlic,Filipino,small,Garlic single bulb ~1ea,0.99,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pork Belly,Filipino,bulk,Pork Belly Club Pack ~3kg at $12.08/kg,36.24,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pork Belly,Filipino,small,Pork Belly ~675g at $12.08/kg,8.15,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,White Long Grain Rice,Filipino,bulk,PC White Long Grain Rice 8kg,17.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,White Long Grain Rice,Filipino,small,PC White Long Grain Rice 2kg,5.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Yellow Onions,Filipino,bulk,Yellow Onions 4.54kg (10lb) bag,9.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Yellow Onions,Filipino,small,Yellow Onions 1.36kg (3lb) bag,3.25,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bison Ground Meat,Indigenous,bulk,Bison Ground Meat bulk not available,,each,False,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Bison Ground Meat,Indigenous,small,PC Free From Bison Burgers 512g (out of stock),20.0,each,False,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening Sticks 567g,6.79,each,True,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Crisco Shortening,Indigenous,small,Crisco All Vegetables Shortening 454g,4.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Indigenous,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Indigenous,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Wild Blueberries,Indigenous,bulk,PC Wild Blueberries 1.5kg,19.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Wild Blueberries,Indigenous,small,PC Canadian Wild Blueberries 400g,5.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Gold Seal Pink Salmon,Indigenous,bulk,GoldSeal Pink Salmon 418g,6.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Gold Seal Pink Salmon,Indigenous,small,GoldSeal Wild Pacific Pink Salmon 213g,4.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pinto Beans Canned,Indigenous,bulk,PC Blue Menu Pinto Beans 900g,3.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Pinto Beans Canned,Indigenous,small,Unico Pinto Beans 540ml,1.39,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,7.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,2.47,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood Original All Purpose Flour 10kg,18.97,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood Original All Purpose Flour 2.5kg,5.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,Indigenous,bulk,Farmer's Market Russet Potatoes 10lb (4.54kg),7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,Indigenous,small,PC Russet Potatoes 5lb (2.268kg),5.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,Indigenous,bulk,Natrel Whole Milk 4L,6.11,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,Indigenous,small,Natrel Whole Milk 1L,3.04,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bean Sprouts,Korean,bulk,Bean Sprouts 454g,2.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bean Sprouts,Korean,small,Bean Sprouts 340g,2.27,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Dried Seaweed/Nori,Korean,bulk,Roasted Seaweed 120g,11.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Dried Seaweed/Nori,Korean,small,Roasted Seaweed Snack 27g,3.49,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Korean,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Korean,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Mackerel,Korean,bulk,Frozen Mackerel 1kg (bulk estimate),7.0,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Frozen Mackerel,Korean,small,Frozen Mackerel 1kg,7.0,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Gochujang,Korean,bulk,Gochujang 1kg+,,each,False,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Gochujang,Korean,small,O Food Gochujang 500g,5.99,each,True,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Kimchi,Korean,bulk,Jongga Kimchi 5kg,,each,False,False,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Kimchi,Korean,small,Jongga Kimchi 1kg,11.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Lean Ground Beef,Korean,bulk,Lean Ground Beef Club Pack ~1.8kg,31.66,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Lean Ground Beef,Korean,small,Lean Ground Beef 450g,9.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Sesame Oil,Korean,bulk,Roasted Sesame Oil 1.65L,27.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Sesame Oil,Korean,small,Roasted Sesame Oil 327ml,6.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Short Grain Rice,Korean,bulk,Kokuho Rose Short Grain Rice 4.54kg,13.49,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Short Grain Rice,Korean,small,Kokuho Rose Short Grain Rice 2.27kg,6.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Silken Tofu,Korean,bulk,Sunrise Silken Tofu 700g,2.98,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Silken Tofu,Korean,small,Sunrise Silken Tofu 454g,2.89,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bananas,Others,bulk,Bananas Bunch per kg (~3kg),5.16,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Bananas,Others,small,Bananas Bunch per kg (~1.15kg),1.98,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Canola Oil,Others,bulk,No Name Canola Oil 3L,8.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Canola Oil,Others,small,No Name Canola Oil 946ml,5.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Carrots,Others,bulk,Farmer's Market Carrots 5lb (2.268kg),7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Carrots,Others,small,Farmer's Market Carrots 2lb (907g),3.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Chicken Breast Boneless,Others,bulk,Chicken Breasts Boneless Skinless Club Pack ~1.8kg,27.37,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Chicken Breast Boneless,Others,small,Chicken Breast Boneless Skinless 1ea,15.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Others,bulk,PC Free Range Large Eggs 18ct,7.41,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Eggs Large,Others,small,PC Free Range Large Eggs 12ct,4.17,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,PC Black Beans Canned,Others,bulk,PC Blue Menu Black Beans 540ml x4 (estimated),6.0,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,PC Black Beans Canned,Others,small,PC Blue Menu Black Beans 540ml,1.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,7.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Quaker Oats,Others,small,Quaker Quick Oats 1kg,2.47,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,Others,bulk,Farmer's Market Russet Potatoes 10lb (4.54kg),7.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Russet Potatoes,Others,small,PC Russet Potatoes 5lb (2.268kg),5.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,Others,bulk,Natrel Whole Milk 4L,6.11,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,Others,small,Natrel Whole Milk 1L,3.04,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Bread,Others,bulk,Bread Whole Wheat Unsliced Club Pack 1.5kg,6.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Bread,Others,small,Wonder Whole Wheat Bread 570g,2.86,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Balkan Yogurt,South Asian,bulk,Astro Balkan Style Yogurt 1.75kg,11.47,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Balkan Yogurt,South Asian,small,Astro Balkan Style Yogurt 750g,2.97,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Basmati Rice,South Asian,bulk,Elephant Basmati Rice 18kg,44.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Basmati Rice,South Asian,small,Daawat Basmati Rice 1.81kg,6.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Canola Oil,South Asian,bulk,No Name Canola Oil 3L,8.79,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Canola Oil,South Asian,small,No Name Canola Oil 946ml,5.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Chicken Thighs,South Asian,bulk,Chicken Thighs Club Pack ~1.8kg,21.23,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Chicken Thighs,South Asian,small,Chicken Thighs bone-in ~1kg,13.0,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Garlic,South Asian,bulk,Garlic 1kg bag,6.0,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Garlic,South Asian,small,Garlic single bulb ~1ea,0.99,each,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Roma Tomatoes,South Asian,bulk,Roma Tomatoes (per kg bulk estimate),6.59,per_kg,True,True,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Roma Tomatoes,South Asian,small,Roma Tomatoes (per kg),6.59,per_kg,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Toor Dal,South Asian,bulk,No Name Yellow Split Peas 2kg,6.49,each,True,True,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Toor Dal,South Asian,small,No Name Yellow Split Peas 1.81kg,7.5,each,True,True,2026-04-30,True
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,South Asian,bulk,Natrel Whole Milk 4L,6.11,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Milk,South Asian,small,Natrel Whole Milk 1L,3.04,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Atta,South Asian,bulk,Robin Hood Whole Wheat Flour 9.07kg (20lb),15.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Whole Wheat Atta,South Asian,small,Robin Hood Whole Wheat Flour 4.55kg (10lb),16.99,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Yellow Onions,South Asian,bulk,Yellow Onions 4.54kg (10lb) bag,9.5,each,True,False,2026-04-30,False
+Superstore Lougheed Burnaby,V3K 6P9,Yellow Onions,South Asian,small,Yellow Onions 1.36kg (3lb) bag,3.25,each,True,False,2026-04-30,False
+Superstore Richmond,V6X 3Z6,Carrots,European,bulk,Farmer's Market Carrots 5LB,7.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Carrots,European,small,Farmer's Market Carrots 2lb bag (no 3lb available),3.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Cheddar Cheese,European,bulk,No Name Old Cheddar Cheese 700g (closest to 1kg),8.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Cheddar Cheese,European,small,Black Diamond Old Cheddar Cheese Bar 400g (sale),5.99,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Dempsters Whole Wheat Bread,European,bulk,Bread Whole Wheat Unsliced Club Pack 1.5kg (Dempsters not available),6.5,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Dempsters Whole Wheat Bread,European,small,Wonder Whole Wheat Bread 570g (Dempsters not available),2.86,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Diced Canned Tomatoes,European,bulk,Aylmer Tomatoes Diced Club Pack 8x796ml (no 6-pack available),18.5,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Diced Canned Tomatoes,European,small,No Name Diced Tomatoes 796ml,1.99,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Eggs Large,European,bulk,Foremost Large Size Eggs 18 Pack (member price),4.77,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Eggs Large,European,small,No Name Large Grade A Eggs 12ct,4.17,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Greek Yogurt,European,bulk,Oikos Greek Yogurt Plain No Added Sugar 2% MF 1.5kg (sale),11.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Greek Yogurt,European,small,President's Choice Plain Greek Yogurt 750g (no 500g available),6.0,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Lean Ground Beef,European,bulk,Butcher's Choice Lean Ground Beef Club Pack approx 2kg at $17.61/kg,35.22,each,True,True,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Lean Ground Beef,European,small,Butcher's Choice Lean Ground Beef 0.45kg,9.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Olive Oil,European,bulk,Gallo Extra Virgin Olive Oil 1L (no 1.5L available),13.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Olive Oil,European,small,PC Splendido Cold-Extracted Extra Virgin Olive Oil 500ml,9.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Russet Potatoes,European,bulk,Farmer's Market Russet Potatoes 10lb bag,7.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Russet Potatoes,European,small,President's Choice Russet Potatoes 5lb bag,5.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,European,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,European,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Bison Ground Meat,Indigenous,bulk,,,each,False,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Bison Ground Meat,Indigenous,small,,,each,False,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,12.99,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Crisco Shortening,Indigenous,small,Crisco All Vegetables Shortening 454g,4.79,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Eggs Large,Indigenous,bulk,Foremost Large Size Eggs 18 Pack (member price),4.77,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Eggs Large,Indigenous,small,No Name Large Grade A Eggs 12ct,4.17,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Frozen Wild Blueberries,Indigenous,bulk,President's Choice Wild Blueberries 1.5kg,19.99,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Frozen Wild Blueberries,Indigenous,small,President's Choice Canadian Wild Blueberries 400g (no 300g),5.0,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Gold Seal Pink Salmon,Indigenous,bulk,GoldSeal Pink Salmon 418g (no 6-pack - double can),6.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Gold Seal Pink Salmon,Indigenous,small,GoldSeal Wild Pacific Pink Salmon 213g,4.79,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Pinto Beans Canned,Indigenous,bulk,Unico Pinto Beans 540ml single (no 6-pack listed - use x6),8.34,each,True,True,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Pinto Beans Canned,Indigenous,small,Unico Pinto Beans 540ml (sale),1.39,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,7.79,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg (sale),2.47,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood Original All Purpose Flour 10kg,18.97,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood Original All Purpose Flour 2.5kg (no 2kg),5.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Russet Potatoes,Indigenous,bulk,Farmer's Market Russet Potatoes 10lb bag,7.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Russet Potatoes,Indigenous,small,PC Organics Organic Russet Potatoes 3lb bag,6.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,Indigenous,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,Indigenous,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Bananas,Others,bulk,Bananas Bunch $1.72/kg (3kg),5.16,each,True,True,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Bananas,Others,small,Bananas Bunch $1.72/kg (1kg),1.72,per_kg,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Canola Oil,Others,bulk,No Name 100% Pure Canola Oil 3L,8.79,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Canola Oil,Others,small,No Name 100% Pure Canola Oil 946ml,5.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Carrots,Others,bulk,Farmer's Market Carrots 5LB,7.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Carrots,Others,small,Farmer's Market Carrots 2lb bag (no 3lb available),3.99,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Chicken Breast Boneless,Others,bulk,No Name Club Pack Chicken Breasts Boneless Skinless 2kg,42.0,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Chicken Breast Boneless,Others,small,Chicken Breast Boneless Skinless Club Pack approx 1kg at $15.17/kg,15.17,each,True,True,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Eggs Large,Others,bulk,Foremost Large Size Eggs 18 Pack (member price),4.77,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Eggs Large,Others,small,No Name Large Grade A Eggs 12ct,4.17,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,PC Black Beans Canned,Others,bulk,PC Blue Menu Black Beans 540ml x6 (no 6-pack SKU),9.0,each,True,True,2026-04-29,True
+Superstore Richmond,V6X 3Z6,PC Black Beans Canned,Others,small,PC Blue Menu Black Beans 540ml (sale),1.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,7.79,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Quaker Oats,Others,small,Quaker Quick Oats 1kg (sale),2.47,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Russet Potatoes,Others,bulk,Farmer's Market Russet Potatoes 10lb bag,7.0,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Russet Potatoes,Others,small,President's Choice Russet Potatoes 5lb bag,5.5,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,Others,bulk,Dairyland 3.25% Milk 4L,6.11,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Milk,Others,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-04-29,False
+Superstore Richmond,V6X 3Z6,Whole Wheat Bread,Others,bulk,Bread Whole Wheat Unsliced Club Pack 1.5kg (2-loaf equiv),6.5,each,True,False,2026-04-29,True
+Superstore Richmond,V6X 3Z6,Whole Wheat Bread,Others,small,Wonder Whole Wheat Bread 570g,2.86,each,True,False,2026-04-29,False
+Walmart Langley,V3A 4H9,Bok Choy,Chinese,bulk,Fresh Bok Choy Bunch bulk,3.47,each,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Bok Choy,Chinese,small,Fresh Bok Choy Bunch,3.47,each,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,Chinese,bulk,Great Value Large White Eggs 18pk,5.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,Chinese,small,Great Value Large White Eggs 12pk,4.18,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Firm Tofu,Chinese,bulk,Sunrise Medium Firm Tofu Twin Pack 2x350g,4.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu 350g,2.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Green Onions,Chinese,bulk,Green Onions 1 Bunch bulk,0.97,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Green Onions,Chinese,small,Green Onions 1 Bunch,0.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Jasmine Rice,Chinese,bulk,Great Value Jasmine Rice 8kg,17.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Jasmine Rice,Chinese,small,Great Value Jasmine Rice 2kg,5.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L,12.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml,4.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Pork Shoulder,Chinese,bulk,Fresh Pork Shoulder Butt Roast per kg,8.8,per_kg,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Pork Shoulder,Chinese,small,Fresh Pork Shoulder Butt Roast per kg,8.8,per_kg,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,Sesame Oil,Chinese,bulk,Lee Kum Kee Pure Sesame Oil 445ml,9.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Sesame Oil,Chinese,small,Lee Kum Kee Pure Sesame Oil 327ml,7.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Silk Soy Milk,Chinese,bulk,Silk Original Soy Beverage 1.89L,4.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Silk Soy Milk,Chinese,small,Silk Original Soy Milk 946ml,2.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,European,bulk,Great Value 3.25% Milk 4L,5.89,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,European,small,Great Value 3.25% Milk 1L,2.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,carrots,European,bulk,5lb bag not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,carrots,European,small,Carrots Your Fresh Market 3lb bag,2.94,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,cheddar cheese,European,bulk,Great Value Old Cheddar Cheese Value Size ~700g,8.77,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,cheddar cheese,European,small,Great Value Old Cheddar Cheese ~400g,5.48,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,diced canned tomatoes,European,bulk,6-pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,diced canned tomatoes,European,small,Great Value Diced Tomatoes 796mL,1.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,European,bulk,GoldEgg Golden D Large 18 Eggs,9.46,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,European,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,greek yogurt,European,bulk,Olympic Krema Plain Yogurt 1.75kg,11.47,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,greek yogurt,European,small,Our Finest 0% Plain Greek Yogurt 750g,5.56,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,lean ground beef,European,bulk,Your Fresh Market Lean Ground Beef Tray 1.25-1.55kg,27.22,each,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,lean ground beef,European,small,Your Fresh Market Lean Ground Beef 450g,8.92,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,olive oil,European,bulk,Healthy Happy Extra Virgin Olive Oil 3L,29.97,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,olive oil,European,small,Great Value Extra Virgin Olive Oil 500mL,5.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,russet potatoes,European,bulk,Potato Russet 10lb bag,4.24,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,russet potatoes,European,small,Your Fresh Market Russet Potatoes 5lb Bag,4.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,European,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,European,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole wheat bread,European,bulk,2-loaf pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,whole wheat bread,European,small,Dempsters 100% Whole Wheat Sliced Bread ~680g,2.86,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,Aroy-D Coconut Milk,Filipino,bulk,Aroy-D Coconut Milk UHT 1000ml,4.77,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Aroy-D Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400ml Can,2.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggplant,Filipino,bulk,Eggplant Singles per kg,5.4,per_kg,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Eggplant,Filipino,small,Eggplant Singles per kg,5.4,per_kg,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,Filipino,bulk,Great Value Large White Eggs 18pk,5.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,Filipino,small,Great Value Large White Eggs 12pk,4.18,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Fish Sauce,Filipino,bulk,Marca Pina Patis Fish Sauce 1L,2.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Fish Sauce,Filipino,small,Squid Brand Fish Sauce 300ml,3.27,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Frozen Tilapia,Filipino,bulk,Catch of the Day Tilapia 3x750g,42.81,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Frozen Tilapia,Filipino,small,Your Fresh Market Tilapia Fillets 400g,9.59,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Garlic,Filipino,bulk,Garlic 1kg Bag,5.97,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Garlic,Filipino,small,White Garlic 3-Pack,1.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Pork Belly,Filipino,bulk,Maple Leaf Fresh Pork Belly Slices per kg,18.7,per_kg,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Pork Belly,Filipino,small,Maple Leaf Fresh Pork Belly Slices per kg,18.7,per_kg,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,White Long Grain Rice,Filipino,bulk,Great Value Long Grain White Rice 8kg,12.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,White Long Grain Rice,Filipino,small,Great Value Long Grain White Rice 2kg,3.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Yellow Onions,Filipino,bulk,YFM Yellow Onions 10lb Bag,6.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Yellow Onions,Filipino,small,YFM Yellow Onions 3lb Bag,2.94,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,Indigenous,bulk,Great Value 3.25% Milk 4L,5.89,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,Indigenous,small,Great Value 3.25% Milk 1L,2.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,bison ground meat,Indigenous,bulk,Not available,,each,False,False,2026-05-07,False
+Walmart Langley,V3A 4H9,bison ground meat,Indigenous,small,Not available,,each,False,False,2026-05-07,False
+Walmart Langley,V3A 4H9,crisco shortening,Indigenous,bulk,1.36kg not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,crisco shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,3.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,Indigenous,bulk,GoldEgg Golden D Large 18 Eggs,9.46,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,Indigenous,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,frozen wild blueberries,Indigenous,bulk,1kg not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,frozen wild blueberries,Indigenous,small,Great Value Frozen Wild Blueberries 400g,5.98,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,gold seal pink salmon canned,Indigenous,bulk,6-pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,gold seal pink salmon canned,Indigenous,small,Clover Leaf Skinless Boneless Pink Salmon sub,4.64,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,pinto beans canned,Indigenous,bulk,6-pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,pinto beans canned,Indigenous,small,Great Value Pinto Beans 540mL,1.27,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,quaker oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,6.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,quaker oats,Indigenous,small,Quaker Quick Oats 1kg,3.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,robin hood all purpose flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,18.88,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,robin hood all purpose flour,Indigenous,small,Robin Hood All Purpose Flour 2.5kg,5.93,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,russet potatoes,Indigenous,bulk,Potato Russet 10lb bag,4.24,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,russet potatoes,Indigenous,small,Your Fresh Market Russet Potatoes 5lb Bag,4.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,Indigenous,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,Indigenous,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,Bean Sprouts,Korean,bulk,Bean Sprouts 1lb,2.27,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Bean Sprouts,Korean,small,Bean Sprouts 1lb,2.27,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,CJ Gochujang,Korean,bulk,Chung Jung One Mild Paste 500g,6.47,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,CJ Gochujang,Korean,small,Chung Jung One Mild Paste 500g,6.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Kimchi Jongga,Korean,bulk,Jongga Kimchi Jar 750g,9.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Kimchi Jongga,Korean,small,Jongga Brand Mat Kimchi 400g,5.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Sesame Oil,Korean,bulk,Lee Kum Kee Pure Sesame Oil 445ml,9.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Sesame Oil,Korean,small,Lee Kum Kee Pure Sesame Oil 327ml,7.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Short Grain Rice,Korean,bulk,Botan Calrose Rice 8kg,22.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Short Grain Rice,Korean,small,Botan Calrose Rice 4kg,12.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,dried seaweed nori,Korean,bulk,Delicious Kitchen Roasted Seaweed Snacks multi-pack,5.97,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,dried seaweed nori,Korean,small,Delicious Kitchen Sushi Nori Roasted Seaweed Sheets,2.97,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,eggs large,Korean,bulk,GoldEgg Golden D Large 18 Eggs,9.46,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,Korean,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,frozen mackerel fillets,Korean,bulk,Not available,,each,False,False,2026-05-07,False
+Walmart Langley,V3A 4H9,frozen mackerel fillets,Korean,small,Not available,,each,False,False,2026-05-07,False
+Walmart Langley,V3A 4H9,lean ground beef,Korean,bulk,Your Fresh Market Lean Ground Beef Tray 1.25-1.55kg,27.22,each,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,lean ground beef,Korean,small,Your Fresh Market Lean Ground Beef 450g,8.92,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,silken tofu,Korean,bulk,Silken tofu 2-pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,silken tofu,Korean,small,Sunrise Extra Firm Tofu 350g sub,3.44,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,Canola Oil,Others,bulk,Great Value Canola Oil 3L,9.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Canola Oil,Others,small,Great Value Canola Oil 1L,3.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,Others,bulk,Great Value 3.25% Milk 4L,5.89,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,Others,small,Great Value 3.25% Milk 1L,2.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,bananas,Others,bulk,Banana sold by weight 3kg avg,1.7,per_kg,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,bananas,Others,small,Banana sold by weight 1kg avg,1.7,per_kg,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,black beans canned,Others,bulk,6-pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,black beans canned,Others,small,Great Value No Salt Added Black Beans 540mL,1.27,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,canola oil,Others,bulk,Great Value Canola Oil 2.84L,6.98,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,canola oil,Others,small,Great Value Canola Oil 1L,3.98,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,carrots,Others,bulk,5lb bag not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,carrots,Others,small,Carrots Your Fresh Market 3lb bag,2.94,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,chicken breast boneless,Others,bulk,Prime Boneless Skinless Chicken Breasts 1.23-1.66 KG tray,25.81,each,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,chicken breast boneless,Others,small,Prime Boneless Skinless Chicken Breasts 0.53-0.71 KG tray,12.85,each,True,True,2026-05-07,True
+Walmart Langley,V3A 4H9,eggs large,Others,bulk,GoldEgg Golden D Large 18 Eggs,9.46,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,eggs large,Others,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,quaker oats,Others,bulk,Quaker Quick Oats 2.25kg,6.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,quaker oats,Others,small,Quaker Quick Oats 1kg,3.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,russet potatoes,Others,bulk,Potato Russet 10lb bag,4.24,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,russet potatoes,Others,small,Your Fresh Market Russet Potatoes 5lb Bag,4.97,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,Others,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole milk 3.25%,Others,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-07,False
+Walmart Langley,V3A 4H9,whole wheat bread,Others,bulk,2-loaf pack not available,,each,False,False,2026-05-07,True
+Walmart Langley,V3A 4H9,whole wheat bread,Others,small,Dempsters 100% Whole Wheat Sliced Bread ~680g,2.86,each,True,False,2026-05-07,True
+Walmart Langley,V3A 4H9,Balkan Yogurt,South Asian,bulk,Astro Balkan Style Plain Yogurt 1.75kg,8.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Balkan Yogurt,South Asian,small,Astro Balkan Style Plain Yogurt 650g,3.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Basmati Rice,South Asian,bulk,Verka Basmati Rice 4.54kg,11.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Basmati Rice,South Asian,small,Great Value Basmati Rice 900g,3.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Canola Oil,South Asian,bulk,Great Value Canola Oil 3L,9.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Canola Oil,South Asian,small,Great Value Canola Oil 1L,3.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Chicken Thighs,South Asian,bulk,Maple Leaf Prime Boneless Skinless 1kg,19.34,each,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Chicken Thighs,South Asian,small,Maple Leaf Prime Boneless Skinless 1kg,19.34,each,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,South Asian,bulk,Great Value Large White Eggs 18pk,5.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Eggs Large,South Asian,small,Great Value Large White Eggs 12pk,4.18,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Garlic,South Asian,bulk,Garlic 1kg Bag,5.97,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Garlic,South Asian,small,White Garlic 3-Pack,1.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,South Asian,bulk,Great Value 3.25% Milk 4L,5.89,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Homo Milk,South Asian,small,Great Value 3.25% Milk 1L,2.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Roma Tomatoes,South Asian,bulk,Roma Tomatoes Singles,5.47,per_kg,True,True,2026-05-06,True
+Walmart Langley,V3A 4H9,Roma Tomatoes,South Asian,small,Roma Tomatoes Singles,5.47,per_kg,True,True,2026-05-06,False
+Walmart Langley,V3A 4H9,Toor Dal Lentils,South Asian,bulk,Suraj Toor Dal 1.8kg,8.27,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Toor Dal Lentils,South Asian,small,Suraj Toor Dal 1.8kg,8.27,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Whole Wheat Atta,South Asian,bulk,Sher Desi Style Whole Wheat Atta 9.07kg,15.47,each,True,False,2026-05-06,True
+Walmart Langley,V3A 4H9,Whole Wheat Atta,South Asian,small,Sher Desi Style Whole Wheat Atta 9.07kg,15.47,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Yellow Onions,South Asian,bulk,YFM Yellow Onions 10lb Bag,6.97,each,True,False,2026-05-06,False
+Walmart Langley,V3A 4H9,Yellow Onions,South Asian,small,YFM Yellow Onions 3lb Bag,2.94,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Bok Choy,Chinese,bulk,Bok Choy Baby 1lb Bag bulk estimate,2.77,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Bok Choy,Chinese,small,Bok Choy Baby 1lb Bag,2.77,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Chinese,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Chinese,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Firm Tofu,Chinese,bulk,Sunrise Extra Firm Tofu 350g bulk estimate,,each,False,False,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu 350g,3.44,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Green Onions,Chinese,bulk,Green Onion bulk estimate,1.47,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Green Onions,Chinese,small,Green Onion,1.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Jasmine Rice,Chinese,bulk,Delicious Kitchen Premium Jasmine Rice 8kg,19.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Jasmine Rice,Chinese,small,Great Value Thai Jasmine Rice 2kg,4.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.89L,15.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 591mL,6.77,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Pork Shoulder,Chinese,bulk,Maple Leaf Fresh Pork Picnic Shoulder Roast ~1.95kg,15.68,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Pork Shoulder,Chinese,small,Maple Leaf Fresh Pork Shoulder Roast ~1.05kg,17.77,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Sesame Oil,Chinese,bulk,Kadoya Pure Sesame Oil 1.65L,21.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Sesame Oil,Chinese,small,Kadoya Pure Sesame Oil 327mL,6.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Silk Soy Milk,Chinese,bulk,Silk Soy Milk Alternative 1.89L,4.78,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Silk Soy Milk,Chinese,small,Silk Soy Milk Alternative 946mL,2.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Carrots,European,bulk,YFM Carrots 3lb bag 1.36kg,2.94,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Carrots,European,small,YFM Baby-cut Carrots 454g,2.94,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Cheddar Cheese,European,bulk,Armstrong Extra Old Cheddar 600g,10.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Cheddar Cheese,European,small,Great Value Medium Cheddar 400g,5.48,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Diced Canned Tomatoes,European,bulk,Great Value Diced Tomatoes 796mL,2.27,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Diced Canned Tomatoes,European,small,Great Value Diced Tomatoes 398mL,1.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,European,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,European,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Greek Yogurt,European,bulk,Oikos Greek Yogurt 0% 850g,6.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Greek Yogurt,European,small,Our Finest 0% Greek Yogurt 750g,5.56,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Homo Milk,European,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Homo Milk,European,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Lean Ground Beef,European,bulk,Lean Ground Beef Tray ~1.4kg,27.22,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Lean Ground Beef,European,small,Ground Beef Lean Tube 454g,7.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Olive Oil,European,bulk,Terra Delyssa Premium EVOO 1L,16.77,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Olive Oil,European,small,Great Value Extra Virgin Olive Oil 1L,10.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,European,bulk,YFM Russet Potatoes 5lb Bag 2.27kg,4.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,European,small,Potato Russet Single,1.16,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,European,bulk,Dempsters 100% Whole Wheat Bread 675g,2.86,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,European,small,Great Value Whole Wheat Bread 570g,2.48,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Aroy-D Coconut Milk,Filipino,bulk,Delicious Kitchen Premium Coconut Milk 400mL,1.57,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Aroy-D Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400mL,2.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggplant,Filipino,bulk,Chinese Eggplant per unit bulk estimate,1.91,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggplant,Filipino,small,Chinese Eggplant per unit,1.91,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Filipino,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Filipino,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Fish Sauce,Filipino,bulk,Three Crabs Brand Fish Sauce 682mL,9.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Fish Sauce,Filipino,small,Squid Brand Fish Sauce 725mL,3.27,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Tilapia,Filipino,bulk,Catch Of The Day Tilapia Fillets 750g,12.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Tilapia,Filipino,small,Searay Tilapia Fillets 350-550g,8.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Garlic,Filipino,bulk,Garlic Bagged 500g,2.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Garlic,Filipino,small,Rooster Garlics Bulbs 3ct,0.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Pork Belly,Filipino,bulk,Maple Leaf Fresh Pork Belly Slices ~3kg,56.1,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Pork Belly,Filipino,small,Maple Leaf Fresh Pork Belly Slices ~1kg,22.59,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,White Long Grain Rice,Filipino,bulk,Great Value Long Grain White Rice 8kg,12.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,White Long Grain Rice,Filipino,small,Great Value Long Grain White Rice 2kg,3.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Yellow Onions,Filipino,bulk,Yellow Onion 4.54kg bag,8.97,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Yellow Onions,Filipino,small,Your Fresh Market Yellow Onions 3lb bag,2.94,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Bison Ground Meat,Indigenous,bulk,Noble Premium Bison Ground 3pk 1.36kg,34.99,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Bison Ground Meat,Indigenous,small,YFM Extra Lean Ground Bison 300g,12.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Crisco Shortening,Indigenous,bulk,Crisco Veg Shortening 1.36kg,10.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Crisco Shortening,Indigenous,small,Crisco Veg Shortening 454g,3.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Indigenous,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Indigenous,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Wild Blueberries,Indigenous,bulk,GV Frozen Wild Blueberries 1.5kg,15.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Wild Blueberries,Indigenous,small,GV Frozen Wild Blueberries 400g,5.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Gold Seal Pink Salmon,Indigenous,bulk,Gold Seal Pink Salmon 418g,8.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Gold Seal Pink Salmon,Indigenous,small,Gold Seal Pink Salmon 213g,4.64,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Homo Milk,Indigenous,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Homo Milk,Indigenous,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Pinto Beans Canned,Indigenous,bulk,GV Pinto Beans Dry 900g,2.97,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Pinto Beans Canned,Indigenous,small,GV Pinto Beans 540mL,1.27,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,6.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,3.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,18.88,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 2.5kg,5.93,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Indigenous,bulk,YFM Russet Potatoes 5lb Bag 2.27kg,4.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Indigenous,small,Potato Russet Single,1.16,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Bean Sprouts,Korean,bulk,Your Fresh Market Bean Sprouts Multi-pack,4.94,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Bean Sprouts,Korean,small,Your Fresh Market Bean Sprouts 397g,2.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,CJ Gochujang,Korean,bulk,Sempio Gochujang Paste 500g,6.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,CJ Gochujang,Korean,small,Chung Jung One Mild Paste 500g,6.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Dried Seaweed Nori,Korean,bulk,Delicious Kitchen Roasted Seaweed Snacks 12x5g,5.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Dried Seaweed Nori,Korean,small,Delicious Kitchen Sushi Nori 10 Sheets,2.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Korean,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Korean,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Mackerel,Korean,bulk,Ferma Frozen Horse Mackerel 750g,6.77,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Frozen Mackerel,Korean,small,Searay Mackerel Fillet 300g,6.47,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Kimchi Jongga,Korean,bulk,The Kimchi 1kg,10.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Kimchi Jongga,Korean,small,Jongga Kimchi 750g,9.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Lean Ground Beef,Korean,bulk,Lean Ground Beef Tray ~1.4kg,27.22,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Lean Ground Beef,Korean,small,Ground Beef Lean Tube 454g,7.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Sesame Oil,Korean,bulk,Kadoya Pure Sesame Oil 1.65L,21.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Sesame Oil,Korean,small,Kadoya Pure Sesame Oil 327mL,6.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Short Grain Rice,Korean,bulk,Nishiki Premium Grade Rice 6.8kg,22.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Short Grain Rice,Korean,small,Hakuro Premium Sushi Rice 2kg,12.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Silken Tofu,Korean,bulk,Mori-Nu Silken Firm Tofu 349g,2.5,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Silken Tofu,Korean,small,Sunrise Soft Tofu 300g,2.27,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Bananas,Others,bulk,Banana 3lb Bag 1.36kg,3.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Bananas,Others,small,Banana Single ~1kg,1.54,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Canola Oil,Others,bulk,Great Value Canola Oil 2.84L,6.98,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Canola Oil,Others,small,Great Value Canola Oil 1L,3.98,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Carrots,Others,bulk,YFM Carrots 3lb bag 1.36kg,2.94,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Carrots,Others,small,YFM Baby-cut Carrots 454g,2.94,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Chicken Breast Boneless,Others,bulk,Lilydale Value Pack ~1.8kg,24.0,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Chicken Breast Boneless,Others,small,Maple Leaf Prime Boneless ~1.23kg,30.96,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,Eggs Large,Others,bulk,Great Value Large White 30 Eggs,10.22,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Eggs Large,Others,small,Great Value Large 12 Eggs,4.21,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Homo Milk,Others,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Homo Milk,Others,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,PC Black Beans,Others,bulk,GV Black Turtle Beans Dry 900g,2.97,each,True,True,2026-05-06,True
+Walmart Surrey,V3Z 0C6,PC Black Beans,Others,small,GV Black Turtle Beans 540mL,1.27,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,6.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Quaker Oats,Others,small,Quaker Quick Oats 1kg,3.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Others,bulk,YFM Russet Potatoes 5lb Bag 2.27kg,4.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Others,small,Potato Russet Single,1.16,each,True,True,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,Others,bulk,Dempsters 100% Whole Wheat Bread 675g,2.86,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,Others,small,Great Value Whole Wheat Bread 570g,2.48,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Balkan Yogurt,South Asian,bulk,Astro Original Balkan Style Yogurt 1.75kg,7.28,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Balkan Yogurt,South Asian,small,Astro Original Balkan Style Plain Yogurt 6% 750g,3.27,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Basmati Rice,South Asian,bulk,Tilda Pure Basmati Rice 4.54kg,18.97,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Basmati Rice,South Asian,small,Great Value Basmati Rice (~2kg),5.97,each,True,False,2026-05-05,True
+Walmart Surrey,V3Z 0C6,Canola Oil,South Asian,bulk,Great Value Canola Oil 2.84L,6.98,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Canola Oil,South Asian,small,Great Value Canola Oil 1L,3.98,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Chicken Thighs,South Asian,bulk,Mina Halal Chicken Thighs Value Pack per kg,8.5,per_kg,True,True,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Chicken Thighs,South Asian,small,Mina Halal Chicken Thighs Value Pack per kg,8.5,per_kg,True,True,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Garlic,South Asian,bulk,Garlic Bagged 500g,2.97,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Garlic,South Asian,small,Rooster Garlics Bulbs 3ct,0.98,each,True,False,2026-05-06,False
+Walmart Surrey,V3Z 0C6,Homo Milk,South Asian,bulk,Dairyland 3.25% Homogenized Milk 4L,6.11,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Homo Milk,South Asian,small,Dairyland 3.25% Milk 1L,3.04,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Roma Tomatoes,South Asian,bulk,Roma Tomato per kg,4.2,per_kg,True,True,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Roma Tomatoes,South Asian,small,Roma Tomato per kg,4.2,per_kg,True,True,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Toor Dal Lentils,South Asian,bulk,Sitara Split Pigeon Peas (Toor) 1.8kg,7.64,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Toor Dal Lentils,South Asian,small,Sitara Split Red Lentils,3.88,each,True,False,2026-05-05,True
+Walmart Surrey,V3Z 0C6,Whole Wheat Atta,South Asian,bulk,Sher Desi Durum Flour 9.07kg,18.47,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Whole Wheat Atta,South Asian,small,Sher Whole Wheat White Flour 4.54kg,22.38,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Yellow Onions,South Asian,bulk,Yellow Onion 4.54kg bag,8.97,each,True,False,2026-05-05,False
+Walmart Surrey,V3Z 0C6,Yellow Onions,South Asian,small,Your Fresh Market Yellow Onions 3lb bag,2.94,each,True,False,2026-05-05,False
+Walmart Surrey Downtown,V3R 0A1,Bok Choy,Chinese,bulk,NOT FOUND – no 2kg bag,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bok Choy,Chinese,small,Baby Bok Choy 500g,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Chinese,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Chinese,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Chinese,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu 350g,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Chinese,bulk,NOT FOUND – no 3-bunch pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Chinese,small,Green Onions single bunch,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Chinese,bulk,Golden Star Jasmine Rice 10kg,22.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Chinese,small,Golden Star Jasmine Rice 2kg,6.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.89L,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 500ml,4.47,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Chinese,bulk,NOT FOUND – single size only,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Chinese,small,Maple Leaf Pork Belly ~1kg by weight,22.59,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Shoulder,Chinese,bulk,NOT FOUND – no 3kg fixed pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Shoulder,Chinese,small,Pork Shoulder Blade ~1kg by weight,8.97,per_kg,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Chinese,bulk,Kadoya Sesame Oil 500ml,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Chinese,small,Lee Kum Kee Sesame Oil 207ml,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silk Soy Milk,Chinese,bulk,Silk Soy Milk Original 1.89L,5.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silk Soy Milk,Chinese,small,Silk Soy Milk Original 946ml,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Chinese,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Chinese,small,Sunrise Silken Tube Tofu ~300g,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Carrots,European,bulk,Carrots 3 lb bag,2.94,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Carrots,European,small,Baby-cut Carrots 454g,2.94,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Cheddar Cheese,European,bulk,Great Value Old Cheddar Value Size ~700g,8.77,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Cheddar Cheese,European,small,Great Value Old Cheddar 400g,5.48,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,European,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,European,small,Great Value Diced Tomatoes 796ml,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,European,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,European,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,European,bulk,NOT FOUND – no 1.5kg,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,European,small,Our Finest 0% Plain Greek Yogurt ~750g,5.56,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,European,bulk,Natrel Homo Milk 4L,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,European,small,Dairyland Homo Milk 1L,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,European,bulk,Lean Ground Beef Value Size ~1.36kg by weight,22.68,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,European,small,Lean Ground Beef ~450g by weight,8.78,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Olive Oil,European,bulk,Great Value EVOO 1L,10.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Olive Oil,European,small,Great Value EVOO 500ml,5.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,European,bulk,Russet Potatoes 10 lb,4.24,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,European,small,Russet Potatoes 5 lb,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,European,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,European,small,Great Value Whole Wheat Bread ~564g,2.48,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Coconut Milk,Filipino,bulk,M2N2 Organic Coconut Milk 6×400ml,19.0,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Coconut Milk,Filipino,small,Delicious Kitchen Coconut Milk 400ml,1.57,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggplant,Filipino,bulk,NOT FOUND – no 2kg bag,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggplant,Filipino,small,Eggplant single ~0.45kg by weight,2.77,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Filipino,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Filipino,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Fish Sauce,Filipino,bulk,Marca Pina Fish Sauce 1L,2.98,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Fish Sauce,Filipino,small,Blue Dragon Fish Sauce 150ml,2.77,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Tilapia,Filipino,bulk,Great Value Tilapia Fillets 2kg,17.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Tilapia,Filipino,small,Great Value Tilapia Fillets 680g,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Garlic,Filipino,bulk,Garlic 500g bag,5.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Garlic,Filipino,small,Garlic 3-pack,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Filipino,bulk,NOT FOUND – no 3-bunch pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Filipino,small,Green Onions single bunch,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Filipino,bulk,Golden Star Jasmine Rice 10kg,22.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Filipino,small,Golden Star Jasmine Rice 2kg,6.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Filipino,bulk,NOT FOUND – single size only,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Filipino,small,Maple Leaf Pork Belly ~1kg by weight,22.59,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,White Rice,Filipino,bulk,Great Value Long Grain White Rice 9kg,14.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,White Rice,Filipino,small,Great Value Long Grain White Rice 2kg,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,Filipino,bulk,Yellow Onion 5kg bag,7.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,Filipino,small,Yellow Onion 1kg bag,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bison Ground Meat,Indigenous,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bison Ground Meat,Indigenous,small,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Crisco Shortening,Indigenous,bulk,NOT FOUND – no large size,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Indigenous,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Indigenous,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Wild Blueberries,Indigenous,bulk,Great Value Frozen Cultivated Blueberries 1.75kg,14.08,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Wild Blueberries,Indigenous,small,Great Value Frozen Wild Blueberries 400g,5.98,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Gold Seal Pink Salmon Canned,Indigenous,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Gold Seal Pink Salmon Canned,Indigenous,small,Clover Leaf Pink Salmon 213g,4.64,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,Indigenous,bulk,Natrel Homo Milk 4L,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,Indigenous,small,Dairyland Homo Milk 1L,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pinto Beans Canned,Indigenous,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Pinto Beans Canned,Indigenous,small,Great Value Pinto Beans ~540ml,1.27,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2×2.58kg,24.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Indigenous,small,Quaker Quick Oats ~1kg,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,18.88,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 2.5kg,5.93,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10 lb,4.24,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Indigenous,small,Russet Potatoes 5 lb,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bean Sprouts,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bean Sprouts,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Dried Seaweed / Nori,Korean,bulk,Delicious Kitchen Roasted Seaweed ~60g,5.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Dried Seaweed / Nori,Korean,small,Delicious Kitchen Sushi Nori 28g,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Korean,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Korean,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Korean,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Korean,small,Sunrise Extra Firm Tofu 350g,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Mackerel Fillets,Korean,bulk,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Frozen Mackerel Fillets,Korean,small,NOT FOUND,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Gochujang,Korean,bulk,Sempio Gochujang 2.8kg,39.99,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Gochujang,Korean,small,NOT FOUND – 500g,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Kimchi,Korean,bulk,The Kimchi (Samyang) ~800g,10.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Kimchi,Korean,small,Jongga Mat Kimchi 400g,5.47,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,Korean,bulk,Lean Ground Beef Value Size ~1.36kg by weight,22.68,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,Korean,small,Lean Ground Beef ~450g by weight,8.78,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Korean,bulk,Kadoya Sesame Oil 500ml,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Korean,small,Lee Kum Kee Sesame Oil 207ml,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Short Grain / Sushi Rice,Korean,bulk,Hakuro Premium Short Grain 6.8kg,12.98,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Short Grain / Sushi Rice,Korean,small,Kokuho Rose 2.2 lb (~1kg),7.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Korean,bulk,NOT FOUND – no 2-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Korean,small,Sunrise Silken Tube Tofu ~300g,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bananas,Others,bulk,Bananas by weight (no bag format),0.17,per_100g,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Bananas,Others,small,Bananas by weight,0.17,per_100g,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Others,bulk,Mazola Canola Oil 3L,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Others,small,Mazola Canola Oil 1L,4.47,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Carrots,Others,bulk,Carrots 3 lb bag,2.94,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Carrots,Others,small,Baby-cut Carrots 454g,2.94,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,Others,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,Others,small,Great Value Diced Tomatoes 796ml,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Others,bulk,Great Value Eggs Large 30ct,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Others,small,Great Value Eggs Large 12ct,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,Others,bulk,Natrel Homo Milk 4L,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,Others,small,Dairyland Homo Milk 1L,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,Others,bulk,Lean Ground Beef Value Size ~1.36kg by weight,22.68,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Lean Ground Beef,Others,small,Lean Ground Beef ~450g by weight,8.78,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,PC Black Beans Canned,Others,bulk,NOT FOUND – no 6-pack (PC not carried),,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,PC Black Beans Canned,Others,small,Great Value Black Turtle Beans ~540ml,1.27,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Others,bulk,Russet Potatoes 10 lb,4.24,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Others,small,Russet Potatoes 5 lb,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,White Rice,Others,bulk,Great Value Long Grain White Rice 9kg,14.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,White Rice,Others,small,Great Value Long Grain White Rice 2kg,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,Others,bulk,NOT FOUND – no 2-loaf pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,Others,small,Great Value Whole Wheat Bread ~564g,2.48,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Balkan Yogurt,South Asian,bulk,Astro Balkan Yogurt 1.75kg,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Balkan Yogurt,South Asian,small,Astro Balkan Yogurt 650g,4.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Basmati Rice,South Asian,bulk,Royal Basmati Rice 10kg,18.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Basmati Rice,South Asian,small,Laziza Basmati Rice 2kg,7.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,South Asian,bulk,Mazola Canola Oil 3L,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,South Asian,small,Mazola Canola Oil 1L,4.47,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Chicken Thighs,South Asian,bulk,Fresh Chicken Thighs Club Pack ~3kg,24.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Chicken Thighs,South Asian,small,Fresh Chicken Thighs ~1kg,9.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,South Asian,bulk,NOT FOUND – no 6-pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,South Asian,small,Great Value Diced Tomatoes 796ml,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Garlic,South Asian,bulk,Garlic 500g bag,5.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Garlic,South Asian,small,Garlic 3-pack,3.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,South Asian,bulk,NOT FOUND – no 1.5kg,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,South Asian,small,Our Finest 0% Plain Greek Yogurt ~750g,5.56,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,South Asian,bulk,NOT FOUND – no 3-bunch pack,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Green Onions,South Asian,small,Green Onions single bunch,1.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,South Asian,bulk,Natrel Homo Milk 4L,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Homo Milk,South Asian,small,Dairyland Homo Milk 1L,2.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Roma Tomatoes,South Asian,bulk,NOT FOUND – no 3kg bag,,each,False,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Roma Tomatoes,South Asian,small,Roma Tomatoes by weight,3.97,per_kg,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Toor Dal,South Asian,bulk,Deep Toor Dal 4kg,15.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Toor Dal,South Asian,small,Deep Toor Dal 2kg,8.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Atta,South Asian,bulk,Swad Whole Wheat Atta 10kg,19.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Atta,South Asian,small,Swad Whole Wheat Atta 2kg,7.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,South Asian,bulk,Yellow Onion 5kg bag,7.97,each,True,False,2026-04-26,False
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,South Asian,small,Yellow Onion 1kg bag,3.97,each,True,False,2026-04-26,False
