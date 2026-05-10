@@ -155,7 +155,6 @@ See [about.html](about.html) for full methodology, community guides, and the res
 
 **Kritubvna Sharma** · Volunteer Contributor, GLOCAL Foundation of Canada · Task T01207  
 📧 [kritubvnabhattarai10@gmail.com](mailto:kritubvnabhattarai10@gmail.com)  
-🌐 [metro-price-sentinel.netlify.app](https://metro-price-sentinel.netlify.app)
 
 ---
 
