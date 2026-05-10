@@ -1,6 +1,6 @@
 # Metro Vancouver Price Sentinel Network
 
-> **Live site:** [metro-price-sentinel.netlify.app](https://metro-price-sentinel.netlify.app)
+> **Live site:** [metrovancouverpricesentiel.netlify.app]
 
 Metro Vancouver's first culturally-specific grocery affordability tracker. Monitors prices at 10 stores across Metro Vancouver and calculates two metrics no other public tool tracks:
 
