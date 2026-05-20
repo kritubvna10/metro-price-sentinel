@@ -128,7 +128,7 @@ python3 -m http.server 8000
 
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others
 - **10 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley
-- **1,424 price data points** collected April–May 2026
+- **1,408 price data points** collected April–May 2026
 - **2 package sizes** (small + bulk) per product to calculate the poverty penalty
 
 The poverty penalty in the pilot data ranges from **$19.26 to $51.22 per bi-weekly trip** — between **$500 and $1,319 per year** — paid by families who cannot afford bulk purchases.
