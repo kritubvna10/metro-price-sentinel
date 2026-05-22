@@ -1,11 +1,11 @@
 # Metro Vancouver Price Sentinel Network
 
-Metro Vancouver's first culturally-specific grocery affordability tracker. Monitors prices at 10 stores across Metro Vancouver and calculates two metrics no other public tool tracks:
+Metro Vancouver's first culturally-specific grocery affordability tracker. Monitors prices at 15 stores across Metro Vancouver and calculates two metrics no other public tool tracks:
 
 - **Store Premium Score** — how much each store charges above or below the Statistics Canada BC provincial baseline
 - **Poverty Penalty** — the extra dollars low-income families pay per bi-weekly basket *just because* they cannot afford to buy in bulk
 
-**Pilot data: April–May 2026**
+**Pilot data: May 2026 (updated weekly)**
 
 ---
 
@@ -24,8 +24,6 @@ The dashboard reads `sentinel_prices_master.csv` at runtime using `fetch()` + Pa
 ---
 
 ## Deploy to GitHub Pages
-
-### First deploy
 
 ```bash
 # 1. Create a new GitHub repo (e.g. metro-price-sentinel)
@@ -65,8 +63,8 @@ Your site will be live at `https://YOUR_USERNAME.github.io/metro-price-sentinel/
 
 ### Weekly update steps
 
-1. Collect new prices from store websites (pcexpress.ca, walmart.ca, saveonfoods.com)
-2. Add new rows to `sentinel_prices_master.csv` — keep the header row unchanged
+1. Collect new prices from store websites (pcexpress.ca, walmart.ca, saveonfoods.com, nofrills.ca)
+2. Replace rows in `sentinel_prices_master.csv` with fresh data — keep the header row unchanged
 3. Set `available = False` and leave `price_cad` blank for out-of-stock items
 4. Commit and push:
 
@@ -94,8 +92,6 @@ GitHub Pages redeploys automatically. No rebuild step needed.
 
 ## Category → StatCan baseline mapping
 
-The dashboard auto-categorizes products by keyword matching on `product_name`:
-
 | Category | Keywords | StatCan BC Baseline |
 |----------|----------|-------------------|
 | Staple | rice, bread, oil, flour, atta, shortening, noodle, sesame oil, soy sauce | $4.89 |
@@ -108,8 +104,6 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 ---
 
 ## Local development
-
-No build tools required. Open directly in a browser:
 
 ```bash
 # macOS / Linux
@@ -127,8 +121,9 @@ python3 -m http.server 8000
 ## Project background
 
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others
-- **10 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley
-- **1,408 price data points** collected April–May 2026
+- **15 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta
+- **3 chain tiers** — discount (No Frills), mid-tier (Superstore, Save-On-Foods), mass (Walmart)
+- **2,108 price data points** collected May 2026, updated weekly
 - **2 package sizes** (small + bulk) per product to calculate the poverty penalty
 
 The poverty penalty in the pilot data ranges from **$19.26 to $51.22 per bi-weekly trip** — between **$500 and $1,319 per year** — paid by families who cannot afford bulk purchases.
@@ -144,4 +139,4 @@ kritubvnabhattarai10@gmail.com
 
 ---
 
-*Data collected from store websites. Some prices approximate. Pilot phase — April–May 2026.*
+*Data collected from store websites. Some prices approximate. May 2026, updated weekly.*
