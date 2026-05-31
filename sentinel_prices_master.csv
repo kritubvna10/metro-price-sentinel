@@ -2107,3 +2107,283 @@ No Frills Delta,V4C 0C7,Quaker Oats,Others,small,Quaker Quick Oats 1kg (prices v
 No Frills Delta,V4C 0C7,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg (prices verified same as Burnaby storeId=9482),7.79,each,TRUE,FALSE,2026-05-21,FALSE
 No Frills Delta,V4C 0C7,Bananas,Others,small,Bananas Bunch by weight OOS (prices verified same as Burnaby storeId=9482),1.72,per_kg,FALSE,TRUE,2026-05-21,TRUE
 No Frills Delta,V4C 0C7,Bananas,Others,bulk,Bananas Bunch by weight OOS (prices verified same as Burnaby storeId=9482),1.72,per_kg,FALSE,TRUE,2026-05-21,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Basmati Rice,South Asian,small,Ben's Original Basmati Rice 1.6 kg (target: 2 kg — closest available),12.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Basmati Rice,South Asian,bulk,Chalo! Basmati Rice 4.54 kg (target: 10 kg — no 10 kg available),13.00,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Atta,South Asian,small,No ~4.5 kg (10 lb) atta found — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Atta,South Asian,bulk,Sher Whole Wheat Flour Durum Atta Desi Style 9.07 kg (target: 20 lb ≈ 9.07 kg),16.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Toor Dal,South Asian,small,Chalo Toor Dal Split Pigeons Peas 1.81 kg (target: 900 g — only size available),7.00,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Toor Dal,South Asian,bulk,Chalo Toor Dal Split Pigeons Peas 1.81 kg (target: 4 kg — no 4 kg available),7.00,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,South Asian,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,South Asian,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Yellow Onions,South Asian,small,Compliments Onions Yellow 1.36 kg (target: 1 kg — closest packaged),3.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Yellow Onions,South Asian,bulk,Yellow Onions Medium 4.54 kg (target: 5 kg — Out of Stock),10.99,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Roma Tomatoes,South Asian,small,Roma Tomato (Plum Tomato) — sold by weight $6.59/kg (on sale from $8.80/kg),6.59,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Roma Tomatoes,South Asian,bulk,Roma Tomato (Plum Tomato) — sold by weight $6.59/kg; no 3 kg bag available,6.59,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Chicken Thighs,South Asian,small,Compliments Chicken Thighs $11.00/kg (variable weight ~0.58 kg pack shown),11.00,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Chicken Thighs,South Asian,bulk,Compliments Chicken Thighs Value Pack $11.00/kg (variable weight ~1.4 kg pack shown; no 3 kg pack),11.00,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Balkan Yogurt,South Asian,small,Astro Original 3.25% Yogurt Balkan Style 650 g,3.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Balkan Yogurt,South Asian,bulk,Olympic Organic 3.5% Yogurt Plain 1.75 kg (target: 1.75 kg Balkan — no Balkan 1.75 kg available),12.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Garlic,South Asian,small,Fresh Whole Garlic 5 Pack (target: single bulb — closest packaged; on sale from $1.49),1.28,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Garlic,South Asian,bulk,Garlic 1000 g bag (target: 500 g — only 1 kg bag available),5.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Canola Oil,South Asian,small,Compliments Canola Oil 100% Pure 946 ml (target: 1 L),5.79,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Canola Oil,South Asian,bulk,Compliments Canola Oil Pure 3 L,13.79,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Jasmine Rice,Chinese,small,Dainty Rice Jasmine 1.6 kg (target: 2 kg — closest available),9.47,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Jasmine Rice,Chinese,bulk,Vita Rice Jasmine Value Size 8 kg (target: 10 kg — no 10 kg available),16.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Bok Choy,Chinese,small,Bok Choy 1 Bunch — $4.39/kg sold by weight (target: 500 g),4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bok Choy,Chinese,bulk,Bok Choy — $4.39/kg sold by weight; no 2 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Firm Tofu,Chinese,small,Soyganic Organic Tofu Extra Firm 350 g (on sale from $3.79),3.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Firm Tofu,Chinese,bulk,No 2-pack firm tofu available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296 ml (target: 250 ml — on sale from $5.49),3.98,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2 L (target: 1.89 L — no 1.89 L available; on sale from $12.99),9.98,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Silk Soy Milk,Chinese,small,Silk Dairy-Free Unsweetened Soy Milk 946 ml (on sale from $3.29),2.79,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Silk Soy Milk,Chinese,bulk,Silk Dairy-Free Soy Milk Alternative Original 1.89 L,4.00,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Chinese,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Chinese,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Green Onions,Chinese,small,Green Onions 1 Count (1 bunch),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Green Onions,Chinese,bulk,Green Onions 3 bunches (target: 3-bunch pack — not sold as pre-pack; 3 x $1.49),4.47,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Sesame Oil,Chinese,small,Lee Kum Kee Pure Sesame Oil 443 ml (target: 327 ml — on sale from $8.49),5.88,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Sesame Oil,Chinese,bulk,No 1 L sesame oil available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Pork Shoulder,Chinese,small,Picnic Bone In Pork Shoulder $11.00/kg (variable weight ~1 kg),11.00,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Pork Shoulder,Chinese,bulk,Picnic Bone In Pork Shoulder $11.00/kg; no 3 kg fixed pack,11.00,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Napa Cabbage,Chinese,small,Napa Cabbage 1 Count — $4.39/kg sold by weight,4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Napa Cabbage,Chinese,bulk,Napa Cabbage — $4.39/kg sold by weight; no 3 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,White Rice,Filipino,small,Dainty Rice Jasmine 1.6 kg used as White Rice proxy (target: 2 kg),9.47,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,White Rice,Filipino,bulk,Vita Rice Jasmine Value Size 8 kg used as White Rice proxy (target: 10 kg),16.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Frozen Tilapia,Filipino,small,Compliments Naturally Simple Frozen Tilapia Fillets 400 g (target: 500 g),5.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Frozen Tilapia,Filipino,bulk,Eight Treasures Frozen Whole Uncooked Tilapia 1.36 kg (target: 2 kg — no 2 kg available),10.00,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Yellow Onions,Filipino,small,Compliments Onions Yellow 1.36 kg (target: 2 kg — closest packaged),3.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Yellow Onions,Filipino,bulk,Yellow Onions Medium 4.54 kg (target: 5 kg — Out of Stock),10.99,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Coconut Milk,Filipino,small,Eight Treasures Canned Coconut Milk 400 ml (on sale from $1.69),1.18,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Coconut Milk,Filipino,bulk,Coconut Milk 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Fish Sauce,Filipino,small,Kim Phat Fish Sauce 298 ml (target: 350 ml — on sale from $3.49),2.98,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Fish Sauce,Filipino,bulk,Pangasinan Patis Fish Sauce 750 ml (target: 750 ml — on sale from $3.99),2.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Pork Belly,Filipino,small,Fresh and Sliced Pork Belly $18.72/kg (variable weight ~1 kg),18.72,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Pork Belly,Filipino,bulk,Pork Belly Boneless Skinless Value Size $11.00/kg ~3.47 kg (Out of Stock),11.00,per_kg,FALSE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Filipino,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Filipino,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggplant,Filipino,small,Eggplant 1 Count — $4.39/kg (on sale from $6.59/kg) sold by weight (target: 500 g),4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggplant,Filipino,bulk,Eggplant — $4.39/kg sold by weight; no 2 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Garlic,Filipino,small,Fresh Whole Garlic 5 Pack (target: 3-pack — closest packaged; on sale from $1.49),1.28,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Garlic,Filipino,bulk,Garlic 1000 g bag (target: 500 g — only 1 kg bag available),5.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Cane Vinegar,Filipino,small,No cane vinegar found; Compliments White Vinegar 500 ml (closest substitute),0.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Cane Vinegar,Filipino,bulk,No cane vinegar found; Compliments White Vinegar 1 L (closest substitute),1.79,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Short Grain Rice,Korean,small,Dunya Harvest Rice Calrose 2 kg,8.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Short Grain Rice,Korean,bulk,Japan Foods Botan Calrose Rice Value Size 8 kg (target: 9 kg — closest available),22.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Kimchi,Korean,small,No fresh kimchi available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Kimchi,Korean,bulk,No fresh kimchi available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Gochujang,Korean,small,No gochujang paste available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Gochujang,Korean,bulk,No gochujang paste available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bean Sprouts,Korean,small,Bean Sprouts 227 g (target: 340 g — closest available),2.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Bean Sprouts,Korean,bulk,No 1 kg bean sprouts available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Ground Beef,Korean,small,Regular Ground Beef ~500 g,8.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Ground Beef,Korean,bulk,No 2 kg ground beef in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Sesame Oil,Korean,small,Lee Kum Kee Pure Sesame Oil 443 ml (target: 327 ml — on sale from $8.49),5.88,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Sesame Oil,Korean,bulk,No 1 L sesame oil available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Nori,Korean,small,No nori sheets available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Nori,Korean,bulk,No nori sheets available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Silken Tofu,Korean,small,Sunrise Tofu Soft 300 g (on sale from $1.79),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Silken Tofu,Korean,bulk,No 2-pack silken tofu in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Frozen Mackerel,Korean,small,AA-1 Hasa Hasa Frozen Indian Mackerel 450 g (target: 300 g — on sale from $3.99),3.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Frozen Mackerel,Korean,bulk,No 1 kg mackerel available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Korean,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Korean,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Bread,European,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Bread,European,bulk,No 2-loaf pack available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,European,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,European,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Cheddar,European,small,Compliments Block Cheese Medium Cheddar 400 g (on sale from $5.99),4.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Cheddar,European,bulk,Compliments Cheddar Cheese Mild Marble Value Size 700 g (target: 1 kg — no 1 kg available),9.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,European,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,European,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Ground Beef,European,small,Regular Ground Beef ~500 g,8.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Ground Beef,European,bulk,No 2 kg ground beef in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,European,small,Potatoes Russet Cello 2.27 kg (target: 5 lb = 2.27 kg),4.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,European,bulk,Potatoes Russet 4.54 kg (target: 10 lb = 4.54 kg),7.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Carrots,European,small,Carrots (3 lbs) 1.36 kg,4.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Carrots,European,bulk,No 5 lb (2.27 kg) carrot bag in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Olive Oil,European,small,Compliments Organic Extra Virgin Olive Oil 500 ml,9.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Olive Oil,European,bulk,Compliments Olive Oil Extra Virgin Pure Rich Taste 2 L,28.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Diced Tomatoes,European,small,Unico Diced Tomatoes 796 ml (on sale from $2.69),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Diced Tomatoes,European,bulk,Diced Tomatoes 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Greek Yogurt,European,small,Compliments 0% Greek Yogurt Plain 650 g (target: 500 g),4.50,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Greek Yogurt,European,bulk,Liberte Greek 0% Yogurt Plain High Protein 1 kg (target: 1.5 kg — no 1.5 kg available),9.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Gold Seal Salmon,Indigenous,small,Clover Leaf Pink Salmon 213 g (Gold Seal brand not available),3.99,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Gold Seal Salmon,Indigenous,bulk,No 6-pack canned salmon available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Robin Hood Flour,Indigenous,small,Robin Hood All Purpose Flour Original 2.5 kg (target: 2 kg — closest same-brand),6.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Robin Hood Flour,Indigenous,bulk,Robin Hood All Purpose Flour Original 10 kg,19.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Wild Blueberries,Indigenous,small,Compliments Frozen Wild Blueberries 300 g,5.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Wild Blueberries,Indigenous,bulk,No 1 kg wild blueberries in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bison,Indigenous,small,No bison meat available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bison,Indigenous,bulk,No bison meat available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,Indigenous,small,Potatoes Russet Cello 2.27 kg (target: 3 lb = 1.36 kg — closest in stock),4.49,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,Indigenous,bulk,Potatoes Russet 4.54 kg (target: 10 lb = 4.54 kg),7.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,Indigenous,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,Indigenous,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Indigenous,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Indigenous,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Pinto Beans,Indigenous,small,No 540 ml canned pinto beans found — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Pinto Beans,Indigenous,bulk,No pinto beans 6-pack available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Quaker Oats,Indigenous,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Crisco Shortening,Indigenous,small,Crisco All Vegetable Shortening 454 g,4.79,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Crisco Shortening,Indigenous,bulk,No 1.36 kg Crisco available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Bread,Others,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Wheat Bread,Others,bulk,No 2-loaf pack available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,Others,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Whole Milk,Others,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Others,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Eggs Large,Others,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Chicken Breast,Others,small,Compliments Chicken Breasts Boneless Skinless $16.51/kg (target: 1 kg),16.51,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Chicken Breast,Others,bulk,Compliments Chicken Breast Air Chilled Boneless Skinless Value Size $17.39/kg (target: 1.8 kg),17.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,Others,small,Potatoes Russet Cello 2.27 kg (target: 5 lb = 2.27 kg),4.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Russet Potatoes,Others,bulk,Potatoes Russet 4.54 kg (target: 10 lb = 4.54 kg),7.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Carrots,Others,small,Carrots (3 lbs) 1.36 kg,4.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Carrots,Others,bulk,No 5 lb (2.27 kg) carrot bag in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Black Beans,Others,small,Unico Black Beans 540 ml (on sale from $1.99),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Black Beans,Others,bulk,Black Beans 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Canola Oil,Others,small,Compliments Canola Oil 100% Pure 946 ml (target: 1 L),5.79,each,TRUE,FALSE,2026-05-30,TRUE
+FreshCo No 2 & Blundell,V7C1H8,Canola Oil,Others,bulk,Compliments Canola Oil Pure 3 L,13.79,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Quaker Oats,Others,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bananas,Others,small,Bananas 1 Bunch (5-6 bananas) — $1.74/kg sold by weight (target: 1 kg),1.74,per_kg,TRUE,TRUE,2026-05-30,FALSE
+FreshCo No 2 & Blundell,V7C1H8,Bananas,Others,bulk,Bananas sold by weight $1.74/kg; no 3 kg pre-packaged bag available,1.74,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Basmati Rice,South Asian,small,Tilda Basmati Rice Original 1.81 kg (target: 2 kg — on sale from $11.99),9.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Basmati Rice,South Asian,bulk,India Gate Basmati Rice Premium 4.5 kg (target: 10 kg — no 10 kg available),16.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Atta,South Asian,small,Aashirwaad Atta Multigrain 4.54 kg (target: 10 lb/4.54 kg — multigrain variety),12.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Atta,South Asian,bulk,Sher Whole Wheat Flour Durum Atta Desi Style 9.07 kg (target: 20 lb/9.07 kg — on sale from $18.97),16.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Toor Dal,South Asian,small,Chalo Toor Dal Split Pigeons Peas 1.81 kg (target: 900 g — only size in stock),7.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Toor Dal,South Asian,bulk,Chalo Split Pigeon Peas Toor Dal 3.63 kg (target: 4 kg — closest available),15.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,South Asian,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,South Asian,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,South Asian,small,Compliments Onions Yellow 1.36 kg (target: 1 kg — closest packaged),3.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,South Asian,bulk,Yellow Onions Medium 4.54 kg (target: 5 kg),10.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Roma Tomatoes,South Asian,small,Roma Tomato (Plum Tomato) — sold by weight $6.59/kg (on sale from $8.80/kg),6.59,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Roma Tomatoes,South Asian,bulk,Roma Tomato (Plum Tomato) — $6.59/kg; no 3 kg bag available,6.59,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Thighs,South Asian,small,Compliments Chicken Thighs $11.00/kg (variable weight ~0.58 kg pack),11.00,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Thighs,South Asian,bulk,Compliments Chicken Thighs Value Pack $11.00/kg (~1.4 kg; no 3 kg pack),11.00,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Balkan Yogurt,South Asian,small,Astro Original 3% Yogurt Balkan Style Plain 750 g (target: 650 g — closest plain Balkan),3.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Balkan Yogurt,South Asian,bulk,Olympic Organic 3.5% Yogurt Plain 1.75 kg (target: 1.75 kg Balkan — no Balkan 1.75 kg available),12.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,South Asian,small,Fresh Garlic 3 Count $1.99 (3-bulb pack),1.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,South Asian,bulk,No 500 g fresh garlic bag available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,South Asian,small,Compliments Canola Oil 100% Pure 946 ml (target: 1 L),5.79,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,South Asian,bulk,Compliments Canola Oil Pure 3 L,13.79,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Jasmine Rice,Chinese,small,Dainty Rice Jasmine 1.6 kg (target: 2 kg — closest in stock),9.47,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Jasmine Rice,Chinese,bulk,Vita Rice Jasmine Value Size 8 kg (target: 10 kg — closest in stock),16.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bok Choy,Chinese,small,Bok Choy 1 Bunch — $4.39/kg sold by weight (avg ~0.72 kg),4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bok Choy,Chinese,bulk,Bok Choy — $4.39/kg; no 2 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Firm Tofu,Chinese,small,Soyganic Organic Tofu Extra Firm 350 g (on sale from $3.79),3.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Firm Tofu,Chinese,bulk,No 2-pack firm tofu available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296 ml (target: 250 ml — on sale from $5.49),3.98,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2 L (target: 1.89 L — closest in stock; on sale from $12.99),9.98,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silk Soy Milk,Chinese,small,Silk Dairy-Free Unsweetened Soy Milk 946 ml (on sale from $3.29),2.79,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silk Soy Milk,Chinese,bulk,Silk Dairy-Free Soy Milk Alternative Original 1.89 L,4.00,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Chinese,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Chinese,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Green Onions,Chinese,small,Green Onions 1 Count (1 bunch),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Green Onions,Chinese,bulk,Green Onions 3 bunches — not sold as pre-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Chinese,small,8 Treasures Sesame Oil 185 ml (target: 327 ml — on sale from $5.49),4.48,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Chinese,bulk,No 1 L sesame oil in stock (Lee Kum Kee 443 ml out of stock) — unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Shoulder,Chinese,small,Picnic Bone In Pork Shoulder — Out of Stock,,per_kg,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Shoulder,Chinese,bulk,Pork Shoulder — Out of Stock; no fixed 3 kg pack,,per_kg,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Napa Cabbage,Chinese,small,Napa Cabbage 1 Count — $4.39/kg sold by weight (avg ~1.28 kg),4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Napa Cabbage,Chinese,bulk,Napa Cabbage — $4.39/kg; no 3 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,White Rice,Filipino,small,Dainty Rice Jasmine 1.6 kg used as White Rice proxy (target: 2 kg),9.47,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,White Rice,Filipino,bulk,Vita Rice Jasmine Value Size 8 kg used as White Rice proxy (target: 10 kg),16.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Tilapia,Filipino,small,Compliments Naturally Simple Frozen Tilapia Fillets 400 g (target: 500 g),5.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Tilapia,Filipino,bulk,Eight Treasures Frozen Whole Uncooked Tilapia 1.36 kg (target: 2 kg — no 2 kg available),10.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,Filipino,small,Compliments Onions Yellow 1.36 kg (target: 2 kg — closest packaged),3.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,Filipino,bulk,Yellow Onions Medium 4.54 kg (target: 5 kg),10.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Coconut Milk,Filipino,small,Eight Treasures Canned Coconut Milk 400 ml (on sale from $1.69),1.18,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Coconut Milk,Filipino,bulk,Coconut Milk 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Fish Sauce,Filipino,small,Kim Phat Fish Sauce 298 ml (target: 350 ml — on sale from $3.49),2.98,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Fish Sauce,Filipino,bulk,Pangasinan Patis Fish Sauce 750 ml — Out of Stock,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Belly,Filipino,small,Fresh and Sliced Pork Belly $18.72/kg (variable weight ~1 kg),18.72,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Belly,Filipino,bulk,Pork Belly Boneless Skinless Value Size $11.00/kg ~3.47 kg — Out of Stock,11.00,per_kg,FALSE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Filipino,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Filipino,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggplant,Filipino,small,Eggplant 1 Count — $4.39/kg (on sale from $6.59/kg) sold by weight,4.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggplant,Filipino,bulk,Eggplant — $4.39/kg; no 2 kg bag available,4.39,per_kg,TRUE,TRUE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,Filipino,small,Fresh Garlic 3 Count $1.99 (3-bulb pack; target: 3-pack),1.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,Filipino,bulk,No 500 g fresh garlic bag available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cane Vinegar,Filipino,small,No cane vinegar found; Compliments White Vinegar 500 ml (closest substitute),0.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cane Vinegar,Filipino,bulk,No cane vinegar found; Compliments White Vinegar 1 L (closest substitute),1.79,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Short Grain Rice,Korean,small,Kokuho Rice 2 kg (short grain),10.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Short Grain Rice,Korean,bulk,Japan Foods Botan Calrose Rice Value Size 8 kg (target: 9 kg — closest in stock),22.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kimchi,Korean,small,No kimchi available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kimchi,Korean,bulk,No kimchi available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gochujang,Korean,small,No gochujang available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gochujang,Korean,bulk,No gochujang available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bean Sprouts,Korean,small,Bean sprouts not found in search — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bean Sprouts,Korean,bulk,Bean sprouts not found in search — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,Korean,small,Medium Ground Beef 454 g (target: 500 g),7.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,Korean,bulk,Ground Beef Lean VP 1 kg (target: 2 kg — no 2 kg pack in stock),17.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Korean,small,8 Treasures Sesame Oil 185 ml (target: 327 ml — on sale from $5.49),4.48,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Korean,bulk,No 1 L sesame oil in stock — unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Nori,Korean,small,No nori sheets available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Nori,Korean,bulk,No nori sheets available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silken Tofu,Korean,small,Sunrise Tofu Soft 300 g (on sale from $1.79),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silken Tofu,Korean,bulk,No 2-pack silken tofu in stock — unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Mackerel,Korean,small,AA-1 Hasa Hasa Frozen Indian Mackerel 450 g — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Mackerel,Korean,bulk,No 1 kg mackerel in stock — unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Korean,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Korean,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,European,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,European,bulk,No 2-loaf pack available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,European,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,European,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cheddar,European,small,Compliments Cheddar Marble Cheese Block 400 g (on sale from $5.99),4.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cheddar,European,bulk,Compliments Cheddar Cheese Mild Marble Value Size 700 g (target: 1 kg — no 1 kg available),9.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,European,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,European,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,European,small,Medium Ground Beef 454 g (target: 500 g),7.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,European,bulk,Ground Beef Lean VP 1 kg (target: 2 kg — no 2 kg in stock),17.00,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,European,small,Potatoes Russet Cello 2.27 kg (target: 5 lb = 2.27 kg),4.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,European,bulk,Russet Potatoes 4.54 kg — all sizes Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,European,small,Carrots (3 lbs) 1.36 kg,4.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,European,bulk,No 5 lb carrot bag in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Olive Oil,European,small,Compliments Organic Gluten-Free Extra Virgin Olive Oil 500 ml,9.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Olive Oil,European,bulk,Compliments Olive Oil Extra Virgin 1 L (target: 2 L — no 2 L available),10.99,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Diced Tomatoes,European,small,Unico Diced Tomatoes 796 ml (on sale from $2.69),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Diced Tomatoes,European,bulk,Diced Tomatoes 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Greek Yogurt,European,small,Compliments 0% Greek Yogurt Plain 650 g (target: 500 g),4.50,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Greek Yogurt,European,bulk,Olympic 2% Greek Yogurt Plain 1.75 kg (target: 1.5 kg — closest available),12.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gold Seal Salmon,Indigenous,small,Clover Leaf Sockeye Salmon Wild Red Pacific 213 g (Gold Seal not available),5.89,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gold Seal Salmon,Indigenous,bulk,No 6-pack canned salmon available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Robin Hood Flour,Indigenous,small,Robin Hood Flour All Purpose Original 2.5 kg (target: 2 kg — closest same-brand),6.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Robin Hood Flour,Indigenous,bulk,Robin Hood All Purpose Flour Original 10 kg,19.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Wild Blueberries,Indigenous,small,Compliments Frozen Wild Blueberries 300 g,5.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Wild Blueberries,Indigenous,bulk,No 1 kg wild blueberries in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bison,Indigenous,small,No bison meat available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bison,Indigenous,bulk,No bison meat available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Indigenous,small,Potatoes Russet Cello 2.27 kg (target: 3 lb = 1.36 kg — closest in stock),4.49,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Indigenous,bulk,Russet Potatoes 4.54 kg — all sizes Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Indigenous,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Indigenous,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Indigenous,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Indigenous,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pinto Beans,Indigenous,small,No 540 ml canned pinto beans in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pinto Beans,Indigenous,bulk,Pinto beans 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Indigenous,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Crisco Shortening,Indigenous,small,Crisco All Vegetable Shortening 454 g,4.79,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Crisco Shortening,Indigenous,bulk,No 1.36 kg Crisco available — product unavailable,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,Others,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,Others,bulk,No 2-loaf pack available — product unavailable,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Others,small,Lucerne 3.25% Whole Milk 1 L,3.19,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Others,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Others,small,Compliments White Eggs Large 12 Count,4.17,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Others,bulk,Golden Valley White Eggs Large 18 Count,7.29,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Breast,Others,small,Compliments Chicken Breasts Boneless Skinless $17.61/kg (target: 1 kg),17.61,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Breast,Others,bulk,Compliments Chicken Breast Air Chilled Boneless Skinless Value Size $17.39/kg (~1.6 kg),17.39,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Others,small,Potatoes Russet Cello 2.27 kg (target: 5 lb = 2.27 kg),4.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Others,bulk,Russet Potatoes 4.54 kg — all sizes Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,Others,small,Carrots (3 lbs) 1.36 kg,4.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,Others,bulk,No 5 lb carrot bag in stock — Out of Stock,,each,FALSE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Black Beans,Others,small,Unico Black Beans 540 ml (on sale from $1.99),1.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Black Beans,Others,bulk,Black Beans 6-pack — not sold as pre-packaged 6-pack,,each,FALSE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Others,small,Compliments Canola Oil 100% Pure 946 ml (target: 1 L),5.79,each,TRUE,FALSE,2026-05-30,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Others,bulk,Compliments Canola Oil Pure 3 L,13.79,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,small,Bananas 1 Bunch (5-6 bananas) — $1.74/kg sold by weight,1.74,per_kg,TRUE,TRUE,2026-05-30,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,bulk,Bananas sold by weight $1.74/kg; no 3 kg pre-packaged bag available,1.74,per_kg,TRUE,TRUE,2026-05-30,TRUE
