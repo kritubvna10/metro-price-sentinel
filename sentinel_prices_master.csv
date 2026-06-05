@@ -2387,3 +2387,703 @@ CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,small,Quaker Quick Oat
 CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-05-30,FALSE
 CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,small,Bananas 1 Bunch (5-6 bananas) — $1.74/kg sold by weight,1.74,per_kg,TRUE,TRUE,2026-05-30,FALSE
 CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,bulk,Bananas sold by weight $1.74/kg; no 3 kg pre-packaged bag available,1.74,per_kg,TRUE,TRUE,2026-05-30,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Basmati Rice,South Asian,small,Western Family Basmati Rice 2kg,11.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Basmati Rice,South Asian,bulk,Verka/Teja/Qilla Basmati Rice 10lb (4.54kg) - closest to 10kg target,13.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Atta,South Asian,small,Sher Durum Atta 20lb - no 10lb available; closest size,16.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Atta,South Asian,bulk,Sher Fibr Wala Atta 9.07kg (20lb),18.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Toor Dal,South Asian,small,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Toor Dal,South Asian,bulk,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,South Asian,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,South Asian,bulk,Dairyland Whole Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Yellow Onions,South Asian,small,Yellow onions sold by weight only - no 1kg bag; $4.40/kg,4.4,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Yellow Onions,South Asian,bulk,Yellow onions sold by weight only - no 5kg bag; $4.40/kg,4.4,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Roma Tomatoes,South Asian,small,Roma tomatoes sold by weight at $11.00/kg,11,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Roma Tomatoes,South Asian,bulk,Windset Farms Roma Tomatoes 3lb bag (fixed price),7.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Chicken Thighs,South Asian,small,SOF Boneless Skinless Chicken Thighs ~750g; sold by weight at $23.10/kg,23.1,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Chicken Thighs,South Asian,bulk,Western Family Seasoned Boneless Chicken Thighs 3kg value pack,38.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Plain Balkan Yogurt,South Asian,small,Astro Balkan Style Yogurt 750g (no 650g available),3.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Plain Balkan Yogurt,South Asian,bulk,Olympic Greek Plain Yogurt 2% 1.75kg,16.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Garlic,South Asian,small,Garlic Bulb Mesh 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Garlic,South Asian,bulk,Fresh Garlic Mesh Bag 1 Kilogram,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Canola Oil,South Asian,small,Western Family Canola Oil 946ml,6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Canola Oil,South Asian,bulk,Western Family Canola Oil 3L,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Jasmine Rice,Chinese,small,Texana Thai Jasmine Rice 2kg,9.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Jasmine Rice,Chinese,bulk,Gia Gia Jasmine Rice 6kg (no 10kg available),16.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Bok Choy,Chinese,small,YU Baby Bok Choy 454g; sold by weight $8.80/kg,8.8,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Bok Choy,Chinese,bulk,Bok Choy Fresh 1400g; sold by weight $5.50/kg (no 2kg bag),5.5,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu 350g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Firm Tofu,Chinese,bulk,Sunrise Soyganic Firm Tofu 500g,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml (target 250ml; closest available),6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L (no 1.89L available),12.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Silk Soy Milk,Chinese,small,Silk Original Soy Beverage 946ml,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Silk Soy Milk,Chinese,bulk,Silk Unsweetened Soy Milk 1.89L,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Chinese,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Chinese,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Green Onions,Chinese,small,Green Onions/Scallions 1 bunch,2.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Green Onions,Chinese,bulk,No 3-bunch pack available; sold as single bunches only,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Sesame Oil,Chinese,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Sesame Oil,Chinese,bulk,Lee Kum Kee Sesame Oil 443.6ml (no 500ml+ exact match),8.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Pork Shoulder,Chinese,small,SOF Pork Shoulder sold by weight; smallest ~2kg roast at $12.10/kg,12.1,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Pork Shoulder,Chinese,bulk,SOF Pork Shoulder sold by weight ~3kg at $11.00/kg,11,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Napa Cabbage,Chinese,small,Cabbage Sui Choy sold by weight $5.90/kg (~1.5kg head),5.9,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Napa Cabbage,Chinese,bulk,Cabbage Sui Choy sold by weight $5.90/kg; no separate 3kg option,5.9,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,White Long Grain Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg (no 2kg exact),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,White Long Grain Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg (no 10kg available),18.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Tilapia,Filipino,small,High Liner Tilapia 540g (no 500g exact; closest available),10.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Tilapia,Filipino,bulk,Frozen tilapia 2kg not available; largest pack is 540g,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Yellow Onions,Filipino,small,Yellow onions sold by weight only - no 2kg bag; $4.40/kg,4.4,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Yellow Onions,Filipino,bulk,Yellow onions sold by weight only - no 5kg bag; $4.40/kg,4.4,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Coconut Milk,Filipino,small,Kosa Coconut Milk 400ml can,2.54,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Coconut Milk,Filipino,bulk,Coconut milk 6-pack not available; sold as single 400ml cans only,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Fish Sauce,Filipino,small,Squid Brand Fish Sauce 300ml (target 350ml; closest available),1.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Fish Sauce,Filipino,bulk,Fish sauce 750ml not found; largest available is 375ml (Little Saigon),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Pork Belly,Filipino,small,SOF Pork Belly ~907g; sold by weight at $20.50/kg,20.5,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Pork Belly,Filipino,bulk,SOF Pork Belly sold by weight at $20.50/kg; no fixed 3kg pack,20.5,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Filipino,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Filipino,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggplant,Filipino,small,Long Eggplant sold by weight at $6.60/kg (avg ~250g each),6.6,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggplant,Filipino,bulk,Long Eggplant sold by weight at $6.60/kg; no 2kg bag,6.6,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Garlic,Filipino,small,Garlic Bulb Mesh 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Garlic,Filipino,bulk,Fresh Garlic Mesh Bag 1 Kilogram,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Cane Vinegar,Filipino,small,Cane vinegar not available; substituted Allen's Pure White Vinegar 500ml,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Cane Vinegar,Filipino,bulk,Cane vinegar not available; substituted Allen's Original White Vinegar 4L,6.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Calrose Short Grain Rice,Korean,small,HEIWA Calrose Rice 5lb (2.27kg),11.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Calrose Short Grain Rice,Korean,bulk,Short grain rice largest available 4kg (no 9kg); Katsumi or similar,16.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Kimchi,Korean,small,Hankook Kimchi 900g (no 1kg exact),15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Kimchi,Korean,bulk,Kimchi 5kg not available; largest is 900g (Hankook),,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Gochujang,Korean,small,Gochujang not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Gochujang,Korean,bulk,Gochujang not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g (target 340g; closest available),2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Bean Sprouts,Korean,bulk,Bean sprouts 1kg not available; largest is 227g,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Ground Beef,Korean,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Ground Beef,Korean,bulk,Western Canadian Lean Ground Beef ~1.36kg; sold by weight avg $25.46/ea,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Sesame Oil,Korean,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Sesame Oil,Korean,bulk,Lee Kum Kee Sesame Oil 443.6ml (no 500ml+ exact),8.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Nori Sheets,Korean,small,Western Family Roasted Seaweed Sushi Nori 28g (target 20g; closest available),3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Nori Sheets,Korean,bulk,Nori 100g pack not available; largest is WF 28g,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Silken Tofu,Korean,small,Silken tofu not found at this store; only firm/medium tofu available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Silken Tofu,Korean,bulk,Silken tofu not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Mackerel,Korean,small,Frozen mackerel not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Mackerel,Korean,bulk,Frozen mackerel not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Korean,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Korean,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Bread,European,small,Bake Shop 100% Whole Wheat Bread 567g (target 570g),2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Bread,European,bulk,Whole wheat bread 2-loaf pack not available; sold as individual loaves only,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,European,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,European,bulk,Dairyland Whole Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Cheddar Cheese,European,small,Western Family Old Cheddar Block 400g,8.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Cheddar Cheese,European,bulk,Value Priced Old Cheddar 820g (no 1kg exact),14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,European,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,European,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Ground Beef,European,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Ground Beef,European,bulk,Western Canadian Lean Ground Beef ~1.36kg; sold by weight avg $25.46/ea,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,European,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,European,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Carrots,European,small,Carrots Cello Bag 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Carrots,European,bulk,Carrots Orange 5lb Cello,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Extra Virgin Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500ml,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Extra Virgin Olive Oil,European,bulk,No 2L EVOO available; largest is Western Family 1L,19.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Diced Tomatoes Canned,European,small,Western Family Diced Tomatoes In Juice 796ml,2.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Diced Tomatoes Canned,European,bulk,Diced tomatoes 6-pack not available; sold as individual cans,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Greek Yogurt Plain,European,small,Western Family Greek Style Yogurt Plain 500g,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Greek Yogurt Plain,European,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Canned Salmon,Indigenous,small,Gold Seal Wild Pink Salmon 213g,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Canned Salmon,Indigenous,bulk,Canned salmon 6-pack not available; sold as individual 213g cans,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour Original 1kg (no 2kg available),4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour Original 10kg,22.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600g (no 300g wild; closest available),5.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Frozen Wild Blueberries,Indigenous,bulk,Madalea Growers Frozen Blueberries 1kg,11.79,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Bison Meat,Indigenous,small,Legends Haul Bison Ground Free Range 454g (target ~400g; closest available),17.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Bison Meat,Indigenous,bulk,Bison meat larger pack not available; only 454g pack found,17.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,Indigenous,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,Indigenous,bulk,Dairyland Whole Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Indigenous,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Pinto Beans Canned,Indigenous,bulk,Pinto beans 6-pack not available; sold as individual 540ml cans,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Bread,Others,small,Bake Shop 100% Whole Wheat Bread 567g (target 570g),2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Wheat Bread,Others,bulk,Whole wheat bread 2-loaf pack not available; sold as individual loaves only,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,Others,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Whole Milk 3.25%,Others,bulk,Dairyland Whole Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Others,small,Western Family Extra Large White Eggs 12-pack,4.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Eggs Large,Others,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Chicken Breast Boneless Skinless,Others,small,SOF Chicken Breast Boneless Skinless ~500g; sold by weight at $26.40/kg,26.4,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Chicken Breast Boneless Skinless,Others,bulk,SOF Boneless Skinless Chicken Breast Warehouse Pack ~1.25kg; sold by weight at $20.90/kg,20.9,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,Others,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Russet Potatoes,Others,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Carrots,Others,small,Carrots Cello Bag 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Carrots,Others,bulk,Carrots Orange 5lb Cello,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Black Beans Canned,Others,small,Western Family Black Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Black Beans Canned,Others,bulk,Black beans 6-pack not available; sold as individual 540ml cans,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Canola Oil,Others,small,Western Family Canola Oil 946ml,6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Lonsdale,V7P1T3,Canola Oil,Others,bulk,Western Family Canola Oil 3L,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Quaker Oats,Others,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Bananas,Others,small,Bananas Yellow sold by weight at $2.00/kg (~1kg bunch),2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Lonsdale,V7P1T3,Bananas,Others,bulk,Bananas Yellow sold by weight at $2.00/kg (~3kg),2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Basmati Rice,South Asian,small,Western Family Basmati Rice 2kg,11.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Basmati Rice,South Asian,bulk,Sundar Basmati Rice 8lb (3.63kg); no 10kg found - closest available,9.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Atta,South Asian,small,Sher Whole Wheat Atta 9.07kg/20lb; no 10lb found - closest available,18.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Atta,South Asian,bulk,Sher Whole Wheat Atta 20lb (9.07kg),17.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Toor Dal,South Asian,small,Western Family Yellow Split Peas 900g; toor dal not found - closest substitute,5.19,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Toor Dal,South Asian,bulk,No 4kg toor dal found; product absent,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,South Asian,small,Dairyland Homo Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,South Asian,bulk,Dairyland Homo Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Yellow Onions,South Asian,small,Yellow Onions 3-pack (approx 900g-1kg),3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Yellow Onions,South Asian,bulk,Yellow Onions 3lb tri-pack; no 5kg bag found - closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Roma Tomatoes,South Asian,small,Roma Tomatoes sold by weight approx $0.99 avg/ea,0.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Roma Tomatoes,South Asian,bulk,Windset Farms Roma Tomatoes 3lb (1.36kg) pack,7.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Chicken Thighs,South Asian,small,SOF Chicken Thighs approx 750g sold by weight $17.34/ea ($2.31/100g),17.34,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Chicken Thighs,South Asian,bulk,Western Family Boneless Skinless Chicken Thighs 3kg,38.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Plain Balkan Yogurt,South Asian,small,Olympic Krema Balkan Style Yogurt 650g,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Plain Balkan Yogurt,South Asian,bulk,Olympic Krema Balkan Style Yogurt 1.75kg,10.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Garlic,South Asian,small,Fresh Garlic 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Garlic,South Asian,bulk,Fresh Garlic 1kg bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Canola Oil,South Asian,small,Western Family Canola Oil 946ml,6.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Canola Oil,South Asian,bulk,Western Family Canola Oil 3L,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Jasmine Rice,Chinese,small,Western Family Jasmine Rice 1.81kg,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Jasmine Rice,Chinese,bulk,Western Family Jasmine Rice 4.54kg,15.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Bok Choy,Chinese,small,Yu Choy/Bok Choy bunch 454g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Bok Choy,Chinese,bulk,No 2kg pack found; single 454g bunch closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu 350g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Firm Tofu,Chinese,bulk,Sunrise Firm Tofu 500g; no larger bulk found,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml,6.89,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 591ml; no 1.89L found - closest available,5.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Silk Soy Milk,Chinese,small,Silk Original Soy Milk 946ml,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Silk Soy Milk,Chinese,bulk,Silk Original Soy Milk 1.89L,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Chinese,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Chinese,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Green Onions,Chinese,small,Green Onions 1 bunch,2.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Green Onions,Chinese,bulk,No 3-bunch pack found; single bunch closest available,2.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Sesame Oil,Chinese,small,Western Family Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Sesame Oil,Chinese,bulk,Maison Orphee Organic Sesame Oil 500ml; no conventional 500ml found,14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Pork Shoulder,Chinese,small,SOF Pork Shoulder approx 726g sold by weight ($12.79/ea at $1.76/100g),12.79,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Pork Shoulder,Chinese,bulk,SOF Pork Shoulder approx 2kg sold by weight ($24.21/ea at $1.21/100g),24.21,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Napa Cabbage,Chinese,small,Sui Choy Napa Cabbage sold by weight $0.59/100g (approx $8.78/ea),8.78,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Napa Cabbage,Chinese,bulk,Sui Choy Napa Cabbage sold by weight $0.59/100g; no separate bulk pack,8.78,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,White Long Grain Rice,Filipino,small,Western Family White Long Grain Rice 1.81kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,White Long Grain Rice,Filipino,bulk,Western Family White Long Grain Rice 8kg,18.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Frozen Tilapia,Filipino,small,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Frozen Tilapia,Filipino,bulk,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Yellow Onions,Filipino,small,Yellow Onions 3-pack (approx 900g-1kg),3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Yellow Onions,Filipino,bulk,Yellow Onions 3lb tri-pack; no 5kg bag found - closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Coconut Milk,Filipino,small,Thai Kitchen Coconut Milk 400ml can,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Coconut Milk,Filipino,bulk,No 6-pack coconut milk found; single 400ml can closest available,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Fish Sauce,Filipino,small,Little Saigon Fish Sauce 375ml,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Fish Sauce,Filipino,bulk,No 750ml found; 375ml closest available,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Pork Belly,Filipino,small,SOF Pork Belly approx 907g sold by weight ($18.58/ea at $1.92/100g),18.58,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Pork Belly,Filipino,bulk,SOF Pork Belly approx 1kg sold by weight ($19.16/ea at $1.92/100g),19.16,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Filipino,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Filipino,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggplant,Filipino,small,Eggplant 1 each sold by weight approx $3.99/ea,3.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggplant,Filipino,bulk,No 2kg bag found; single eggplant closest available,3.99,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Garlic,Filipino,small,Fresh Garlic 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Garlic,Filipino,bulk,Fresh Garlic 1kg bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Cane Vinegar,Filipino,small,Cane vinegar not available; Allen's White Vinegar 500ml substitute,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Cane Vinegar,Filipino,bulk,Cane vinegar not available; Western Family White Vinegar 2.5L substitute,4.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Calrose Short Grain Rice,Korean,small,Katsumi Calrose Rice 2.26kg,12.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Calrose Short Grain Rice,Korean,bulk,Kokuho Rose Short Grain Rice 2kg; no 9kg found - closest available,15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Kimchi,Korean,small,Hankook Kimchi 900g,15.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Kimchi,Korean,bulk,No 5kg kimchi found; 900g closest available,15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Gochujang,Korean,small,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Gochujang,Korean,bulk,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Bean Sprouts,Korean,small,Zimmerman Farms Bean Sprouts 227g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Bean Sprouts,Korean,bulk,No 1kg bag found; 227g closest available,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Ground Beef,Korean,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Ground Beef,Korean,bulk,Western Canadian Lean Ground Beef 1.36kg sold by weight,25.46,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Sesame Oil,Korean,small,Western Family Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Sesame Oil,Korean,bulk,Maison Orphee Organic Sesame Oil 500ml; no conventional 500ml found,14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Nori Sheets,Korean,small,Western Family Roasted Seaweed Nori 28g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Nori Sheets,Korean,bulk,Jayone Roasted Seaweed 24-pack,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Silken Tofu,Korean,small,Sunrise Blue Label Soft Tofu 300g,2.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Silken Tofu,Korean,bulk,No 2-pack silken tofu found; single 300g closest available,2.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Frozen Mackerel,Korean,small,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Frozen Mackerel,Korean,bulk,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Korean,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Korean,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Bread,European,small,Wonder Whole Wheat Bread 570g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Bread,European,bulk,No 2-loaf pack found; single 570g loaf closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,European,small,Dairyland Homo Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,European,bulk,Dairyland Homo Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese Block 400g,8.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Cheddar Cheese,European,bulk,Value Priced Old Cheddar Cheese Block 820g,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,European,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,European,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Ground Beef,European,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Ground Beef,European,bulk,Western Canadian Lean Ground Beef 1.36kg sold by weight,25.46,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,European,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,European,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Carrots,European,small,Cello Bag Carrots 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Carrots,European,bulk,Orange Carrots 5lb bag,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Extra Virgin Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500ml,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Extra Virgin Olive Oil,European,bulk,Filippo Berio Extra Virgin Olive Oil 3L; no 2L found - closest available,54.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Diced Tomatoes Canned,European,small,Aylmer Diced Tomatoes 796ml,3.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Diced Tomatoes Canned,European,bulk,No 6-pack found; single 796ml can closest available,3.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Greek Yogurt,European,small,Olympic Krema Plain Greek Yogurt 650g,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Greek Yogurt,European,bulk,Olympic Krema Plain Greek Yogurt 1.75kg,11.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Canned Salmon,Indigenous,small,Gold Seal Wild Pink Salmon 213g,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Canned Salmon,Indigenous,bulk,No 6-pack found; single 213g can closest available,5.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 5kg; no 2kg found - closest available,9.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,22.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600g; no wild blueberries found,5.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Frozen Wild Blueberries,Indigenous,bulk,Western Family Cultivated Blueberries 1.5kg; no wild blueberries found,15.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Bison Meat,Indigenous,small,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Bison Meat,Indigenous,bulk,Not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb bag (target 3lb; closest available),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,Indigenous,small,Dairyland Homo Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,Indigenous,bulk,Dairyland Homo Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Indigenous,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Indigenous,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Pinto Beans Canned,Indigenous,bulk,No 6-pack found; single 540ml can closest available,2.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Crisco Shortening,Indigenous,bulk,No 1.36kg found; Crisco All-Vegetable Shortening 454g closest available,5.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Bread,Others,small,Wonder Whole Wheat Bread 570g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Wheat Bread,Others,bulk,No 2-loaf pack found; single 570g loaf closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,Others,small,Dairyland Homo Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Whole Milk 3.25%,Others,bulk,Dairyland Homo Milk 3.25% 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Others,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Eggs Large,Others,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Chicken Breast Boneless Skinless,Others,small,SOF Chicken Breast approx 500g sold by weight ($13.22/ea at $2.64/100g),13.22,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Chicken Breast Boneless Skinless,Others,bulk,SOF Chicken Breast Warehouse Pack approx 1.25kg sold by weight ($26.15/ea at $2.09/100g),26.15,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,Others,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Russet Potatoes,Others,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Carrots,Others,small,Cello Bag Carrots 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Carrots,Others,bulk,Orange Carrots 5lb bag,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Black Beans Canned,Others,small,Western Family Black Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Black Beans Canned,Others,bulk,No 6-pack found; single 540ml can closest available,2.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods New Westminster,V3M1C4,Canola Oil,Others,small,Western Family Canola Oil 946ml,6.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Canola Oil,Others,bulk,Western Family Canola Oil 3L,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Quaker Oats,Others,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Bananas,Others,small,Bananas Yellow sold by weight approx $2.00/kg (~1kg bunch),2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods New Westminster,V3M1C4,Bananas,Others,bulk,Bananas Yellow sold by weight approx $2.00/kg; no 3kg pre-pack,2,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Basmati Rice,South Asian,small,Western Family Basmati Rice 2kg,11.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Basmati Rice,South Asian,bulk,Qilla Basmati Rice 10 Pound (4.54kg); target 10kg not available — closest 10lb bag,15.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Atta,South Asian,small,Western Family Whole Wheat Flour 5kg — no 10lb atta; closest whole wheat flour,9.39,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Atta,South Asian,bulk,Sher Durum Atta Desi Style Flour 20 Pound (9.07kg),17.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Toor Dal,South Asian,small,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Toor Dal,South Asian,bulk,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,South Asian,small,Dairyland 3.25% Milk 1 Litre,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,South Asian,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Yellow Onions,South Asian,small,Yellow Onions 3lb mesh bag; target 1kg — closest available bag,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Yellow Onions,South Asian,bulk,Yellow Onions 3lb bag; target 5kg not available,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Roma Tomatoes,South Asian,small,Roma Tomatoes sold by weight $11.00/kg,11,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Roma Tomatoes,South Asian,bulk,Windset Farms Roma Tomatoes 3lb bag; target 3kg — closest available,7.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Chicken Thighs,South Asian,small,SOF Chicken Thighs ~425g avg sold by weight ($2.31/100g),9.83,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Chicken Thighs,South Asian,bulk,SOF Chicken Thighs Family Pack ~1.13kg sold by weight ($2.31/100g); target ~3kg not found,17.41,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Plain/Balkan Yogurt,South Asian,small,Olympic Organic Plain Yogurt 650g,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Plain/Balkan Yogurt,South Asian,bulk,Olympic Organic Plain Yogurt 1.75kg,10.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Garlic,South Asian,small,Garlic 3-pack bulbs,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Garlic,South Asian,bulk,Garlic 1kg bag; target 500g not found — 1kg is closest,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Canola Oil,South Asian,small,Western Family Canola Oil 946ml; target 1L — closest available,6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Canola Oil,South Asian,bulk,Western Family Canola Oil 3 Litre,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Jasmine Rice,Chinese,small,Texana Jasmine Rice 2kg,9.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Jasmine Rice,Chinese,bulk,Gia Jasmine Rice 6kg; target 10kg not available — 6kg is largest,16.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Bok Choy,Chinese,small,Bok Choy 454g bunch sold by weight ($0.88/100g),3.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Bok Choy,Chinese,bulk,Bok Choy 1400g sold by weight ($0.55/100g); target 2kg — largest available,7.69,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Firm Tofu Extra Firm,Chinese,small,Sunrise Extra Firm Tofu 350g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Firm Tofu Extra Firm,Chinese,bulk,Sunrise Extra Firm Tofu 500g; no 2-pack found — 500g is next size up,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml; target 250ml — closest available,6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 591ml; target 1.89L not found — 591ml is largest available,5.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946ml,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Silk Soy Milk,Chinese,bulk,Silk Soy Beverage Original 1.89 Litre,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Chinese,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Chinese,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Green Onions,Chinese,small,Green Onions 1 bunch,2.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Green Onions,Chinese,bulk,Green Onions 1 bunch; target 3-bunch pack not found,2.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Sesame Oil,Chinese,small,Western Family Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Pork Shoulder,Chinese,small,Western Canadian Pork Shoulder ~2kg avg sold by weight ($1.21/100g),24.21,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Pork Shoulder,Chinese,bulk,Western Canadian Bone-in Pork Shoulder ~4kg avg sold by weight; target ~3kg — closest available,26.37,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Napa Cabbage,Chinese,small,Sui Choy Napa Cabbage ~1.48kg avg sold by weight ($0.59/100g),8.78,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Napa Cabbage,Chinese,bulk,Sui Choy Napa Cabbage ~1.48kg avg sold by weight; target ~3kg — only single heads available,8.78,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,White Long Grain Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg; target 2kg — closest available,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,White Long Grain Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg; target 10kg not found — 8kg is largest,18.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Frozen Tilapia,Filipino,small,High Liner Tilapia Fillets 540g; target 500g — closest available,10.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Frozen Tilapia,Filipino,bulk,High Liner Tilapia Fillets 540g; target 2kg not found — 540g is only size available,10.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Yellow Onions,Filipino,small,Yellow Onions 3lb mesh bag; target 2kg — closest available,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Yellow Onions,Filipino,bulk,Yellow Onions 3lb bag; target 5kg not available,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400ml,2.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Coconut Milk,Filipino,bulk,Kosa UHT Coconut Milk 1 Litre; target 6-pack not found — 1L carton is largest single option,6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Fish Sauce,Filipino,small,Squid Fish Sauce 300ml; target 350ml — closest available,1.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Fish Sauce,Filipino,bulk,Little Saigon Fish Sauce 375ml; target 750ml not found — 375ml is largest available,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Pork Belly,Filipino,small,SOF Pork Belly ~907g avg sold by weight ($2.05/100g),18.58,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Pork Belly,Filipino,bulk,SOF Pork Belly ~907g avg sold by weight; target ~3kg value pack not found,18.58,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Filipino,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Filipino,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggplant,Filipino,small,Eggplant individual sold by weight approx $3.99/ea,3.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggplant,Filipino,bulk,Eggplant individual sold by weight; target ~2kg not available as bag,3.99,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Garlic,Filipino,small,Garlic 3-pack bulbs,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Garlic,Filipino,bulk,Garlic 1kg bag; target 500g not found — 1kg is closest,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Cane Vinegar,Filipino,small,Allen's Pure White Vinegar 500ml; cane vinegar not found — white vinegar substitute,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Cane Vinegar,Filipino,bulk,Allen's Original White Vinegar 4 Litre; cane vinegar not found — white vinegar substitute,6.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Short Grain Rice (Calrose),Korean,small,Katsumi Calrose Short Grain Rice 2.26kg; target 2kg — closest available,12.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Short Grain Rice (Calrose),Korean,bulk,Sunbrown Short Grain Rice 4kg; target 9kg not found — 4kg is largest available,16.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Kimchi,Korean,small,Hankook Kimchi 900g; target 1kg — closest available,15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Kimchi,Korean,bulk,Hankook Kimchi 900g; target 5kg not found — 900g is only size available,15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Gochujang,Korean,small,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Gochujang,Korean,bulk,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g; target 340g — closest available,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Bean Sprouts,Korean,bulk,Zimmerman Farm Bean Sprouts 227g; target 1kg not found — 227g is only size available,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Ground Beef,Korean,small,Western Canadian Ground Beef 454g,8.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Ground Beef,Korean,bulk,Western Canadian Ground Beef ~1.36kg avg sold by weight ($1.87/100g); target ~2kg — closest available,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Sesame Oil,Korean,small,Western Family Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Nori Sheets,Korean,small,Western Family Roasted Seaweed Sushi Nori 28g; target 20g — closest available,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Nori Sheets,Korean,bulk,Western Family Roasted Seaweed Sushi Nori 28g; target 100g pack not found — 28g only,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Silken Tofu,Korean,small,Sunrise Soyganic Organic Tofu Soft 300g,2.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Silken Tofu,Korean,bulk,Sunrise Soyganic Organic Tofu Soft 300g; target 2-pack not found — single 300g only,2.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Frozen Mackerel,Korean,small,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Frozen Mackerel,Korean,bulk,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Korean,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Korean,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Bread,European,small,Western Family Whole Wheat Bread 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Bread,European,bulk,Western Family 100% Whole Wheat Traditional Loaf 600g; target 2-loaf pack not found,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,European,small,Dairyland 3.25% Milk 1 Litre,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,European,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese 400g,8.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Cheddar Cheese,European,bulk,Value Priced Old Cheddar Block 820g; target 1kg not found — 820g closest,14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,European,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,European,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Ground Beef,European,small,Western Canadian Ground Beef 454g,8.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Ground Beef,European,bulk,Western Canadian Ground Beef ~1.36kg avg sold by weight ($1.87/100g); target ~2kg — closest available,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,European,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,European,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Carrots,European,small,Carrots 3lb bag,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Carrots,European,bulk,Carrots 5lb bag,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Extra Virgin Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500ml,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Extra Virgin Olive Oil,European,bulk,Filippo Berio Extra Virgin Olive Oil 3 Litre; target 2L not found — 3L closest,54.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Diced Tomatoes Canned,European,small,Aylmer Canned Diced Tomatoes 796ml,3.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Diced Tomatoes Canned,European,bulk,Aylmer Canned Diced Tomatoes 796ml; target 6-pack not found — single can only,3.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Greek Yogurt Plain,European,small,Liberte Greek Yogurt Plain 650g; target 500g — closest available,8.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Greek Yogurt Plain,European,bulk,Western Family Greek Yogurt Plain 1.36kg; target 1.5kg — closest available,11.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Canned Salmon,Indigenous,small,Gold Seal Wild Pink Salmon No Salt Added 213g,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Canned Salmon,Indigenous,bulk,Gold Seal Wild Pink Salmon 213g; target 6-pack not found — single can only,5.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 1kg; target 2kg not available — 1kg closest smaller,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,22.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600g; wild blueberries not found,5.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Frozen Wild Blueberries,Indigenous,bulk,Western Family Cultivated Blueberries 1.5kg; wild blueberries not found,15.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Bison Meat,Indigenous,small,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Bison Meat,Indigenous,bulk,Product not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb bag; target 3lb — closest available,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,Indigenous,small,Dairyland 3.25% Milk 1 Litre,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,Indigenous,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Indigenous,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Indigenous,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Pinto Beans Canned,Indigenous,bulk,Western Family Pinto Beans 540ml; target 6-pack not found — single can only,2.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Quaker Oats,Indigenous,small,Quaker Quick Oats 1 Kilogram,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25 Kilogram,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Bread,Others,small,Western Family Whole Wheat Bread 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Wheat Bread,Others,bulk,Western Family 100% Whole Wheat Traditional Loaf 600g; target 2-loaf pack not found,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,Others,small,Dairyland 3.25% Milk 1 Litre,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Whole Milk 3.25%,Others,bulk,Dairyland 3.25% Milk 4 Litre,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Others,small,Western Family Large Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Eggs Large,Others,bulk,Western Family Large Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Chicken Breast Boneless Skinless,Others,small,Hallmark Farms Boneless Skinless Breast 1kg (fixed price),22,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Chicken Breast Boneless Skinless,Others,bulk,SOF Boneless Skinless Chicken Breast Warehouse Pack ~1.25kg sold by weight ($2.09/100g),26.15,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,Others,small,Russet Potatoes 5lb bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Russet Potatoes,Others,bulk,Russet Potatoes 10lb bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Carrots,Others,small,Carrots 3lb bag,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Carrots,Others,bulk,Carrots 5lb bag,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Black Beans Canned,Others,small,Western Family Black Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Black Beans Canned,Others,bulk,Western Family Black Beans 540ml; target 6-pack not found — single can only,2.29,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Canola Oil,Others,small,Western Family Canola Oil 946ml; target 1L — closest available,6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Langley,V4W2Z7,Canola Oil,Others,bulk,Western Family Canola Oil 3 Litre,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Quaker Oats,Others,small,Quaker Quick Oats 1 Kilogram,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 Kilogram,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Bananas,Others,small,Bananas Yellow sold by weight $2.00/kg; target ~1kg,2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Langley,V4W2Z7,Bananas,Others,bulk,Bananas Yellow sold by weight $2.00/kg; target ~3kg — same per-kg price,2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Basmati Rice,South Asian,small,Western Family White Basmati Rice 2kg,11.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Basmati Rice,South Asian,bulk,Qilla Premium Basmati Rice 10lb (~4.54kg) - no 10kg available; closest is 10lb bag,15.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Atta,South Asian,small,Sher Durum Atta Desi Style Flour 20lb - no 10lb available; substituted with 20lb,17.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Atta,South Asian,bulk,Sher Fibr Wala White W/W Atta Flour 9.07kg (20lb),18.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Toor Dal,South Asian,small,Not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Toor Dal,South Asian,bulk,Not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,South Asian,small,Dairyland 3.25% Milk 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,South Asian,bulk,Dairyland 3.25% Milk 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Yellow Onions,South Asian,small,Onions Yellow Mesh Bagged 3lb (~1.36kg) - no 1kg bag available,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Yellow Onions,South Asian,bulk,Onions Yellow 3lb bag - no 5kg bag available; only 3lb is largest bag,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Roma Tomatoes,South Asian,small,Tomatoes Roma Fresh sold by weight $11.00/kg,11,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Roma Tomatoes,South Asian,bulk,Tomatoes Roma Fresh sold by weight $11.00/kg; no 3kg bag available,11,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Chicken Thighs,South Asian,small,SOF Chicken Thighs Skin On Bone In Family Pack ~1.13kg sold by weight ($1.54/100g),17.41,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Chicken Thighs,South Asian,bulk,Western Family Boneless Skinless Chicken Thighs Seasoned 3kg fixed price,38.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Plain/Balkan Yogurt,South Asian,small,Olympic Organic Plain Yogurt 3.5% M.F. 650g,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Plain/Balkan Yogurt,South Asian,bulk,Olympic Organic Plain Yogurt 3.5% M.F. 1.75kg,10.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Garlic,South Asian,small,Garlic Bulb Mesh 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Garlic,South Asian,bulk,Garlic Fresh Mesh Bag 1kg - no 500g bag; substituted with 1kg,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Canola Oil,South Asian,small,Western Family Pure Canola Oil 946ml (closest to 1L),6.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Canola Oil,South Asian,bulk,Western Family Pure Canola Oil 3 Litre,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Jasmine Rice,Chinese,small,Texana Thai Jasmine Rice 2kg,9.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Jasmine Rice,Chinese,bulk,Gia Jasmine Rice 6kg - no 10kg available; largest is 6kg,16.69,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bok Choy,Chinese,small,YU Baby Bok Choy Fresh Bunch 454g sold by weight ($0.88/100g),3.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Bok Choy,Chinese,bulk,Bok Choy Fresh 1400g sold by weight ($0.55/100g) - no 2kg; closest 1.4kg,7.69,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Firm Tofu Extra Firm,Chinese,small,Sunrise Extra Firm Tofu 350g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Firm Tofu Extra Firm,Chinese,bulk,Sunrise Firm Tofu 500g - no 2-pack; closest 500g+ single,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml - no 250ml; closest is 296ml,6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L - no 1.89L; largest available is 1.2L,12.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946ml,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Silk Soy Milk,Chinese,bulk,Silk Soy Protein Milk Original Dairy Free 1.89L,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Chinese,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Chinese,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Green Onions,Chinese,small,Green Onions Scallions Bunch Fresh 1 bunch,2.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Green Onions,Chinese,bulk,3-bunch pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Sesame Oil,Chinese,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil Virgin Organic 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Pork Shoulder,Chinese,small,Western Canadian Pork Butt Steak Bone In Value Pack ~800g sold by weight ($1.65/100g),13.21,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Pork Shoulder,Chinese,bulk,Western Canadian Pork Roast Shoulder Blade Boneless ~2kg sold by weight ($1.21/100g),24.21,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Napa Cabbage,Chinese,small,Cabbage Sui Choy Fresh ~1.48kg sold by weight ($0.59/100g),8.78,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Napa Cabbage,Chinese,bulk,Cabbage Sui Choy Fresh - no 3kg option; only single head (~1.48kg) available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,White Long Grain Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg - no 2kg; closest is 1.81kg,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,White Long Grain Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg - no 10kg; closest is 8kg,18.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Tilapia,Filipino,small,High Liner Pan Sear Tilapia 540g - no plain 500g; closest,10.5,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Tilapia,Filipino,bulk,Frozen tilapia 2kg not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Yellow Onions,Filipino,small,Onions Yellow Mesh Bagged 3lb (~1.36kg) - no 2kg bag; closest,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Yellow Onions,Filipino,bulk,Yellow onions 5kg bag not available; only 3lb bag is largest,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Coconut Milk,Filipino,small,Aroy-D Coconut Milk 400ml can,2.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Coconut Milk,Filipino,bulk,Kosa UHT Coconut Milk 1L - no 6-pack; largest single unit,6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Fish Sauce,Filipino,small,Squid Fish Sauce 300ml - no 350ml; closest smaller size,1.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Fish Sauce,Filipino,bulk,Fish sauce 750ml not available; only 300ml and 200ml sizes at store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Pork Belly,Filipino,small,SOF Pork Belly Skin On Quarter Cut ~907g sold by weight ($2.05/100g),18.58,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Pork Belly,Filipino,bulk,Pork belly 3kg value pack not available; only 907g portions,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Filipino,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Filipino,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggplant,Filipino,small,Eggplant Purple Regular ~500g fixed price per unit,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggplant,Filipino,bulk,Eggplant Long Fresh sold by weight $6.60/kg - no 2kg bag,6.6,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Garlic,Filipino,small,Garlic Bulb Mesh 3-pack,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Garlic,Filipino,bulk,Garlic Fresh Mesh Bag 1kg - no 500g bag; substituted with 1kg,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Cane Vinegar,Filipino,small,Cane vinegar not available; substituted Allen's Pure White Vinegar 500ml,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Cane Vinegar,Filipino,bulk,Cane vinegar not available; substituted Western Family Pure White Vinegar 2.5L,4.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Short Grain Rice Calrose,Korean,small,Katsumi US No.1 Premium Calrose Rice 2.26kg - closest to 2kg,12.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Short Grain Rice Calrose,Korean,bulk,Sunbrown Australia Calrose Brown Rice 4kg - no 9kg; largest available,16.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Kimchi,Korean,small,Hankook Kimchi 900g - closest to 1kg,15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Kimchi,Korean,bulk,Kimchi 5kg not available; only 900g and 450g sizes,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Gochujang,Korean,small,Gochujang paste not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Gochujang,Korean,bulk,Gochujang paste not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g - no 340g; closest,2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bean Sprouts,Korean,bulk,Bean sprouts 1kg not available; only 227g sizes,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Ground Beef,Korean,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Ground Beef,Korean,bulk,Western Canadian Lean Ground Beef Fine Grind 1.36kg - no 2kg; closest,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Sesame Oil,Korean,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil Virgin Organic 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Nori Sheets,Korean,small,Western Family Roasted Seaweed Sushi Nori 28g - no 20g; closest,3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Nori Sheets,Korean,bulk,Nori 100g pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Silken Tofu,Korean,small,Sunrise Soyganic Organic Tofu Soft 300g,2.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Silken Tofu,Korean,bulk,Silken tofu 2-pack not available; only single units,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Mackerel,Korean,small,Frozen mackerel not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Mackerel,Korean,bulk,Frozen mackerel not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Korean,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Korean,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Bread,European,small,Western Family Whole Wheat Bread 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Bread,European,bulk,Whole wheat bread 2-loaf pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,European,small,Dairyland 3.25% Milk 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,European,bulk,Dairyland 3.25% Milk 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Cheddar Cheese,European,small,Western Family Old Cheddar Cheese Block 400g,8.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Cheddar Cheese,European,bulk,Value Priced Old Cheddar Block 820g - no 1kg block; closest,14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,European,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,European,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Ground Beef,European,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Ground Beef,European,bulk,Western Canadian Lean Ground Beef Fine Grind 1.36kg - no 2kg; closest,25.46,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,European,small,Potatoes Russet 5lb Bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,European,bulk,Potatoes Russet 10lb Bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Carrots,European,small,Carrots Cello Bag 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Carrots,European,bulk,Carrots Orange 5lb Cello,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Extra Virgin Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500ml,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Extra Virgin Olive Oil,European,bulk,Filippo Berio Extra Virgin Olive Oil 3L - no 2L; closest,54.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Diced Tomatoes Canned,European,small,Western Family Diced Tomatoes In Juice 796ml,2.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Diced Tomatoes Canned,European,bulk,Diced tomatoes 6-pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Greek Yogurt Plain,European,small,Western Family Greek Style Yogurt 500g,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Greek Yogurt Plain,European,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Canned Salmon,Indigenous,small,Gold Seal Wild Pink Salmon 213g,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Canned Salmon,Indigenous,bulk,Western Family Wild Pacific Sockeye Salmon 3-pack - no 6-pack; closest,21.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour 1kg - no 2kg; closest smaller size,4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour 10kg,22.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600g - no wild; substituted cultivated 600g,5.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Frozen Wild Blueberries,Indigenous,bulk,Western Family Cultivated Blueberries 1.5kg - no wild; substituted cultivated 1.5kg,15.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bison Meat,Indigenous,small,Legends Haul Ground Bison Free Range 454g - closest to 400g,17.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bison Meat,Indigenous,bulk,Legends Haul Ground Bison Free Range 454g - largest available; no larger pack,17.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,Indigenous,small,Potatoes Russet 5lb Bag - no 3lb; closest is 5lb,6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,Indigenous,bulk,Potatoes Russet 10lb Bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,Indigenous,small,Dairyland 3.25% Milk 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,Indigenous,bulk,Dairyland 3.25% Milk 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Indigenous,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Pinto Beans Canned,Indigenous,bulk,Pinto beans 6-pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Bread,Others,small,Western Family Whole Wheat Bread 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Wheat Bread,Others,bulk,Whole wheat bread 2-loaf pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,Others,small,Dairyland 3.25% Milk 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Whole Milk 3.25%,Others,bulk,Dairyland 3.25% Milk 4L,6.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Others,small,Western Family Large White Eggs 12-pack,4.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Eggs Large,Others,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Chicken Breast Boneless Skinless,Others,small,Hallmark Farms Boneless Skinless Breast 1kg,22,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Chicken Breast Boneless Skinless,Others,bulk,SOF Boneless Skinless Chicken Breast Warehouse Pack ~1.25kg sold by weight ($2.09/100g),26.15,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,Others,small,Potatoes Russet 5lb Bag,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Russet Potatoes,Others,bulk,Potatoes Russet 10lb Bag,8.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Carrots,Others,small,Carrots Cello Bag 3lb,4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Carrots,Others,bulk,Carrots Orange 5lb Cello,7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Black Beans Canned,Others,small,Western Family Black Beans 540ml,2.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Black Beans Canned,Others,bulk,Black beans 6-pack not available at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Canola Oil,Others,small,Western Family Pure Canola Oil 946ml (closest to 1L),6.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Canola Oil,Others,bulk,Western Family Pure Canola Oil 3 Litre,11.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Quaker Oats,Others,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Maple Ridge,V2X2V5,Bananas,Others,small,Bananas Yellow Fresh sold by weight $2.00/kg,2,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Maple Ridge,V2X2V5,Bananas,Others,bulk,Bananas Yellow Fresh sold by weight $2.00/kg; no 3kg pre-pack,2,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Basmati Rice,South Asian,small,Western Family White Basmati Rice 2kg,11.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Basmati Rice,South Asian,bulk,Sher Golden Sella Basmati Rice 4.55kg (10kg not available; largest found),16.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Atta,South Asian,small,Sher Brown Whole Wheat Atta 9.07kg used as small (4.54kg/10lb not found separately),19.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Atta,South Asian,bulk,Sher Brown Whole Wheat Atta 9.07kg (~20lb),19.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Toor Dal,South Asian,small,Sundar Toor Dal 2 Pound (~907g) closest to 900g target,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Toor Dal,South Asian,bulk,Verka Arhar Dal Toor 1.6kg (4kg not available; largest found),8.19,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,South Asian,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,South Asian,bulk,Dairyland Whole Milk 3.25% 4L,6.19,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Yellow Onions,South Asian,small,Yellow Onions Mesh Bag 3lb/1.36kg (1kg bag not available),3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Yellow Onions,South Asian,bulk,Yellow Onions 5kg bag not found; no larger bag available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Roma Tomatoes,South Asian,small,Roma Tomatoes Fresh sold by weight $4.40/kg,4.4,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Roma Tomatoes,South Asian,bulk,Roma Tomatoes Fresh sold by weight $4.40/kg; no 3kg bag,4.4,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Chicken Thighs,South Asian,small,SOF Butter Chicken Skinless Thighs Bone In ~1kg avg sold by weight,19.82,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Chicken Thighs,South Asian,bulk,Western Family Boneless Skinless Chicken Thighs Seasoned 3kg,38.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Plain Balkan Yogurt,South Asian,small,Olympic Organic Plain Yogurt 3.5% 650g,4.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Plain Balkan Yogurt,South Asian,bulk,Olympic Organic Plain Yogurt 3.5% 1.75kg,10.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Garlic,South Asian,small,Garlic Bulb Mesh 3 Each (3-pack),0.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Garlic,South Asian,bulk,Garlic Fresh Mesh Bag 1kg (500g bag not available; 1kg substituted),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Canola Oil,South Asian,small,Western Family Pure Canola Oil 946ml (closest to 1L),6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Canola Oil,South Asian,bulk,Western Family Pure Canola Oil 3L,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Jasmine Rice,Chinese,small,Texana Thai Jasmine Rice 2kg,9.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Jasmine Rice,Chinese,bulk,Golden Phoenix Thai Jasmine Rice 16.3kg (10kg not available; closest bulk),54.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Bok Choy,Chinese,small,YU Baby Bok Choy 454g avg sold by weight ($0.66/100g),2.99,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Bok Choy,Chinese,bulk,Bok Choy Fresh 1.4kg avg sold by weight ($0.55/100g; 2kg target not exact),7.69,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Firm Tofu,Chinese,small,Sunrise Tofu Extra Firm 350g,3.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Firm Tofu,Chinese,bulk,Sunrise Firm Tofu 500g,3.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296ml (closest to 250ml target),6.89,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2L (1.89L not available; largest found),12.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Silk Soy Milk,Chinese,small,Silk Soy Beverage Original 946ml,4.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Silk Soy Milk,Chinese,bulk,Silk Soy Milk Alt Unsweetened 1.89L,6.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Chinese,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Chinese,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Green Onions,Chinese,small,Green Onions Scallions Bunch Fresh 1 Each,1.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Green Onions,Chinese,bulk,Green onion 3-bunch pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Sesame Oil,Chinese,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Sesame Oil,Chinese,bulk,Maison Orphee Sesame Oil 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Pork Shoulder,Chinese,small,Fresh Pork Shoulder Butt Collar ~726g avg sold by weight ($1.76/100g),12.79,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Pork Shoulder,Chinese,bulk,Western Canadian Pork Roast Shoulder Blade Boneless ~2kg avg (3kg not exact),26.41,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Napa Cabbage,Chinese,small,Cabbage Sui Choy Fresh ~1.48kg avg sold by weight ($0.37/100g),5.51,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Napa Cabbage,Chinese,bulk,Napa Cabbage Fresh sold by weight $3.70/kg,3.7,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,White Long Grain Rice,Filipino,small,Western Family Long Grain White Rice 1.81kg (2kg not available),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,White Long Grain Rice,Filipino,bulk,Western Family Long Grain White Rice 8kg (10kg not available),18.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Frozen Tilapia,Filipino,small,Tilapia Frozen Cleaned 500g,3.3,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Frozen Tilapia,Filipino,bulk,Frozen Tilapia 2kg not available; only 500g found,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Yellow Onions,Filipino,small,Yellow Onions Mesh Bag 3lb/1.36kg (2kg bag not available),3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Yellow Onions,Filipino,bulk,Yellow Onions 5kg bag not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Coconut Milk,Filipino,small,Kosa Can Coconut Milk 400ml,2.54,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Coconut Milk,Filipino,bulk,Coconut Milk 6-pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Fish Sauce,Filipino,small,Squid Fish Sauce 300ml (350ml not available; 300ml substituted),1.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Fish Sauce,Filipino,bulk,Squid Fish Sauce 700ml (750ml not available; 700ml substituted),4.19,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Pork Belly,Filipino,small,PriceSmart Foods Pork Belly Boneless ~1kg avg sold by weight,19.16,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Pork Belly,Filipino,bulk,SOF Frozen Pork Belly 5kg avg sold by weight (3kg value pack not found; 5kg substituted),77.05,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Filipino,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Filipino,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggplant,Filipino,small,Eggplant Purple Regular ~500g sold by weight ($0.50/100g),2.79,each,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggplant,Filipino,bulk,Eggplant Fresh sold by weight $5.00/kg,5,per_kg,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Garlic,Filipino,small,Garlic Bulb Mesh 3 Each (3-pack),0.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Garlic,Filipino,bulk,Garlic Fresh Mesh Bag 1kg (500g bag not available; 1kg substituted),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Cane Vinegar,Filipino,small,Western Family Pure White Vinegar 1L (cane vinegar not available; white vinegar substituted),1.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Cane Vinegar,Filipino,bulk,Western Family Pure White Vinegar 4L (cane vinegar not available; white vinegar substituted),4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Short Grain Rice (Calrose),Korean,small,Shirakiku Premium Short Grain Rice 2kg,16.44,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Short Grain Rice (Calrose),Korean,bulk,HEIWA Calrose Rice Extra Fancy 15lb (~6.8kg; 9kg not available),29.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Kimchi,Korean,small,Hankook Kimchi 900g (1kg not available; 900g substituted),15.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Kimchi,Korean,bulk,Kimchi 5kg not available; largest found is 900g,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Gochujang,Korean,small,Gochujang not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Gochujang,Korean,bulk,Gochujang not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Bean Sprouts,Korean,small,Zimmerman Farm Bean Sprouts 227g (340g not available; 227g substituted),2.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Bean Sprouts,Korean,bulk,Bean Sprouts 1kg not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Ground Beef,Korean,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Ground Beef,Korean,bulk,Western Canadian Lean Ground Beef 1.36kg avg sold by weight,20.96,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Sesame Oil,Korean,small,Western Family Pure Sesame Oil 300ml,5.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Sesame Oil,Korean,bulk,Maison Orphee Sesame Oil 500ml,14.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Nori Sheets,Korean,small,Western Family Roasted Seaweed Sushi Nori 28g (20g target; 28g substituted),3.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Nori Sheets,Korean,bulk,Shirakiku Yaki Nori 130g (100g target; 130g substituted),13.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Silken Tofu,Korean,small,Silken tofu not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Silken Tofu,Korean,bulk,Silken tofu 2-pack not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Frozen Mackerel,Korean,small,Smart Choice Seafood Frozen Norway Mackerel Fillet Salted 400g (300g not available),7.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Frozen Mackerel,Korean,bulk,Frozen Mackerel 1kg not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Korean,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Korean,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Bread,European,small,Western Family 100% Whole Wheat Traditional Loaf 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Bread,European,bulk,Whole Wheat Bread 2-loaf pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,European,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,European,bulk,Dairyland Whole Milk 3.25% 4L,6.19,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Cheddar Cheese,European,small,Value Priced Medium Cheddar Block 500g (400g not available; 500g substituted),7.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Cheddar Cheese,European,bulk,Value Priced Old Cheddar Block 820g (1kg not available; 820g substituted),14.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Eggs Large,European,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,European,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Ground Beef,European,small,Western Canadian Lean Ground Beef 454g,9.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Ground Beef,European,bulk,Western Canadian Lean Ground Beef 1.36kg avg sold by weight,20.96,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,European,small,Russet Potatoes 5lb (2.27kg),6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,European,bulk,Russet Potatoes 10lb (4.54kg),4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Carrots,European,small,Carrots Cello Bag 3lb (1.36kg),4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Carrots,European,bulk,Carrots Orange 5lb Cello (2.27kg),7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Extra Virgin Olive Oil,European,small,Western Family Extra Virgin Olive Oil 500ml,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Extra Virgin Olive Oil,European,bulk,Brio Extra Virgin Olive Oil 3L (2L not available; 3L substituted),29.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Diced Tomatoes Canned,European,small,Aylmer No Salt Added Canned Diced Tomatoes 796ml,3.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Diced Tomatoes Canned,European,bulk,Diced Tomatoes 6-pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Greek Yogurt Plain,European,small,Western Family Greek Style Yogurt 500g,5.29,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Greek Yogurt Plain,European,bulk,OIKOS Greek Yogurt Plain 1.5kg,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Canned Salmon,Indigenous,small,Gold Seal Wild Pink Salmon 213g,3.5,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Canned Salmon,Indigenous,bulk,Western Family Wild Pacific Sockeye Salmon 3-pack (~639g; 6-pack not available),21.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Robin Hood All Purpose Flour,Indigenous,small,Robin Hood All Purpose Flour Original 1kg (2kg not available; 1kg substituted),4.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Robin Hood All Purpose Flour,Indigenous,bulk,Robin Hood All Purpose Flour Original 10kg,22.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Frozen Wild Blueberries,Indigenous,small,Western Family Cultivated Blueberries 600g (wild not available; cultivated substituted),5.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Frozen Wild Blueberries,Indigenous,bulk,Western Family Cultivated Blueberries 1.5kg (wild not available; cultivated substituted),12.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Bison Meat,Indigenous,small,Bison meat not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Bison Meat,Indigenous,bulk,Bison meat not found at this store,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,Indigenous,small,Russet Potatoes 5lb (3lb/1.36kg bag not available; 5lb substituted),6.99,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,Indigenous,bulk,Russet Potatoes 10lb (4.54kg),4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,Indigenous,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,Indigenous,bulk,Dairyland Whole Milk 3.25% 4L,6.19,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Indigenous,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Indigenous,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Pinto Beans Canned,Indigenous,small,Western Family Pinto Beans 540ml,1.67,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Pinto Beans Canned,Indigenous,bulk,Pinto Beans 6-pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Quaker Oats,Indigenous,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Crisco Shortening,Indigenous,small,Crisco All-Vegetable Shortening 454g,5.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Crisco Shortening,Indigenous,bulk,Crisco All-Vegetable Shortening 1.36kg,14.69,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Bread,Others,small,Western Family 100% Whole Wheat Traditional Loaf 570g,2.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Wheat Bread,Others,bulk,Whole Wheat Bread 2-loaf pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,Others,small,Dairyland Whole Milk 3.25% 1L,3.25,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Whole Milk 3.25%,Others,bulk,Dairyland Whole Milk 3.25% 4L,6.19,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Others,small,Western Family Large Brown Eggs 12-pack,5.79,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Eggs Large,Others,bulk,Western Family Large White Eggs 18-pack,7.35,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Chicken Breast Boneless Skinless,Others,small,SOF Chicken Breast Boneless Skinless Fresh ~500g avg sold by weight ($2.64/100g),13.22,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Chicken Breast Boneless Skinless,Others,bulk,SOF Chicken Breast Boneless Combo Pack ~800g avg sold by weight ($2.31/100g; 1.8kg not found),18.5,each,TRUE,TRUE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,Others,small,Russet Potatoes 5lb (2.27kg),6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Russet Potatoes,Others,bulk,Russet Potatoes 10lb (4.54kg),4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Carrots,Others,small,Carrots Cello Bag 3lb (1.36kg),4.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Carrots,Others,bulk,Carrots Orange 5lb Cello (2.27kg),7.49,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Black Beans Canned,Others,small,Western Family Black Beans 540ml,1.67,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Black Beans Canned,Others,bulk,Black Beans 6-pack not available,,each,FALSE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Canola Oil,Others,small,Western Family Pure Canola Oil 946ml (closest to 1L),6.49,each,TRUE,FALSE,2026-06-01,TRUE
+Save-On-Foods Delta,V4E2A9,Canola Oil,Others,bulk,Western Family Pure Canola Oil 3L,12.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Quaker Oats,Others,small,Quaker Quick Oats 1kg,6.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25kg,9.99,each,TRUE,FALSE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Bananas,Others,small,Bananas Yellow Fresh sold by weight $2.00/kg,2,per_kg,TRUE,TRUE,2026-06-01,FALSE
+Save-On-Foods Delta,V4E2A9,Bananas,Others,bulk,Bananas Yellow Fresh sold by weight $2.00/kg; no 3kg pre-pack,2,per_kg,TRUE,TRUE,2026-06-01,FALSE
