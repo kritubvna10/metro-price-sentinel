@@ -1,0 +1,41 @@
+week_ending,city,persona,rank,store_id,store_name,chain,small_total_cad,bulk_total_cad,statcan_total_cad,store_premium_pct,poverty_penalty_cad
+2026-06-10,Vancouver,Chinese,1,VAN-SOF-001,Save-On-Foods Cambie Street Vancouver,Save-On-Foods,194.25,442.58,218.37,-11.05,-248.33
+2026-06-10,Vancouver,Chinese,2,VAN-RCS-001,Real Canadian Superstore Seymour Blvd,Loblaws,203.4,303.66,218.37,-6.86,-100.26
+2026-06-10,Vancouver,South Asian,1,VAN-RCS-001,Real Canadian Superstore Seymour Blvd,Loblaws,131.47,289.73,123.21,6.7,-158.26
+2026-06-10,Vancouver,South Asian,2,VAN-SOF-001,Save-On-Foods Cambie Street Vancouver,Save-On-Foods,196.22,231.97,123.21,59.26,-35.75
+2026-06-10,Vancouver,Filipino,1,VAN-RCS-001,Real Canadian Superstore Seymour Blvd,Loblaws,167.54,334.18,208.53,-19.66,-166.64
+2026-06-10,Vancouver,Filipino,2,VAN-SOF-001,Save-On-Foods Cambie Street Vancouver,Save-On-Foods,260.25,299.95,208.53,24.8,-39.7
+2026-06-10,Vancouver,Others,1,VAN-RCS-001,Real Canadian Superstore Seymour Blvd,Loblaws,169.59,324.81,220.71,-23.16,-155.22
+2026-06-10,Vancouver,Others,2,VAN-SOF-001,Save-On-Foods Cambie Street Vancouver,Save-On-Foods,214.06,416.14,220.71,-3.01,-202.08
+2026-06-10,Surrey,South Asian,1,SUR-WMT-001,Walmart Surrey Downtown,Walmart,113.91,203.21,123.21,-7.55,-89.3
+2026-06-10,Surrey,South Asian,2,SUR-WMT-002,Walmart Surrey,Walmart,113.91,203.21,123.21,-7.55,-89.3
+2026-06-10,Surrey,South Asian,3,SUR-RCS-001,Superstore Guildford Surrey,Loblaws,145.33,338.88,123.21,17.95,-193.55
+2026-06-10,Surrey,South Asian,4,SUR-SOF-001,Save-On-Foods Fleetwood Surrey,Save-On-Foods,168.32,391.02,123.21,36.61,-222.7
+2026-06-10,Surrey,Chinese,1,SUR-WMT-001,Walmart Surrey Downtown,Walmart,178.36,285.14,218.37,-18.32,-106.78
+2026-06-10,Surrey,Chinese,2,SUR-WMT-002,Walmart Surrey,Walmart,178.36,285.14,218.37,-18.32,-106.78
+2026-06-10,Surrey,Chinese,3,SUR-RCS-001,Superstore Guildford Surrey,Loblaws,183.47,309.62,218.37,-15.98,-126.15
+2026-06-10,Surrey,Chinese,4,SUR-SOF-001,Save-On-Foods Fleetwood Surrey,Save-On-Foods,239.08,523.23,218.37,9.48,-284.15
+2026-06-10,Surrey,Filipino,1,SUR-RCS-001,Superstore Guildford Surrey,Loblaws,187.54,369.25,208.53,-10.07,-181.71
+2026-06-10,Surrey,Filipino,2,SUR-SOF-001,Save-On-Foods Fleetwood Surrey,Save-On-Foods,197.57,600.33,208.53,-5.26,-402.76
+2026-06-10,Surrey,Filipino,3,SUR-WMT-001,Walmart Surrey Downtown,Walmart,202.5,234.32,208.53,-2.89,-31.82
+2026-06-10,Surrey,Filipino,4,SUR-WMT-002,Walmart Surrey,Walmart,202.5,234.32,208.53,-2.89,-31.82
+2026-06-10,Surrey,Others,1,SUR-WMT-001,Walmart Surrey Downtown,Walmart,159.6,238.29,220.71,-27.69,-78.69
+2026-06-10,Surrey,Others,2,SUR-WMT-002,Walmart Surrey,Walmart,159.6,238.29,220.71,-27.69,-78.69
+2026-06-10,Surrey,Others,3,SUR-RCS-001,Superstore Guildford Surrey,Loblaws,177.59,350.81,220.71,-19.54,-173.22
+2026-06-10,Surrey,Others,4,SUR-SOF-001,Save-On-Foods Fleetwood Surrey,Save-On-Foods,211.71,335.61,220.71,-4.08,-123.9
+2026-06-10,Burnaby,Chinese,1,BUR-RCS-001,Superstore Lougheed Burnaby,Loblaws,200.1,297.66,218.37,-8.37,-97.56
+2026-06-10,Burnaby,South Asian,1,BUR-RCS-001,Superstore Lougheed Burnaby,Loblaws,138.23,268.29,123.21,12.19,-130.06
+2026-06-10,Burnaby,Korean,1,BUR-RCS-001,Superstore Lougheed Burnaby,Loblaws,181.07,283.55,263.25,-31.22,-102.48
+2026-06-10,Burnaby,Others,1,BUR-RCS-001,Superstore Lougheed Burnaby,Loblaws,178.71,370.91,220.71,-19.03,-192.2
+2026-06-10,Richmond,Chinese,1,RIC-RCS-001,Superstore Richmond,Loblaws,206.6,259.49,218.37,-5.39,-52.89
+2026-06-10,Richmond,South Asian,1,RIC-RCS-001,Superstore Richmond,Loblaws,140.27,281.9,123.21,13.85,-141.63
+2026-06-10,Richmond,Filipino,1,RIC-RCS-001,Superstore Richmond,Loblaws,219.12,372.06,208.53,5.08,-152.94
+2026-06-10,Richmond,Others,1,RIC-RCS-001,Superstore Richmond,Loblaws,188.03,374.81,220.71,-14.81,-186.78
+2026-06-10,Coquitlam,Chinese,1,COQ-SOF-001,Save-On-Foods Coquitlam,Save-On-Foods,125.96,268.39,218.37,-42.32,-142.43
+2026-06-10,Coquitlam,South Asian,1,COQ-SOF-001,Save-On-Foods Coquitlam,Save-On-Foods,118.42,227.13,123.21,-3.89,-108.71
+2026-06-10,Coquitlam,Korean,1,COQ-SOF-001,Save-On-Foods Coquitlam,Save-On-Foods,211.41,431.33,263.25,-19.69,-219.92
+2026-06-10,Coquitlam,Others,1,COQ-SOF-001,Save-On-Foods Coquitlam,Save-On-Foods,220.91,368.01,220.71,0.09,-147.1
+2026-06-10,Langley,European,1,LAN-WMT-001,Walmart Langley,Walmart,163.69,321.96,208.32,-21.42,-158.27
+2026-06-10,Langley,South Asian,1,LAN-WMT-001,Walmart Langley,Walmart,113.91,203.21,123.21,-7.55,-89.3
+2026-06-10,Langley,Chinese,1,LAN-WMT-001,Walmart Langley,Walmart,178.36,285.14,218.37,-18.32,-106.78
+2026-06-10,Langley,Others,1,LAN-WMT-001,Walmart Langley,Walmart,159.6,238.29,220.71,-27.69,-78.69

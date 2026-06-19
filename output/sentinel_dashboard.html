@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metro Vancouver Price Sentinel — Weekly Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg:       #f5f5f3;
+    --surface:  #ffffff;
+    --border:   rgba(0,0,0,0.10);
+    --text:     #1a1a18;
+    --muted:    #6b6b68;
+    --accent:   #185fa5;
+    --danger:   #a32d2d;
+    --success:  #0f6e56;
+    --warning:  #ba7517;
+    --radius:   10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:      #1c1c1a;
+      --surface: #2a2a28;
+      --border:  rgba(255,255,255,0.10);
+      --text:    #e8e8e4;
+      --muted:   #9a9a94;
+    }
+  }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 24px 16px;
+  }
+  h1 { font-size: 20px; font-weight: 500; }
+  h2 { font-size: 15px; font-weight: 500; margin-bottom: 12px; }
+  .subtitle { font-size: 13px; color: var(--muted); margin-top: 2px; }
+
+  .header {
+    display: flex; align-items: flex-start;
+    justify-content: space-between; flex-wrap: wrap;
+    gap: 12px; margin-bottom: 24px;
+  }
+  .week-badge {
+    font-size: 12px; color: var(--muted);
+    border: 0.5px solid var(--border);
+    padding: 4px 10px; border-radius: 20px;
+    white-space: nowrap; align-self: center;
+  }
+
+  /* Controls */
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;
+  }
+  .control-group { display: flex; flex-direction: column; gap: 4px; }
+  .control-group label {
+    font-size: 11px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--muted);
+  }
+  select {
+    font-size: 13px; padding: 6px 10px;
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface); color: var(--text);
+    cursor: pointer; min-width: 160px;
+  }
+
+  /* Metric cards */
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px; margin-bottom: 24px;
+  }
+  .card {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+  }
+  .card-label { font-size: 11px; color: var(--muted); margin-bottom: 4px; }
+  .card-value { font-size: 22px; font-weight: 500; }
+  .card-sub   { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .pos { color: var(--danger);  }
+  .neg { color: var(--success); }
+
+  /* Chart panels */
+  .charts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px; margin-bottom: 24px;
+  }
+  .panel {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+  }
+  .chart-wrap { position: relative; width: 100%; }
+
+  /* Best-value cards */
+  .best-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 12px; margin-bottom: 24px;
+  }
+  .best-card {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 14px;
+  }
+  .best-city  { font-size: 11px; color: var(--muted); margin-bottom: 2px; }
+  .best-store { font-size: 14px; font-weight: 500; }
+  .best-chain { font-size: 11px; color: var(--muted); }
+  .best-premium { font-size: 13px; margin-top: 6px; }
+
+  /* Table */
+  .table-wrap {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    overflow: auto;
+    margin-bottom: 24px;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th {
+    font-size: 11px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--muted); padding: 10px 12px;
+    text-align: left; white-space: nowrap;
+    border-bottom: 0.5px solid var(--border);
+    background: var(--surface);
+    position: sticky; top: 0;
+  }
+  tbody tr:hover { background: var(--bg); }
+  tbody td { padding: 9px 12px; border-bottom: 0.5px solid var(--border); }
+  tbody tr:last-child td { border-bottom: none; }
+  .rank-1 { font-weight: 500; color: var(--success); }
+  .anomaly-row { background: rgba(227,75,74,0.06); }
+  .badge {
+    display: inline-block; font-size: 11px;
+    padding: 2px 7px; border-radius: 4px;
+    font-weight: 500;
+  }
+  .badge-pos { background: rgba(163,45,45,0.10); color: var(--danger);  }
+  .badge-neg { background: rgba(15,110,86,0.10);  color: var(--success); }
+  .badge-warn { background: rgba(186,117,23,0.10); color: var(--warning); }
+
+  /* Poverty penalty legend */
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 16px;
+    font-size: 12px; color: var(--muted);
+    margin-bottom: 12px;
+  }
+  .legend span { display: flex; align-items: center; gap: 4px; }
+  .dot { width: 10px; height: 10px; border-radius: 2px; }
+
+  .section-title {
+    font-size: 13px; font-weight: 500;
+    color: var(--muted); margin-bottom: 12px;
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+</style>
+</head>
+<body>
+
+<div style="background:#ba7517; color:white; text-align:center; 
+            padding:12px; font-size:13px; font-weight:500;">
+  ⚠️ PILOT DATA — Prices are illustrative. Live store scraping coming Q3 2026. 
+  Methodology is peer-reviewed and production-ready. 
+  <a href="mailto:kritubvnabhattarai10@gmail.com" style="color:white; text-decoration:underline;">
+    Contact us to get involved.
+  </a>
+</div>
+
+<div class="header">
+  <div>
+    <h1>Metro Vancouver Price Sentinel</h1>
+    <p class="subtitle">Store Premium vs Statistics Canada BC Baseline</p>
+  </div>
+  <span class="week-badge">Week ending 2026-06-10</span>
+</div>
+
+<!-- CONTROLS -->
+<div class="controls">
+  <div class="control-group">
+    <label for="cityFilter">City</label>
+    <select id="cityFilter">
+      <option value="ALL">All cities</option>
+      <option value="Burnaby">Burnaby</option><option value="Coquitlam">Coquitlam</option><option value="Langley">Langley</option><option value="Richmond">Richmond</option><option value="Surrey">Surrey</option><option value="Vancouver">Vancouver</option>
+    </select>
+  </div>
+  <div class="control-group">
+    <label for="personaFilter">Persona</label>
+    <select id="personaFilter">
+      <option value="ALL">All personas</option>
+      <option value="Chinese">Chinese</option><option value="European">European</option><option value="Filipino">Filipino</option><option value="Korean">Korean</option><option value="Others">Others</option><option value="South Asian">South Asian</option>
+    </select>
+  </div>
+  <div class="control-group">
+    <label for="chainFilter">Chain</label>
+    <select id="chainFilter">
+      <option value="ALL">All chains</option>
+      <option value="Loblaws">Loblaws</option><option value="Save-On-Foods">Save-On-Foods</option><option value="Walmart">Walmart</option>
+    </select>
+  </div>
+</div>
+
+<!-- METRIC CARDS -->
+<div class="cards" id="metricCards"></div>
+
+<!-- CHARTS -->
+<div class="charts">
+  <div class="panel">
+    <h2>Store Premium Score (%)</h2>
+    <p class="subtitle" style="margin-bottom:12px;">
+      Positive = more expensive than StatCan baseline
+    </p>
+    <div class="legend">
+      <span><span class="dot" style="background:#a32d2d;"></span>Above baseline</span>
+      <span><span class="dot" style="background:#0f6e56;"></span>Below baseline</span>
+    </div>
+    <div class="chart-wrap" id="premiumWrap"><canvas id="premiumChart"
+      role="img" aria-label="Bar chart of store premium scores by store">Store premium scores.</canvas></div>
+  </div>
+  <div class="panel">
+    <h2>Poverty Penalty (CAD $)</h2>
+    <p class="subtitle" style="margin-bottom:12px;">
+      Extra cost of buying small vs. bulk packages
+    </p>
+    <div class="chart-wrap" id="penaltyWrap"><canvas id="penaltyChart"
+      role="img" aria-label="Bar chart of poverty penalty by store">Poverty penalty by store.</canvas></div>
+  </div>
+</div>
+
+<!-- BEST VALUE STORES -->
+<p class="section-title">Best value store per city (current filters)</p>
+<div class="best-grid" id="bestGrid"></div>
+
+<!-- FULL DATA TABLE -->
+<p class="section-title">All stores</p>
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Store</th>
+        <th>Chain</th>
+        <th>City</th>
+        <th>Persona</th>
+        <th>Small total</th>
+        <th>Bulk total</th>
+        <th>StatCan ref</th>
+        <th>Premium</th>
+        <th>Poverty penalty</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+</div>
+
+<script>
+const ALL_DATA = [{"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Chinese", "rank": 1.0, "store_id": "VAN-SOF-001", "store_name": "Save-On-Foods Cambie Street Vancouver", "chain": "Save-On-Foods", "small_total_cad": 194.25, "bulk_total_cad": 442.58, "statcan_total_cad": 218.37, "store_premium_pct": -11.05, "poverty_penalty_cad": -248.33}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Chinese", "rank": 2.0, "store_id": "VAN-RCS-001", "store_name": "Real Canadian Superstore Seymour Blvd", "chain": "Loblaws", "small_total_cad": 203.4, "bulk_total_cad": 303.66, "statcan_total_cad": 218.37, "store_premium_pct": -6.86, "poverty_penalty_cad": -100.26}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "South Asian", "rank": 1.0, "store_id": "VAN-RCS-001", "store_name": "Real Canadian Superstore Seymour Blvd", "chain": "Loblaws", "small_total_cad": 131.47, "bulk_total_cad": 289.73, "statcan_total_cad": 123.21, "store_premium_pct": 6.7, "poverty_penalty_cad": -158.26}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "South Asian", "rank": 2.0, "store_id": "VAN-SOF-001", "store_name": "Save-On-Foods Cambie Street Vancouver", "chain": "Save-On-Foods", "small_total_cad": 196.22, "bulk_total_cad": 231.97, "statcan_total_cad": 123.21, "store_premium_pct": 59.26, "poverty_penalty_cad": -35.75}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Filipino", "rank": 1.0, "store_id": "VAN-RCS-001", "store_name": "Real Canadian Superstore Seymour Blvd", "chain": "Loblaws", "small_total_cad": 167.54, "bulk_total_cad": 334.18, "statcan_total_cad": 208.53, "store_premium_pct": -19.66, "poverty_penalty_cad": -166.64}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Filipino", "rank": 2.0, "store_id": "VAN-SOF-001", "store_name": "Save-On-Foods Cambie Street Vancouver", "chain": "Save-On-Foods", "small_total_cad": 260.25, "bulk_total_cad": 299.95, "statcan_total_cad": 208.53, "store_premium_pct": 24.8, "poverty_penalty_cad": -39.7}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Others", "rank": 1.0, "store_id": "VAN-RCS-001", "store_name": "Real Canadian Superstore Seymour Blvd", "chain": "Loblaws", "small_total_cad": 169.59, "bulk_total_cad": 324.81, "statcan_total_cad": 220.71, "store_premium_pct": -23.16, "poverty_penalty_cad": -155.22}, {"week_ending": "2026-06-10", "city": "Vancouver", "persona": "Others", "rank": 2.0, "store_id": "VAN-SOF-001", "store_name": "Save-On-Foods Cambie Street Vancouver", "chain": "Save-On-Foods", "small_total_cad": 214.06, "bulk_total_cad": 416.14, "statcan_total_cad": 220.71, "store_premium_pct": -3.01, "poverty_penalty_cad": -202.08}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "South Asian", "rank": 1.0, "store_id": "SUR-WMT-001", "store_name": "Walmart Surrey Downtown", "chain": "Walmart", "small_total_cad": 113.91, "bulk_total_cad": 203.21, "statcan_total_cad": 123.21, "store_premium_pct": -7.55, "poverty_penalty_cad": -89.3}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "South Asian", "rank": 2.0, "store_id": "SUR-WMT-002", "store_name": "Walmart Surrey", "chain": "Walmart", "small_total_cad": 113.91, "bulk_total_cad": 203.21, "statcan_total_cad": 123.21, "store_premium_pct": -7.55, "poverty_penalty_cad": -89.3}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "South Asian", "rank": 3.0, "store_id": "SUR-RCS-001", "store_name": "Superstore Guildford Surrey", "chain": "Loblaws", "small_total_cad": 145.33, "bulk_total_cad": 338.88, "statcan_total_cad": 123.21, "store_premium_pct": 17.95, "poverty_penalty_cad": -193.55}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "South Asian", "rank": 4.0, "store_id": "SUR-SOF-001", "store_name": "Save-On-Foods Fleetwood Surrey", "chain": "Save-On-Foods", "small_total_cad": 168.32, "bulk_total_cad": 391.02, "statcan_total_cad": 123.21, "store_premium_pct": 36.61, "poverty_penalty_cad": -222.7}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Chinese", "rank": 1.0, "store_id": "SUR-WMT-001", "store_name": "Walmart Surrey Downtown", "chain": "Walmart", "small_total_cad": 178.36, "bulk_total_cad": 285.14, "statcan_total_cad": 218.37, "store_premium_pct": -18.32, "poverty_penalty_cad": -106.78}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Chinese", "rank": 2.0, "store_id": "SUR-WMT-002", "store_name": "Walmart Surrey", "chain": "Walmart", "small_total_cad": 178.36, "bulk_total_cad": 285.14, "statcan_total_cad": 218.37, "store_premium_pct": -18.32, "poverty_penalty_cad": -106.78}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Chinese", "rank": 3.0, "store_id": "SUR-RCS-001", "store_name": "Superstore Guildford Surrey", "chain": "Loblaws", "small_total_cad": 183.47, "bulk_total_cad": 309.62, "statcan_total_cad": 218.37, "store_premium_pct": -15.98, "poverty_penalty_cad": -126.15}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Chinese", "rank": 4.0, "store_id": "SUR-SOF-001", "store_name": "Save-On-Foods Fleetwood Surrey", "chain": "Save-On-Foods", "small_total_cad": 239.08, "bulk_total_cad": 523.23, "statcan_total_cad": 218.37, "store_premium_pct": 9.48, "poverty_penalty_cad": -284.15}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Filipino", "rank": 1.0, "store_id": "SUR-RCS-001", "store_name": "Superstore Guildford Surrey", "chain": "Loblaws", "small_total_cad": 187.54, "bulk_total_cad": 369.25, "statcan_total_cad": 208.53, "store_premium_pct": -10.07, "poverty_penalty_cad": -181.71}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Filipino", "rank": 2.0, "store_id": "SUR-SOF-001", "store_name": "Save-On-Foods Fleetwood Surrey", "chain": "Save-On-Foods", "small_total_cad": 197.57, "bulk_total_cad": 600.33, "statcan_total_cad": 208.53, "store_premium_pct": -5.26, "poverty_penalty_cad": -402.76}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Filipino", "rank": 3.0, "store_id": "SUR-WMT-001", "store_name": "Walmart Surrey Downtown", "chain": "Walmart", "small_total_cad": 202.5, "bulk_total_cad": 234.32, "statcan_total_cad": 208.53, "store_premium_pct": -2.89, "poverty_penalty_cad": -31.82}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Filipino", "rank": 4.0, "store_id": "SUR-WMT-002", "store_name": "Walmart Surrey", "chain": "Walmart", "small_total_cad": 202.5, "bulk_total_cad": 234.32, "statcan_total_cad": 208.53, "store_premium_pct": -2.89, "poverty_penalty_cad": -31.82}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Others", "rank": 1.0, "store_id": "SUR-WMT-001", "store_name": "Walmart Surrey Downtown", "chain": "Walmart", "small_total_cad": 159.6, "bulk_total_cad": 238.29, "statcan_total_cad": 220.71, "store_premium_pct": -27.69, "poverty_penalty_cad": -78.69}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Others", "rank": 2.0, "store_id": "SUR-WMT-002", "store_name": "Walmart Surrey", "chain": "Walmart", "small_total_cad": 159.6, "bulk_total_cad": 238.29, "statcan_total_cad": 220.71, "store_premium_pct": -27.69, "poverty_penalty_cad": -78.69}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Others", "rank": 3.0, "store_id": "SUR-RCS-001", "store_name": "Superstore Guildford Surrey", "chain": "Loblaws", "small_total_cad": 177.59, "bulk_total_cad": 350.81, "statcan_total_cad": 220.71, "store_premium_pct": -19.54, "poverty_penalty_cad": -173.22}, {"week_ending": "2026-06-10", "city": "Surrey", "persona": "Others", "rank": 4.0, "store_id": "SUR-SOF-001", "store_name": "Save-On-Foods Fleetwood Surrey", "chain": "Save-On-Foods", "small_total_cad": 211.71, "bulk_total_cad": 335.61, "statcan_total_cad": 220.71, "store_premium_pct": -4.08, "poverty_penalty_cad": -123.9}, {"week_ending": "2026-06-10", "city": "Burnaby", "persona": "Chinese", "rank": 1.0, "store_id": "BUR-RCS-001", "store_name": "Superstore Lougheed Burnaby", "chain": "Loblaws", "small_total_cad": 200.1, "bulk_total_cad": 297.66, "statcan_total_cad": 218.37, "store_premium_pct": -8.37, "poverty_penalty_cad": -97.56}, {"week_ending": "2026-06-10", "city": "Burnaby", "persona": "South Asian", "rank": 1.0, "store_id": "BUR-RCS-001", "store_name": "Superstore Lougheed Burnaby", "chain": "Loblaws", "small_total_cad": 138.23, "bulk_total_cad": 268.29, "statcan_total_cad": 123.21, "store_premium_pct": 12.19, "poverty_penalty_cad": -130.06}, {"week_ending": "2026-06-10", "city": "Burnaby", "persona": "Korean", "rank": 1.0, "store_id": "BUR-RCS-001", "store_name": "Superstore Lougheed Burnaby", "chain": "Loblaws", "small_total_cad": 181.07, "bulk_total_cad": 283.55, "statcan_total_cad": 263.25, "store_premium_pct": -31.22, "poverty_penalty_cad": -102.48}, {"week_ending": "2026-06-10", "city": "Burnaby", "persona": "Others", "rank": 1.0, "store_id": "BUR-RCS-001", "store_name": "Superstore Lougheed Burnaby", "chain": "Loblaws", "small_total_cad": 178.71, "bulk_total_cad": 370.91, "statcan_total_cad": 220.71, "store_premium_pct": -19.03, "poverty_penalty_cad": -192.2}, {"week_ending": "2026-06-10", "city": "Richmond", "persona": "Chinese", "rank": 1.0, "store_id": "RIC-RCS-001", "store_name": "Superstore Richmond", "chain": "Loblaws", "small_total_cad": 206.6, "bulk_total_cad": 259.49, "statcan_total_cad": 218.37, "store_premium_pct": -5.39, "poverty_penalty_cad": -52.89}, {"week_ending": "2026-06-10", "city": "Richmond", "persona": "South Asian", "rank": 1.0, "store_id": "RIC-RCS-001", "store_name": "Superstore Richmond", "chain": "Loblaws", "small_total_cad": 140.27, "bulk_total_cad": 281.9, "statcan_total_cad": 123.21, "store_premium_pct": 13.85, "poverty_penalty_cad": -141.63}, {"week_ending": "2026-06-10", "city": "Richmond", "persona": "Filipino", "rank": 1.0, "store_id": "RIC-RCS-001", "store_name": "Superstore Richmond", "chain": "Loblaws", "small_total_cad": 219.12, "bulk_total_cad": 372.06, "statcan_total_cad": 208.53, "store_premium_pct": 5.08, "poverty_penalty_cad": -152.94}, {"week_ending": "2026-06-10", "city": "Richmond", "persona": "Others", "rank": 1.0, "store_id": "RIC-RCS-001", "store_name": "Superstore Richmond", "chain": "Loblaws", "small_total_cad": 188.03, "bulk_total_cad": 374.81, "statcan_total_cad": 220.71, "store_premium_pct": -14.81, "poverty_penalty_cad": -186.78}, {"week_ending": "2026-06-10", "city": "Coquitlam", "persona": "Chinese", "rank": 1.0, "store_id": "COQ-SOF-001", "store_name": "Save-On-Foods Coquitlam", "chain": "Save-On-Foods", "small_total_cad": 125.96, "bulk_total_cad": 268.39, "statcan_total_cad": 218.37, "store_premium_pct": -42.32, "poverty_penalty_cad": -142.43}, {"week_ending": "2026-06-10", "city": "Coquitlam", "persona": "South Asian", "rank": 1.0, "store_id": "COQ-SOF-001", "store_name": "Save-On-Foods Coquitlam", "chain": "Save-On-Foods", "small_total_cad": 118.42, "bulk_total_cad": 227.13, "statcan_total_cad": 123.21, "store_premium_pct": -3.89, "poverty_penalty_cad": -108.71}, {"week_ending": "2026-06-10", "city": "Coquitlam", "persona": "Korean", "rank": 1.0, "store_id": "COQ-SOF-001", "store_name": "Save-On-Foods Coquitlam", "chain": "Save-On-Foods", "small_total_cad": 211.41, "bulk_total_cad": 431.33, "statcan_total_cad": 263.25, "store_premium_pct": -19.69, "poverty_penalty_cad": -219.92}, {"week_ending": "2026-06-10", "city": "Coquitlam", "persona": "Others", "rank": 1.0, "store_id": "COQ-SOF-001", "store_name": "Save-On-Foods Coquitlam", "chain": "Save-On-Foods", "small_total_cad": 220.91, "bulk_total_cad": 368.01, "statcan_total_cad": 220.71, "store_premium_pct": 0.09, "poverty_penalty_cad": -147.1}, {"week_ending": "2026-06-10", "city": "Langley", "persona": "European", "rank": 1.0, "store_id": "LAN-WMT-001", "store_name": "Walmart Langley", "chain": "Walmart", "small_total_cad": 163.69, "bulk_total_cad": 321.96, "statcan_total_cad": 208.32, "store_premium_pct": -21.42, "poverty_penalty_cad": -158.27}, {"week_ending": "2026-06-10", "city": "Langley", "persona": "South Asian", "rank": 1.0, "store_id": "LAN-WMT-001", "store_name": "Walmart Langley", "chain": "Walmart", "small_total_cad": 113.91, "bulk_total_cad": 203.21, "statcan_total_cad": 123.21, "store_premium_pct": -7.55, "poverty_penalty_cad": -89.3}, {"week_ending": "2026-06-10", "city": "Langley", "persona": "Chinese", "rank": 1.0, "store_id": "LAN-WMT-001", "store_name": "Walmart Langley", "chain": "Walmart", "small_total_cad": 178.36, "bulk_total_cad": 285.14, "statcan_total_cad": 218.37, "store_premium_pct": -18.32, "poverty_penalty_cad": -106.78}, {"week_ending": "2026-06-10", "city": "Langley", "persona": "Others", "rank": 1.0, "store_id": "LAN-WMT-001", "store_name": "Walmart Langley", "chain": "Walmart", "small_total_cad": 159.6, "bulk_total_cad": 238.29, "statcan_total_cad": 220.71, "store_premium_pct": -27.69, "poverty_penalty_cad": -78.69}];
+
+let premiumChart = null;
+let penaltyChart  = null;
+
+function fmt(n, prefix='', suffix='', decimals=2) {
+  if (n === null || n === undefined) return '—';
+  const v = parseFloat(n);
+  if (isNaN(v)) return '—';
+  const sign = (prefix === '$' && v < 0) ? '-' : '';
+  return sign + prefix + Math.abs(v).toFixed(decimals) + suffix;
+}
+
+function premiumBadge(v) {
+  if (v === null) return '<span class="badge badge-warn">N/A</span>';
+  const n = parseFloat(v);
+  if (n > 5)  return `<span class="badge badge-pos">+${n.toFixed(1)}%</span>`;
+  if (n < -2) return `<span class="badge badge-neg">${n.toFixed(1)}%</span>`;
+  return `<span class="badge badge-warn">${n.toFixed(1)}%</span>`;
+}
+
+function getFiltered() {
+  const city    = document.getElementById('cityFilter').value;
+  const persona = document.getElementById('personaFilter').value;
+  const chain   = document.getElementById('chainFilter').value;
+  return ALL_DATA.filter(r =>
+    (city    === 'ALL' || r.city    === city)    &&
+    (persona === 'ALL' || r.persona === persona) &&
+    (chain   === 'ALL' || r.chain   === chain)
+  );
+}
+
+function updateMetrics(data) {
+  const premiums  = data.map(r => r.store_premium_pct).filter(v => v !== null);
+  const penalties = data.map(r => r.poverty_penalty_cad).filter(v => v !== null);
+  const stores    = new Set(data.map(r => r.store_id)).size;
+
+  const avg  = premiums.length  ? premiums.reduce((a,b)=>a+b,0)/premiums.length  : null;
+  const avgP = penalties.length ? penalties.reduce((a,b)=>a+b,0)/penalties.length : null;
+  const worst = premiums.length ? Math.max(...premiums) : null;
+  const best  = premiums.length ? Math.min(...premiums) : null;
+
+  const avgClass   = avg   !== null ? (avg   > 0 ? 'pos' : 'neg') : '';
+  const worstClass = worst !== null ? (worst > 0 ? 'pos' : 'neg') : '';
+  const bestClass  = best  !== null ? (best  > 0 ? 'pos' : 'neg') : '';
+
+  document.getElementById('metricCards').innerHTML = `
+    <div class="card">
+      <div class="card-label">Stores tracked</div>
+      <div class="card-value">${stores}</div>
+      <div class="card-sub">in current filter</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Avg store premium</div>
+      <div class="card-value ${avgClass}">${avg !== null ? (avg > 0 ? '+' : '') + avg.toFixed(1) + '%' : '—'}</div>
+      <div class="card-sub">vs StatCan BC baseline</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Highest premium</div>
+      <div class="card-value ${worstClass}">${worst !== null ? (worst > 0 ? '+' : '') + worst.toFixed(1) + '%' : '—'}</div>
+      <div class="card-sub">most expensive</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Lowest premium</div>
+      <div class="card-value ${bestClass}">${best !== null ? (best > 0 ? '+' : '') + best.toFixed(1) + '%' : '—'}</div>
+      <div class="card-sub">best value</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Avg poverty penalty</div>
+      <div class="card-value pos">${avgP !== null ? '$' + avgP.toFixed(2) : '—'}</div>
+      <div class="card-sub">small vs bulk per basket</div>
+    </div>
+  `;
+}
+
+function updateCharts(data) {
+  // Aggregate by store name (average across personas)
+  const byStore = {};
+  data.forEach(r => {
+    if (!byStore[r.store_name]) byStore[r.store_name] = { premiums: [], penalties: [] };
+    if (r.store_premium_pct   !== null) byStore[r.store_name].premiums.push(r.store_premium_pct);
+    if (r.poverty_penalty_cad !== null) byStore[r.store_name].penalties.push(r.poverty_penalty_cad);
+  });
+
+  const labels   = Object.keys(byStore);
+  const premiums = labels.map(s => {
+    const arr = byStore[s].premiums;
+    return arr.length ? parseFloat((arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2)) : 0;
+  });
+  const penalties = labels.map(s => {
+    const arr = byStore[s].penalties;
+    return arr.length ? parseFloat((arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2)) : 0;
+  });
+
+  const premiumColors  = premiums.map(v  => v  > 0 ? '#a32d2d' : '#0f6e56');
+  const penaltyColors  = penalties.map(() => '#185fa5');
+
+  const barHeight = 36;
+  const minHeight = 200;
+
+  // Premium chart
+  const ph = Math.max(minHeight, labels.length * barHeight + 80);
+  document.getElementById('premiumWrap').style.height = ph + 'px';
+  if (premiumChart) { premiumChart.destroy(); }
+  premiumChart = new Chart(document.getElementById('premiumChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Store Premium (%)',
+        data: premiums,
+        backgroundColor: premiumColors,
+        borderRadius: 3,
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: ctx => (ctx.raw > 0 ? '+' : '') + ctx.raw.toFixed(2) + '%'
+          }
+        }
+      },
+      scales: {
+        x: {
+          grid: { color: 'rgba(128,128,128,0.12)' },
+          ticks: {
+            callback: v => (v > 0 ? '+' : '') + v + '%',
+            color: '#888'
+          }
+        },
+        y: { ticks: { color: '#888', font: { size: 11 } } }
+      }
+    }
+  });
+
+  // Penalty chart
+  const ppH = Math.max(minHeight, labels.length * barHeight + 80);
+  document.getElementById('penaltyWrap').style.height = ppH + 'px';
+  if (penaltyChart) { penaltyChart.destroy(); }
+  penaltyChart = new Chart(document.getElementById('penaltyChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Poverty Penalty ($)',
+        data: penalties,
+        backgroundColor: penaltyColors,
+        borderRadius: 3,
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: { label: ctx => '$' + ctx.raw.toFixed(2) }
+        }
+      },
+      scales: {
+        x: {
+          grid: { color: 'rgba(128,128,128,0.12)' },
+          ticks: { callback: v => '$' + v, color: '#888' }
+        },
+        y: { ticks: { color: '#888', font: { size: 11 } } }
+      }
+    }
+  });
+}
+
+function updateBestGrid(data) {
+  const byCity = {};
+  data.forEach(r => {
+    const city = r.city;
+    if (!byCity[city]) byCity[city] = [];
+    byCity[city].push(r);
+  });
+
+  let html = '';
+  Object.keys(byCity).sort().forEach(city => {
+    const rows = byCity[city];
+    // Pick best store: lowest avg premium
+    const byStore = {};
+    rows.forEach(r => {
+      if (!byStore[r.store_id]) byStore[r.store_id] = { name: r.store_name, chain: r.chain, premiums: [] };
+      if (r.store_premium_pct !== null) byStore[r.store_id].premiums.push(r.store_premium_pct);
+    });
+    let best = null, bestAvg = Infinity;
+    Object.values(byStore).forEach(s => {
+      const avg = s.premiums.length ? s.premiums.reduce((a,b)=>a+b,0)/s.premiums.length : Infinity;
+      if (avg < bestAvg) { bestAvg = avg; best = s; }
+    });
+    if (!best) return;
+    const cls = bestAvg > 0 ? 'pos' : 'neg';
+    const sign = bestAvg > 0 ? '+' : '';
+    html += `
+      <div class="best-card">
+        <div class="best-city">${city}</div>
+        <div class="best-store">${best.name}</div>
+        <div class="best-chain">${best.chain}</div>
+        <div class="best-premium ${cls}">${sign}${bestAvg.toFixed(1)}% vs StatCan</div>
+      </div>`;
+  });
+  document.getElementById('bestGrid').innerHTML = html || '<p style="color:var(--muted)">No data</p>';
+}
+
+function updateTable(data) {
+  const sorted = [...data].sort((a, b) => {
+    if (a.city !== b.city) return a.city.localeCompare(b.city);
+    return (a.store_premium_pct ?? 999) - (b.store_premium_pct ?? 999);
+  });
+
+  const rows = sorted.map(r => {
+    const premium = r.store_premium_pct;
+    const isAnom  = premium !== null && Math.abs(premium) > 50;
+    const rankCls = r.rank === 1 ? 'rank-1' : '';
+    return `
+      <tr class="${isAnom ? 'anomaly-row' : ''}">
+        <td class="${rankCls}">${r.rank ?? '—'}</td>
+        <td>${r.store_name}</td>
+        <td>${r.chain}</td>
+        <td>${r.city}</td>
+        <td>${r.persona}</td>
+        <td>${fmt(r.small_total_cad,   '$', '', 2)}</td>
+        <td>${fmt(r.bulk_total_cad,    '$', '', 2)}</td>
+        <td>${fmt(r.statcan_total_cad, '$', '', 2)}</td>
+        <td>${premiumBadge(premium)}</td>
+        <td>${fmt(r.poverty_penalty_cad, '$', '', 2)}</td>
+      </tr>`;
+  }).join('');
+
+  document.getElementById('tableBody').innerHTML =
+    rows || '<tr><td colspan="10" style="color:var(--muted);padding:16px">No data for selected filters.</td></tr>';
+}
+
+function refresh() {
+  const data = getFiltered();
+  updateMetrics(data);
+  updateCharts(data);
+  updateBestGrid(data);
+  updateTable(data);
+}
+
+['cityFilter','personaFilter','chainFilter'].forEach(id =>
+  document.getElementById(id).addEventListener('change', refresh)
+);
+
+refresh();
+</script>
+</body>
+</html>
