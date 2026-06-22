@@ -34,6 +34,7 @@ interface RawRow {
   available: string;
   persona: string;
   size_type: string;
+  collection_date: string;
 }
 
 const CSV_URL = `${import.meta.env.BASE_URL}data/sentinel_prices_master.csv`;
@@ -100,6 +101,20 @@ function buildStores(
 ): { stores: Store[]; cheapestCost: number } {
   const groups = new Map<string, StoreAccumulator>();
 
+  // History-aware costing. The master CSV accumulates weekly snapshots, so a
+  // store can appear under several `collection_date` values. We cost only each
+  // store's most recent snapshot; older snapshots stay in the file for trend
+  // analysis but must not be summed into the current basket (that would
+  // double-count). collection_date is ISO YYYY-MM-DD, so string max == latest.
+  const latestDateByStore = new Map<string, string>();
+  for (const row of rows) {
+    const name = row.store_name?.trim();
+    const date = row.collection_date?.trim();
+    if (!name || !date) continue;
+    const current = latestDateByStore.get(name);
+    if (!current || date > current) latestDateByStore.set(name, date);
+  }
+
   // Resolve the (possibly slug-formatted) selection to the CSV's persona string.
   const persona =
     selectedBasket === 'All'
@@ -114,6 +129,9 @@ function buildStores(
 
     const name = row.store_name?.trim();
     if (!name) continue;
+
+    // Skip rows that aren't part of this store's latest snapshot.
+    if (row.collection_date?.trim() !== latestDateByStore.get(name)) continue;
 
     const group = groups.get(name) ?? {
       priceSum: 0,
