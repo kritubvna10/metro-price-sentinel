@@ -159,9 +159,11 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **22 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta, North Vancouver, New Westminster, and Maple Ridge.
 - **3 chain tiers** — discount (No Frills, FreshCo/CHALO!), mid-tier (Superstore, Save-On-Foods), mass (Walmart).
 - **6,212 price data points** collected May–July 2026 across 46 store snapshots, updated weekly.
-- **2 package sizes** (small + bulk) per product, used to calculate the poverty penalty.
+- **2 package sizes** (small + bulk) per product, recorded for the planned poverty-penalty analysis.
 
-The poverty penalty in the pilot data ranges from **$19.26 to $51.22 per bi-weekly trip** — roughly **$500 to $1,319 per year** — paid by families who cannot afford bulk purchases.
+Across the current data, the gap between the most and least expensive store for the full basket is **$126.79 per bi-weekly trip** (Save-On-Foods Maple Ridge at **$451.17** vs. Walmart Surrey Downtown at **$324.38**) — roughly **$3,297 per year** over 26 trips — the premium a family pays simply for where they shop.
+
+> **Bulk-vs-small "poverty penalty" analysis is future work**, pending structured package-size data across all stores. The figure above is the store-to-store price gap computed directly from the master CSV, not a small-vs-bulk penalty.
 
 The `/dashboard` route provides the interactive store comparison; the home page sections explain the methodology, community baskets, and the research decisions behind each one.
 
