@@ -1,9 +1,7 @@
 import { useEffect, useMemo } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import FilterBar, {
-  type FilterKey,
-  BASKET_OPTIONS,
-} from '../components/dashboard/FilterBar';
+import FilterBar, { type FilterKey } from '../components/dashboard/FilterBar';
+import { BASKET_OPTIONS } from '../components/dashboard/basketOptions';
 import KpiRow from '../components/dashboard/KpiRow';
 import PremiumChart from '../components/dashboard/PremiumChart';
 import ContextPanel from '../components/dashboard/ContextPanel';

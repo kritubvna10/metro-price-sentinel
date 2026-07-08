@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { ChevronDown, SlidersHorizontal, X } from 'lucide-react';
 import { AnimatePresence, motion } from 'framer-motion';
+import { BASKET_OPTIONS } from './basketOptions';
 
 export type FilterKey = 'city' | 'basket' | 'chain';
 
@@ -15,17 +16,6 @@ export interface FilterBarProps {
   onChange: (key: FilterKey, value: string) => void;
   onReset: () => void;
 }
-
-export const BASKET_OPTIONS: readonly string[] = [
-  'All',
-  'South Asian',
-  'Chinese',
-  'Filipino',
-  'Korean',
-  'European',
-  'Indigenous',
-  'Others',
-];
 
 interface FilterPillProps {
   label: string;
