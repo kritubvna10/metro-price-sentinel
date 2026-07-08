@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { usePriceData } from '../../hooks/usePriceData';
 
 const INTER = "'Inter', sans-serif";
 
@@ -74,6 +75,14 @@ function MethodologyLink(): React.JSX.Element {
 }
 
 export default function MethodologyFooter(): React.JSX.Element {
+  const { storeCount, observationCount, snapshotCount, basketCount, dateRangeLabel, loading } =
+    usePriceData('All');
+
+  const summary =
+    loading || observationCount === 0
+      ? 'Prices were collected from Metro Vancouver stores'
+      : `Prices were collected from ${storeCount} Metro Vancouver stores over ${dateRangeLabel} — ${observationCount.toLocaleString()} price observations across ${snapshotCount} store snapshots and ${basketCount} community baskets`;
+
   return (
     <footer
       style={{
@@ -91,12 +100,9 @@ export default function MethodologyFooter(): React.JSX.Element {
         <h2 style={HEADING_STYLE}>About this comparison</h2>
 
         <p style={BODY_STYLE}>
-          Prices were collected from 22 Metro Vancouver stores between May and
-          July 2026 &mdash; 6,212 price observations across 46 store snapshots and
-          7 community baskets &mdash; and compared against Statistics Canada
-          provincial average food price baselines (Table 18-10-0245-01). Store
-          Premium shows how much higher or lower a store&rsquo;s observed prices
-          are compared with that baseline for the selected basket.
+          {summary}. Store Premium shows how much more a store&rsquo;s basket
+          costs than the cheapest store in view for the selected basket &mdash;
+          the cheapest store is the 0% reference point.
         </p>
 
         <p style={{ ...BODY_STYLE, marginTop: '16px' }}>

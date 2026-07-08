@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
+import { usePriceData, storeChoicePremium } from '../hooks/usePriceData';
 
 function useCountUp(target: number, duration: number, start: boolean): number {
   const [count, setCount] = useState(0);
@@ -29,7 +30,9 @@ function useCountUp(target: number, duration: number, start: boolean): number {
 }
 
 export default function HeroSection(): React.JSX.Element {
-  const count = useCountUp(277, 1.5, true);
+  const { stores } = usePriceData('All');
+  const { annual } = storeChoicePremium(stores);
+  const count = useCountUp(annual, 1.5, true);
   const navigate = useNavigate();
 
   return (
@@ -65,13 +68,13 @@ export default function HeroSection(): React.JSX.Element {
             className="text-7xl sm:text-8xl font-bold tabular-nums"
             style={{ fontFamily: "'DM Mono', monospace", color: '#F97316' }}
           >
-            ${count}
+            ${count.toLocaleString()}
           </div>
           <p
             className="text-lg"
             style={{ fontFamily: "'Inter', sans-serif", color: '#6B7280' }}
           >
-            per year, the hidden poverty penalty
+            per year, the store-choice premium on the same basket
           </p>
         </motion.div>
 

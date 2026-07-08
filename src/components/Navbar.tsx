@@ -1,7 +1,13 @@
 import { useEffect, useState } from 'react';
+import { usePriceData } from '../hooks/usePriceData';
 
 export default function Navbar(): React.JSX.Element {
   const [scrolled, setScrolled] = useState(false);
+  const { storeCount, dateRangeLabel, loading } = usePriceData('All');
+  const summary =
+    loading || storeCount === 0
+      ? 'Metro Vancouver'
+      : `Metro Vancouver · ${storeCount} Stores · ${dateRangeLabel}`;
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 10);
@@ -25,7 +31,7 @@ export default function Navbar(): React.JSX.Element {
           className="text-sm hidden sm:block"
           style={{ fontFamily: "'DM Mono', monospace", color: '#6B7280' }}
         >
-          Metro Vancouver · 22 Stores · June 2026
+          {summary}
         </span>
       </div>
     </nav>

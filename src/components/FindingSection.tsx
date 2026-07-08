@@ -1,6 +1,18 @@
 import { motion } from 'framer-motion';
+import { usePriceData, storeChoicePremium } from '../hooks/usePriceData';
 
-export default function FindingSection(): React.JSX.Element {
+export default function FindingSection(): React.JSX.Element | null {
+  const { stores, loading, dateRangeLabel, observationCount } = usePriceData('All');
+  const { cheapest, priciest, perTrip } = storeChoicePremium(stores);
+
+  // The finding is the real store-to-store gap; show nothing until the CSV
+  // yields two distinct priced stores to compare.
+  if (loading || !cheapest || !priciest || cheapest.name === priciest.name) {
+    return null;
+  }
+
+  const percentMore = Math.round((perTrip / cheapest.basketCost) * 100);
+
   return (
     <section className="py-24 bg-white">
       <div className="max-w-5xl mx-auto px-6">
@@ -15,7 +27,7 @@ export default function FindingSection(): React.JSX.Element {
             className="text-xs tracking-[0.2em] uppercase mb-8"
             style={{ fontFamily: "'DM Mono', monospace", color: '#6B7280' }}
           >
-            This Week's Finding
+            This Week&rsquo;s Finding
           </p>
 
           <blockquote>
@@ -23,9 +35,12 @@ export default function FindingSection(): React.JSX.Element {
               className="text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug"
               style={{ fontFamily: "'Inter', sans-serif", color: '#111827' }}
             >
-              South Asian households in North Vancouver pay{' '}
-              <span style={{ color: '#F97316' }}>31% more for staples</span>{' '}
-              than families in Surrey, because toor dal and bulk atta don't exist at their nearest store.
+              A household shopping at {priciest.name} in {priciest.city} pays{' '}
+              <span style={{ color: '#F97316' }}>
+                {percentMore}% more (${perTrip.toFixed(2)} per trip)
+              </span>{' '}
+              for the same basket than one shopping at {cheapest.name} in{' '}
+              {cheapest.city}.
             </p>
           </blockquote>
 
@@ -33,7 +48,8 @@ export default function FindingSection(): React.JSX.Element {
             className="mt-8 text-sm"
             style={{ fontFamily: "'DM Mono', monospace", color: '#6B7280' }}
           >
-            Save-On-Foods Lonsdale · June 2026 · 140 prices collected
+            {cheapest.name} vs {priciest.name} · {dateRangeLabel} ·{' '}
+            {observationCount.toLocaleString()} prices collected
           </p>
         </motion.div>
       </div>

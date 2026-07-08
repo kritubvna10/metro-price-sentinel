@@ -1,4 +1,12 @@
+import { usePriceData } from '../hooks/usePriceData';
+
 export default function Footer(): React.JSX.Element {
+  const { storeCount, dateRangeLabel, loading } = usePriceData('All');
+  const trackedLabel =
+    loading || storeCount === 0
+      ? 'Metro Vancouver grocery prices'
+      : `${storeCount} stores tracked · ${dateRangeLabel}`;
+
   return (
     <footer style={{ backgroundColor: '#111827' }}>
       <div className="max-w-5xl mx-auto px-6 py-16">
@@ -18,7 +26,7 @@ export default function Footer(): React.JSX.Element {
               className="text-sm"
               style={{ fontFamily: "'DM Mono', monospace", color: '#6B7280' }}
             >
-              22 stores tracked · June 2026
+              {trackedLabel}
             </p>
           </div>
 
@@ -91,7 +99,7 @@ export default function Footer(): React.JSX.Element {
           className="text-xs max-w-2xl mx-auto px-6 leading-relaxed"
           style={{ fontFamily: "'DM Mono', monospace", color: '#4B5563' }}
         >
-          ▲ PILOT DATA. Prices are illustrative. Automated weekly collection launching Q3 2026.
+          Independent civic data. Prices collected directly from store websites; some are approximate. Not affiliated with any retailer.
         </p>
       </div>
     </footer>

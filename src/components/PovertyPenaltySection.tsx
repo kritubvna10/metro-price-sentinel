@@ -1,12 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { usePriceData } from '../hooks/usePriceData';
+import { usePriceData, storeChoicePremium } from '../hooks/usePriceData';
 
 const INTER = "'Inter', sans-serif";
 const DM_MONO = "'DM Mono', monospace";
-
-/** Bi-weekly shopping trips in a year — the multiplier behind the annual gap. */
-const TRIPS_PER_YEAR = 26;
 
 /** Counts up to `target` once `active` becomes true (used on scroll-into-view). */
 function useCountUp(target: number, duration: number, active: boolean): number {
@@ -75,21 +72,8 @@ export default function PovertyPenaltySection(): React.JSX.Element | null {
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true, margin: '-120px' });
   const { stores, loading } = usePriceData('All');
-
-  // Only stores with a real basket cost can anchor the comparison.
-  const priced = stores.filter((store) => store.basketCost > 0);
-  const cheapest = priced.reduce<typeof priced[number] | null>(
-    (min, store) => (min === null || store.basketCost < min.basketCost ? store : min),
-    null,
-  );
-  const priciest = priced.reduce<typeof priced[number] | null>(
-    (max, store) => (max === null || store.basketCost > max.basketCost ? store : max),
-    null,
-  );
-
-  const gap =
-    cheapest && priciest ? priciest.basketCost - cheapest.basketCost : 0;
-  const annualGap = gap * TRIPS_PER_YEAR;
+  const { cheapest, priciest, perTrip: gap, annual: annualGap } =
+    storeChoicePremium(stores);
   const penalty = useCountUp(gap, 1.2, inView);
 
   // Nothing to honestly show until the CSV yields at least two priced stores.

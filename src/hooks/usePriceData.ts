@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import Papa from 'papaparse';
 
 /** Per-store aggregate derived from the raw price rows in the master CSV. */
@@ -25,10 +25,20 @@ export interface PriceData {
   error: string | null;
   /** Lowest `basketCost` across all stores — the comparison reference point. */
   cheapestCost: number;
+  /** Human-readable collection window, e.g. "May–July 2026" (full-file span). */
+  dateRangeLabel: string;
+  /** Distinct stores present in the file (basket-independent). */
+  storeCount: number;
+  /** Total price rows in the file (basket-independent). */
+  observationCount: number;
+  /** Distinct store × collection_date snapshots in the file (basket-independent). */
+  snapshotCount: number;
+  /** Distinct persona baskets present in the file (basket-independent). */
+  basketCount: number;
 }
 
 /** One row of the master CSV; only the columns we aggregate on are typed. */
-interface RawRow {
+export interface RawRow {
   store_name: string;
   price_cad: string;
   available: string;
@@ -38,6 +48,9 @@ interface RawRow {
 }
 
 const CSV_URL = `${import.meta.env.BASE_URL}data/sentinel_prices_master.csv`;
+
+/** Bi-weekly shopping trips in a year — the multiplier behind annual figures. */
+export const TRIPS_PER_YEAR = 26;
 
 /**
  * Maps the slug values emitted by the basket dropdown / URL (e.g. `south-asian`)
@@ -95,7 +108,7 @@ interface StoreAccumulator {
  * `cheapestCost` is the lowest such total, and each store's `percentMore` is its
  * cost expressed as a percentage above that cheapest store.
  */
-function buildStores(
+export function buildStores(
   rows: RawRow[],
   selectedBasket: string,
 ): { stores: Store[]; cheapestCost: number } {
@@ -177,62 +190,193 @@ function buildStores(
   return { stores, cheapestCost };
 }
 
+/** The store-to-store price gap for one costed basket, plus its annual scale. */
+export interface StoreChoicePremium {
+  cheapest: Store | null;
+  priciest: Store | null;
+  /** Priciest basket minus cheapest basket, in dollars per trip. */
+  perTrip: number;
+  /** `perTrip` scaled across a year of bi-weekly trips. */
+  annual: number;
+}
+
 /**
- * Loads the master price CSV, aggregates it per store, and derives the cheapest
- * basket cost and each store's percentage above it.
- *
- * `selectedBasket` selects which persona's basket to cost. When it is 'All',
- * every persona's rows are included; otherwise only rows whose `persona`
- * matches are aggregated. Changing it recomputes the stores, cheapest cost, and
- * percentages (the CSV is re-fetched).
+ * Derives the "store choice premium": how much more the most expensive store
+ * charges than the cheapest for the same costed basket. Returns zeros until at
+ * least two distinct stores carry a positive basket cost, so callers never show
+ * a gap invented from a single store.
  */
-export function usePriceData(selectedBasket: string = 'All'): PriceData {
-  const [stores, setStores] = useState<Store[]>([]);
-  const [cheapestCost, setCheapestCost] = useState(0);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+export function storeChoicePremium(stores: Store[]): StoreChoicePremium {
+  const priced = stores.filter((store) => store.basketCost > 0);
+  if (priced.length === 0) {
+    return { cheapest: null, priciest: null, perTrip: 0, annual: 0 };
+  }
 
-  useEffect(() => {
-    let cancelled = false;
-    setLoading(true);
-    setError(null);
+  let cheapest = priced[0];
+  let priciest = priced[0];
+  for (const store of priced) {
+    if (store.basketCost < cheapest.basketCost) cheapest = store;
+    if (store.basketCost > priciest.basketCost) priciest = store;
+  }
 
-    async function load(): Promise<void> {
-      try {
-        const response = await fetch(CSV_URL);
+  const perTrip =
+    cheapest.name === priciest.name ? 0 : priciest.basketCost - cheapest.basketCost;
+  return { cheapest, priciest, perTrip, annual: perTrip * TRIPS_PER_YEAR };
+}
+
+const MONTHS = [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
+];
+
+/** Formats a "Month YYYY" from an ISO `YYYY-MM-DD` string, or '' if unparseable. */
+function monthYear(iso: string): { month: string; year: string } | null {
+  const [year, month] = iso.split('-');
+  const index = Number.parseInt(month, 10) - 1;
+  if (!year || Number.isNaN(index) || index < 0 || index > 11) return null;
+  return { month: MONTHS[index], year };
+}
+
+/**
+ * Builds a compact collection-window label from the full span of
+ * `collection_date` values, e.g. "May–July 2026", "July 2026", or
+ * "December 2025–January 2026". Returns '' when no dates are present.
+ */
+export function formatDateRange(rows: RawRow[]): string {
+  let min = '';
+  let max = '';
+  for (const row of rows) {
+    const date = row.collection_date?.trim();
+    if (!date) continue;
+    if (!min || date < min) min = date;
+    if (!max || date > max) max = date;
+  }
+  if (!min) return '';
+
+  const start = monthYear(min);
+  const end = monthYear(max);
+  if (!start || !end) return '';
+
+  if (start.year === end.year) {
+    return start.month === end.month
+      ? `${start.month} ${start.year}`
+      : `${start.month}–${end.month} ${start.year}`;
+  }
+  return `${start.month} ${start.year}–${end.month} ${end.year}`;
+}
+
+// --- Shared master-CSV loader -------------------------------------------------
+// The CSV is static for the life of a page load, so we fetch + parse it once and
+// share the parsed rows across every hook instance. This keeps usePriceData the
+// single source of truth for all displayed totals without each section (hero,
+// navbar, footer, dashboard, persona cards…) re-downloading a ~1 MB file.
+
+let cachedRows: RawRow[] | null = null;
+let inflight: Promise<RawRow[]> | null = null;
+
+function loadMasterRows(): Promise<RawRow[]> {
+  if (cachedRows) return Promise.resolve(cachedRows);
+  if (!inflight) {
+    inflight = fetch(CSV_URL)
+      .then((response) => {
         if (!response.ok) {
           throw new Error(`Failed to load price data (${response.status})`);
         }
-
-        const text = await response.text();
+        return response.text();
+      })
+      .then((text) => {
         const parsed = Papa.parse<RawRow>(text, {
           header: true,
           skipEmptyLines: true,
         });
+        cachedRows = parsed.data;
+        return cachedRows;
+      })
+      .catch((err) => {
+        inflight = null; // allow a later retry after a transient failure
+        throw err;
+      });
+  }
+  return inflight;
+}
 
-        const { stores: nextStores, cheapestCost: nextCheapestCost } = buildStores(
-          parsed.data,
-          selectedBasket,
-        );
+interface MasterRows {
+  rows: RawRow[];
+  loading: boolean;
+  error: string | null;
+}
 
+/** Loads (once) and returns the raw master-CSV rows shared across the app. */
+export function useMasterRows(): MasterRows {
+  const [rows, setRows] = useState<RawRow[]>(cachedRows ?? []);
+  const [loading, setLoading] = useState(cachedRows === null);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    // Initial state already reflects "loading" when the cache is cold, so the
+    // effect only resolves the shared load — no synchronous setState here.
+    if (cachedRows) return;
+    let cancelled = false;
+
+    loadMasterRows()
+      .then((loaded) => {
         if (!cancelled) {
-          setStores(nextStores);
-          setCheapestCost(nextCheapestCost);
+          setRows(loaded);
           setLoading(false);
         }
-      } catch (err) {
+      })
+      .catch((err) => {
         if (!cancelled) {
           setError(err instanceof Error ? err.message : 'Failed to load price data');
           setLoading(false);
         }
-      }
-    }
+      });
 
-    void load();
     return () => {
       cancelled = true;
     };
-  }, [selectedBasket]);
+  }, []);
 
-  return { stores, loading, error, cheapestCost };
+  return { rows, loading, error };
+}
+
+/**
+ * Loads the master price CSV, aggregates it per store, and derives the cheapest
+ * basket cost, each store's percentage above it, and file-level descriptors
+ * (collection window, store/observation/snapshot counts).
+ *
+ * `selectedBasket` selects which persona's basket to cost. When it is 'All',
+ * every persona's rows are included; otherwise only rows whose `persona`
+ * matches are aggregated. The file-level descriptors are basket-independent.
+ */
+export function usePriceData(selectedBasket: string = 'All'): PriceData {
+  const { rows, loading, error } = useMasterRows();
+
+  const { stores, cheapestCost } = useMemo(
+    () => buildStores(rows, selectedBasket),
+    [rows, selectedBasket],
+  );
+
+  const meta = useMemo(() => {
+    const storeNames = new Set<string>();
+    const snapshots = new Set<string>();
+    const baskets = new Set<string>();
+    for (const row of rows) {
+      const name = row.store_name?.trim();
+      const date = row.collection_date?.trim();
+      const persona = row.persona?.trim();
+      if (name) storeNames.add(name);
+      if (persona) baskets.add(persona);
+      if (name && date) snapshots.add(`${name} ${date}`);
+    }
+    return {
+      dateRangeLabel: formatDateRange(rows),
+      storeCount: storeNames.size,
+      observationCount: rows.length,
+      snapshotCount: snapshots.size,
+      basketCount: baskets.size,
+    };
+  }, [rows]);
+
+  return { stores, loading, error, cheapestCost, ...meta };
 }

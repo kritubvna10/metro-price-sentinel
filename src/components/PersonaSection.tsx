@@ -1,7 +1,38 @@
+import { useMemo } from 'react';
 import { motion } from 'framer-motion';
-import { personas, type Persona } from '../data/storeData';
+import { useMasterRows, buildStores, storeChoicePremium } from '../hooks/usePriceData';
 
-function PersonaCard({ persona, index }: { persona: Persona; index: number }): React.JSX.Element {
+/**
+ * Presentation config for each community basket. Labels match the CSV's
+ * `persona` values exactly; colors are purely visual. Every number shown
+ * (basket cost, best store) is computed from the CSV at runtime — nothing here
+ * is a hardcoded metric.
+ */
+const PERSONA_META: { name: string; color: string }[] = [
+  { name: 'South Asian', color: '#F97316' },
+  { name: 'Chinese', color: '#EF4444' },
+  { name: 'Filipino', color: '#8B5CF6' },
+  { name: 'Korean', color: '#06B6D4' },
+  { name: 'European', color: '#10B981' },
+  { name: 'Indigenous', color: '#F59E0B' },
+  { name: 'Others', color: '#64748B' },
+];
+
+interface PersonaCardData {
+  id: string;
+  label: string;
+  color: string;
+  /** Cheapest store's basket cost for this community, in whole dollars. */
+  basketCost: number;
+  /** Name of that cheapest store. */
+  bestStore: string;
+}
+
+function slugify(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function PersonaCard({ persona, index }: { persona: PersonaCardData; index: number }): React.JSX.Element {
   return (
     <motion.article
       initial={{ opacity: 0, y: 30 }}
@@ -29,13 +60,13 @@ function PersonaCard({ persona, index }: { persona: Persona; index: number }): R
               className="text-sm font-normal ml-1"
               style={{ fontFamily: "'Inter', sans-serif", color: '#6B7280' }}
             >
-              /week
+              /basket
             </span>
           </p>
         </div>
         <div>
           <p className="text-xs mb-1" style={{ color: '#6B7280', fontFamily: "'Inter', sans-serif" }}>
-            Best nearby store:
+            Best value store:
           </p>
           <p
             className="text-sm font-semibold"
@@ -50,6 +81,25 @@ function PersonaCard({ persona, index }: { persona: Persona; index: number }): R
 }
 
 export default function PersonaSection(): React.JSX.Element {
+  const { rows, loading } = useMasterRows();
+
+  const personas = useMemo<PersonaCardData[]>(() => {
+    const present = new Set(rows.map((row) => row.persona?.trim()).filter(Boolean));
+    return PERSONA_META.filter((meta) => present.has(meta.name))
+      .map((meta) => {
+        const { stores } = buildStores(rows, meta.name);
+        const { cheapest } = storeChoicePremium(stores);
+        return {
+          id: slugify(meta.name),
+          label: meta.name,
+          color: meta.color,
+          basketCost: cheapest ? Math.round(cheapest.basketCost) : 0,
+          bestStore: cheapest ? cheapest.name : '—',
+        };
+      })
+      .filter((persona) => persona.basketCost > 0);
+  }, [rows]);
+
   return (
     <section className="py-24 bg-[#F9FAFB]">
       <div className="max-w-5xl mx-auto px-6">
@@ -67,15 +117,22 @@ export default function PersonaSection(): React.JSX.Element {
             Your household, your basket
           </h2>
           <p style={{ fontFamily: "'Inter', sans-serif", color: '#6B7280' }}>
-            Select your community to see which stores best serve your weekly shopping needs.
+            The cheapest store for each community&rsquo;s basket, computed from the
+            latest collected prices.
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-          {personas.map((persona, index) => (
-            <PersonaCard key={persona.id} persona={persona} index={index} />
-          ))}
-        </div>
+        {loading ? (
+          <p style={{ fontFamily: "'DM Mono', monospace", color: '#9CA3AF' }}>
+            Loading latest prices…
+          </p>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+            {personas.map((persona, index) => (
+              <PersonaCard key={persona.id} persona={persona} index={index} />
+            ))}
+          </div>
+        )}
       </div>
     </section>
   );

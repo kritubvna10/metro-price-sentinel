@@ -1,3 +1,5 @@
+import { usePriceData } from '../../hooks/usePriceData';
+
 const INTER = "'Inter', sans-serif";
 
 const CARD_STYLE: React.CSSProperties = {
@@ -45,6 +47,12 @@ const FOOTNOTE_STYLE: React.CSSProperties = {
 };
 
 export default function ContextPanel(): React.JSX.Element {
+  const { dateRangeLabel, storeCount, observationCount, loading } = usePriceData('All');
+  const footnote =
+    loading || observationCount === 0
+      ? 'Collected directly from store websites'
+      : `Data collected ${dateRangeLabel} · ${storeCount} stores · ${observationCount.toLocaleString()} price observations`;
+
   return (
     <aside style={CARD_STYLE}>
       <div
@@ -73,7 +81,7 @@ export default function ContextPanel(): React.JSX.Element {
         </p>
 
         <p style={{ ...FOOTNOTE_STYLE, marginTop: 'auto' }}>
-          Data collected May–July 2026 · 22 stores · 6,212 price observations
+          {footnote}
         </p>
       </div>
     </aside>
