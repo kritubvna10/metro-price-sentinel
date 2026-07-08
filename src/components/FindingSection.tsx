@@ -1,6 +1,15 @@
 import { motion } from 'framer-motion';
 import { usePriceData, storeChoicePremium } from '../hooks/usePriceData';
 
+// Store names often already embed their city (e.g. "Save-On-Foods Maple
+// Ridge"), so only append " in {city}" when it isn't already there — avoids
+// "Save-On-Foods Maple Ridge in Maple Ridge".
+function storeLabel(name: string, city: string): string {
+  return name.toLowerCase().includes(city.toLowerCase())
+    ? name
+    : `${name} in ${city}`;
+}
+
 export default function FindingSection(): React.JSX.Element | null {
   const { stores, loading, dateRangeLabel, observationCount } = usePriceData('All');
   const { cheapest, priciest, perTrip } = storeChoicePremium(stores);
@@ -35,12 +44,13 @@ export default function FindingSection(): React.JSX.Element | null {
               className="text-2xl sm:text-3xl lg:text-4xl font-bold leading-snug"
               style={{ fontFamily: "'Inter', sans-serif", color: '#111827' }}
             >
-              A household shopping at {priciest.name} in {priciest.city} pays{' '}
+              A household shopping at {storeLabel(priciest.name, priciest.city)}{' '}
+              pays{' '}
               <span style={{ color: '#F97316' }}>
                 {percentMore}% more (${perTrip.toFixed(2)} per trip)
               </span>{' '}
-              for the same basket than one shopping at {cheapest.name} in{' '}
-              {cheapest.city}.
+              for the same basket than one shopping at{' '}
+              {storeLabel(cheapest.name, cheapest.city)}.
             </p>
           </blockquote>
 
