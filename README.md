@@ -5,7 +5,7 @@ Metro Vancouver's first culturally-specific grocery affordability tracker. Monit
 - **Store Premium Score** — how much each store charges above or below the Statistics Canada BC provincial baseline.
 - **Poverty Penalty** — the extra dollars low-income families pay per bi-weekly basket simply because they cannot afford to buy in bulk.
 
-> **Pilot data: May 2026** — 3,088 price points across 7 culturally specific baskets.
+> **Data: May–July 2026** — 6,212 price points across 22 stores and 7 culturally specific baskets (46 store snapshots).
 
 This is a [Vite](https://vite.dev) + [React](https://react.dev) + TypeScript single-page app. It is **not** a set of static HTML pages — the dashboard is compiled at build time and reads the price CSV in the browser at runtime.
 
@@ -158,7 +158,7 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others.
 - **22 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta, North Vancouver, New Westminster, and Maple Ridge.
 - **3 chain tiers** — discount (No Frills, FreshCo/CHALO!), mid-tier (Superstore, Save-On-Foods), mass (Walmart).
-- **3,088 price data points** collected May 2026, updated weekly.
+- **6,212 price data points** collected May–July 2026 across 46 store snapshots, updated weekly.
 - **2 package sizes** (small + bulk) per product, used to calculate the poverty penalty.
 
 The poverty penalty in the pilot data ranges from **$19.26 to $51.22 per bi-weekly trip** — roughly **$500 to $1,319 per year** — paid by families who cannot afford bulk purchases.
@@ -171,4 +171,4 @@ The `/dashboard` route provides the interactive store comparison; the home page 
 
 **Kritubvna Sharma** — kritubvnabhattarai10@gmail.com
 
-_Data collected from store websites. Some prices approximate. Pilot: May 2026, updated weekly._
+_Data collected from store websites. Some prices approximate. Data: May–July 2026, updated weekly._

@@ -73,7 +73,7 @@ export default function ContextPanel(): React.JSX.Element {
         </p>
 
         <p style={{ ...FOOTNOTE_STYLE, marginTop: 'auto' }}>
-          Data collected June 2026 · 22 stores · 3,088 price observations
+          Data collected May–July 2026 · 22 stores · 6,212 price observations
         </p>
       </div>
     </aside>

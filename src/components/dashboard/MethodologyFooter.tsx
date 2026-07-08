@@ -91,11 +91,12 @@ export default function MethodologyFooter(): React.JSX.Element {
         <h2 style={HEADING_STYLE}>About this comparison</h2>
 
         <p style={BODY_STYLE}>
-          Prices were collected from 22 Metro Vancouver stores in June 2026 and
-          compared against Statistics Canada provincial average food price
-          baselines (Table 18-10-0245-01). Store Premium shows how much higher or
-          lower a store&rsquo;s observed prices are compared with that baseline for
-          the selected basket.
+          Prices were collected from 22 Metro Vancouver stores between May and
+          July 2026 &mdash; 6,212 price observations across 46 store snapshots and
+          7 community baskets &mdash; and compared against Statistics Canada
+          provincial average food price baselines (Table 18-10-0245-01). Store
+          Premium shows how much higher or lower a store&rsquo;s observed prices
+          are compared with that baseline for the selected basket.
         </p>
 
         <p style={{ ...BODY_STYLE, marginTop: '16px' }}>
