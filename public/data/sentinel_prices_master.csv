@@ -8625,3 +8625,713 @@ Superstore Richmond,V6X 3Z6,Quaker Oats,Others,small,"Quaker Quick Oats, 1 kg (o
 Superstore Richmond,V6X 3Z6,Quaker Oats,Others,bulk,"Quaker Quick Oats, 2.25 kg",7.79,each,TRUE,FALSE,2026-08-05,FALSE
 Superstore Richmond,V6X 3Z6,Bananas,Others,small,"Bananas, Bunch, $1.72/kg",1.72,per_kg,TRUE,FALSE,2026-08-05,FALSE
 Superstore Richmond,V6X 3Z6,Bananas,Others,bulk,"Bananas, Bunch, $1.72/kg",1.72,per_kg,TRUE,FALSE,2026-08-05,FALSE
+Walmart Langley,V3A 4H9,Basmati Rice,South Asian,small,"Great Value Basmati Rice, approx. 900g bag",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Basmati Rice,South Asian,bulk,"FORTUNE Everyday Basmati Rice, 10lbs (4.54kg)",10.78,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Wheat Atta,South Asian,small,"Sher Desi Durum Flour, Whole Wheat Flour made from Hard Durum Wheat, approx. 9.17kg (cheapest in-store atta; no smaller size stocked)",19.27,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Whole Wheat Atta,South Asian,bulk,no larger format available in-store beyond the ~9kg Sher/Aashirvaad bags,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Toor Dal/Red Lentils,South Asian,small,"Great Value Red Lentils, approx. 900g",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Toor Dal/Red Lentils,South Asian,bulk,"Sitara Whole Red Lentils, 4LB (1.8kg)",4.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,South Asian,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,South Asian,bulk,"Dairyland 3.25% Homogenized Milk, approx. 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Yellow Onions,South Asian,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Yellow Onions,South Asian,bulk,"Onion, yellow, 4.54kg / 10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Roma Tomatoes,South Asian,small,"Tomato, Roma, sold in singles, real shelf per-kg rate",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Roma Tomatoes,South Asian,bulk,"Tomato, Roma, sold in singles, real shelf per-kg rate",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Chicken Thighs,South Asian,small,"Prime Bone-in Chicken Thighs Raised Without Antibiotics, real shelf per-kg rate",13.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Chicken Thighs,South Asian,bulk,"Prime Bone-in Chicken Thighs Raised Without Antibiotics, real shelf per-kg rate",13.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Plain/Balkan Yogurt,South Asian,small,"Astro Original Yogurt Plain Balkan Style 2%, approx. 743g",3.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Plain/Balkan Yogurt,South Asian,bulk,"Olympic Organic Plain Yogurt 3.5%, 1.75kg",14.18,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Garlic,South Asian,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Garlic,South Asian,bulk,"Garlic, 1kg bag",5.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,South Asian,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,South Asian,bulk,"Great Value Canola Oil, approx. 2.83L",8.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Jasmine Rice,Chinese,small,"Great Value Thai Jasmine Rice, approx. 900g",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Jasmine Rice,Chinese,bulk,"Delicious Kitchen Premium Jasmine Scented White Rice, 8kg",19.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Bok Choy,Chinese,small,"Baby Bok Choy, sold bulk, real shelf per-kg rate",5.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Bok Choy,Chinese,bulk,"Baby Bok Choy, sold bulk, real shelf per-kg rate",5.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Firm Tofu,Chinese,small,"Sunrise Extra Firm Tofu, cheapest option",2.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Firm Tofu,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Kikkoman Soy Sauce,Chinese,small,"Kikkoman Lite Soy Sauce, 591mL",8.07,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Kikkoman Soy Sauce,Chinese,bulk,"Kikkoman Soy Sauce, approx. 1.2L",12.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Silk Soy Milk,Chinese,small,"Silk Soy Milk Alternative Original, approx. 958ml",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Silk Soy Milk,Chinese,bulk,"Silk Soy Milk Alternative Unsweetened, approx. 1.89L (on sale)",3.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,Chinese,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,Chinese,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Green Onions,Chinese,small,"Green Onion, sold in bunches, 1 bunch",1.24,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Green Onions,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Sesame Oil,Chinese,small,"Blue Dragon Sesame Oil, 150mL",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Sesame Oil,Chinese,bulk,"Kadoya Sesame Oil, 327mL",6.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Pork Shoulder,Chinese,small,"Pork Bone-In Picnic Roast (picnic shoulder cut, standard shoulder subprimal), real shelf per-kg rate",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Pork Shoulder,Chinese,bulk,"Pork Bone-In Picnic Roast (picnic shoulder cut, standard shoulder subprimal), real shelf per-kg rate",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Napa Cabbage,Chinese,small,not stocked at Walmart Langley - only regular/flat/red/savoy cabbage found,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Napa Cabbage,Chinese,bulk,not stocked at Walmart Langley - only regular/flat/red/savoy cabbage found,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,Filipino,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,Filipino,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Yellow Onions,Filipino,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Yellow Onions,Filipino,bulk,"Onion, yellow, 4.54kg / 10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Garlic,Filipino,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Garlic,Filipino,bulk,"Garlic, 1kg bag",5.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,Filipino,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,Filipino,bulk,"Great Value Canola Oil, approx. 2.83L",8.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,White Rice,Filipino,small,"Great Value Long Grain White Rice, approx. 890g",3.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,White Rice,Filipino,bulk,"Great Value Long Grain White Rice, approx. 8.1kg",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Frozen Tilapia,Filipino,small,"Catch Of The Day Tilapia Fillets, 750g",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Frozen Tilapia,Filipino,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Coconut Milk,Filipino,small,"Delicious Kitchen Premium Coconut Milk, 400ml can",1.57,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Coconut Milk,Filipino,bulk,"Aroy-D Coconut Milk UHT, 1000ml",4.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Fish Sauce,Filipino,small,"Blue Dragon Fish Sauce, 150ml",2.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Fish Sauce,Filipino,bulk,"Squid Brand Fish Sauce, approx. 727ml",3.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Pork Belly,Filipino,small,"Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotics, real shelf per-kg rate",18.70,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Pork Belly,Filipino,bulk,"Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotics, real shelf per-kg rate",18.70,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggplant,Filipino,small,"Eggplant, sold in singles, real shelf per-kg rate",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggplant,Filipino,bulk,"Eggplant, sold in singles, real shelf per-kg rate",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Cane Vinegar,Filipino,small,"Datu Puti Sukang Maasim Vinegar, 1L (only size stocked)",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Cane Vinegar,Filipino,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,Korean,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,Korean,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Sesame Oil,Korean,small,"Blue Dragon Sesame Oil, 150mL",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Sesame Oil,Korean,bulk,"Kadoya Sesame Oil, 327mL",6.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Short Grain Rice,Korean,small,"Kokuho Rose Extra Fancy Premium Sushi Rice, approx. 996g",7.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Short Grain Rice,Korean,bulk,"Botan Calrose Rice, 4kg",13.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Kimchi,Korean,small,"Ocean's Halo Organic Kimchi, Vegan, Shelf-Stable Jar, 454g",6.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Kimchi,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Gochujang,Korean,small,"Sempio Hot Pepper Paste (gochujang), 500g",6.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Gochujang,Korean,bulk,"no larger format available in-store (2.8kg size is ship-only, not in-store pickup)",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Bean Sprouts,Korean,small,"Bean sprouts, fresh, 1 lb (454g)",1.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Bean Sprouts,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Ground Beef,Korean,small,"100% Medium Ground Beef Chuck, 450g, real shelf per-kg rate",13.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Ground Beef,Korean,bulk,"100% Medium Ground Beef Chuck, 450g, real shelf per-kg rate",13.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Dried Seaweed Nori,Korean,small,"Delicious Kitchen Sushi Nori Roasted Seaweed Sheets, approx. 28g",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Dried Seaweed Nori,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Silken Tofu,Korean,small,silken tofu not stocked at Walmart Langley - only firm/extra firm tofu found,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Silken Tofu,Korean,bulk,silken tofu not stocked at Walmart Langley - only firm/extra firm tofu found,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Frozen Mackerel,Korean,small,"frozen mackerel not stocked at Walmart Langley - only canned mackerel found (ship-only, not in-store)",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Frozen Mackerel,Korean,bulk,"frozen mackerel not stocked at Walmart Langley - only canned mackerel found (ship-only, not in-store)",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,European,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,European,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,European,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,European,bulk,"Dairyland 3.25% Homogenized Milk, approx. 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Wheat Bread,European,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Wheat Bread,European,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Cheddar Cheese,European,small,"Great Value Old Cheddar Cheese, 400g block",5.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Cheddar Cheese,European,bulk,"Great Value Old Cheddar Cheese (Value Size), approx. 702g block",8.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Ground Beef,European,small,"100% Medium Ground Beef Chuck, 450g, real shelf per-kg rate",13.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Ground Beef,European,bulk,"100% Medium Ground Beef Chuck, 450g, real shelf per-kg rate",13.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Russet Potatoes,European,small,"Your Fresh Market Russet Potatoes, 5 lb bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Russet Potatoes,European,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Carrots,European,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Carrots,European,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Olive Oil,European,small,"Great Value Extra Virgin Olive Oil, approx. 501ml (corrected to cheapest matching option per cheapest-correct-match rule; Terra Delyssa 500ml at $8.97 was originally recorded but Great Value is cheaper)",5.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Olive Oil,European,bulk,"Healthy & Happy Extra Virgin Olive Oil, 3L",29.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Diced Canned Tomatoes,European,small,"Great Value Diced Tomatoes, 796ml can",1.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Diced Canned Tomatoes,European,bulk,no larger format available in-store,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Greek Yogurt,European,small,"Our Finest 0% M.F. Plain Greek Yogurt, approx. 751g (74 cents/100g)",5.56,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Greek Yogurt,European,bulk,no larger real plain Greek yogurt tub found in search results,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,Indigenous,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,Indigenous,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,Indigenous,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,Indigenous,bulk,"Dairyland 3.25% Homogenized Milk, approx. 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Gold Seal Salmon,Indigenous,small,"Clover Leaf Pink Salmon, approx. 213g can",4.64,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Gold Seal Salmon,Indigenous,bulk,"Clover LEAF Pink Salmon, approx. 418g can",7.57,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Robin Hood Flour,Indigenous,small,"Robin Hood Original All Purpose Flour, 2.5kg",5.93,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Robin Hood Flour,Indigenous,bulk,"Robin Hood Original All Purpose Flour, 10kg",18.88,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Wild Blueberries,Indigenous,small,"Great Value Frozen Wild Blueberries, 400g",5.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Wild Blueberries,Indigenous,bulk,no larger wild blueberries format available (only cultivated blueberries come in bulk sizes),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Bison Ground Meat,Indigenous,small,"ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Bison Ground Meat,Indigenous,bulk,"ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Russet Potatoes,Indigenous,small,"Your Fresh Market Russet Potatoes, 5 lb bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Russet Potatoes,Indigenous,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Pinto Beans,Indigenous,small,"Great Value Pinto Beans, canned",1.44,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Pinto Beans,Indigenous,bulk,no larger format available in-store pickup (only case options via shipping),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Quaker Oats,Indigenous,small,"Quaker Quick Oats, 1kg",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Quaker Oats,Indigenous,bulk,no larger format available in-store pickup (2.25kg+ options are ship-only),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Crisco Shortening,Indigenous,small,"Crisco Veg Shortening, approx. 454g",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Crisco Shortening,Indigenous,bulk,no larger format available in-store pickup,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Eggs Large,Others,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Eggs Large,Others,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,Others,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Milk,Others,bulk,"Dairyland 3.25% Homogenized Milk, approx. 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,Others,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Canola Oil,Others,bulk,"Great Value Canola Oil, approx. 2.83L",8.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Wheat Bread,Others,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Whole Wheat Bread,Others,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Chicken Breast,Others,small,"Mina Halal Boneless Skinless Chicken Breasts, real shelf per-kg rate",14.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Chicken Breast,Others,bulk,"Mina Halal Boneless Skinless Chicken Breasts, real shelf per-kg rate",14.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Russet Potatoes,Others,small,"Your Fresh Market Russet Potatoes, 5 lb bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Russet Potatoes,Others,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Carrots,Others,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Carrots,Others,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Black Beans,Others,small,"Great Value Black Turtle Beans, canned",1.44,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Black Beans,Others,bulk,no larger format available in-store pickup (only case options via shipping),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Quaker Oats,Others,small,"Quaker Quick Oats, 1kg",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Quaker Oats,Others,bulk,no larger format available in-store pickup (2.25kg+ options are ship-only),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Langley,V3A 4H9,Bananas,Others,small,"Banana, sold in singles, real shelf per-kg rate",1.70,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Langley,V3A 4H9,Bananas,Others,bulk,"Banana, sold in singles, real shelf per-kg rate",1.70,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Basmati Rice,South Asian,small,"Great Value Basmati Rice, 900g",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Basmati Rice,South Asian,bulk,"Kohinoor Extra Fine Silver Basmati Rice, 10LB",13.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Wheat Atta,South Asian,small,"Robin Hood Best for Bread Whole Wheat Flour, Made with 100% Canadian Wheat, 5kg",11.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Whole Wheat Atta,South Asian,bulk,"Aashirvaad Whole Wheat Atta, ~9kg",22.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Toor Dal/Red Lentils,South Asian,small,"Sitara Split Pigeon Peas (Toor), 4LB 1.8kg",7.64,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Toor Dal/Red Lentils,South Asian,bulk,"Heer Toor Dal Malawi (Split Pigeon Peas), 8lbs (3.63kg)",15.61,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Whole Milk,South Asian,small,"Dairyland 3.25% Milk, ~1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,South Asian,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Yellow Onions,South Asian,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Yellow Onions,South Asian,bulk,"Onion, yellow, 4.54 kg/10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Roma Tomatoes,South Asian,small,"Tomato, Roma, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Roma Tomatoes,South Asian,bulk,"Tomato, Roma, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Chicken Thighs,South Asian,small,"Mina Halal Chicken Thighs Value Pack, bone-in, by weight",8.50,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Chicken Thighs,South Asian,bulk,"Mina Halal Chicken Thighs Value Pack, bone-in, by weight",8.50,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Plain/Balkan Yogurt,South Asian,small,"Astro Original Balkan Style Plain Yogurt 6%, 750g",3.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Plain/Balkan Yogurt,South Asian,bulk,"Olympic Organic Plain Yogurt 3.5%, 1.75kg",14.18,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Garlic,South Asian,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Garlic,South Asian,bulk,"Garlic, 1 kg Bag",5.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,South Asian,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,South Asian,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Jasmine Rice,Chinese,small,"Great Value Thai Jasmine Rice, ~900g",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Jasmine Rice,Chinese,bulk,"Delicious Kitchen Premium Jasmine Scented White Rice, 8kg",19.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Bok Choy,Chinese,small,"Baby Bok Choy, sold bulk, by weight",5.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Bok Choy,Chinese,bulk,"Baby Bok Choy, sold bulk, by weight",5.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu,2.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Firm Tofu,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Kikkoman Soy Sauce,Chinese,small,"Kikkoman Gluten Free Soy Sauce, 296mL",6.67,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Kikkoman Soy Sauce,Chinese,bulk,"Kikkoman Soy Sauce, ~1.2L",12.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Silk Soy Milk,Chinese,small,"Silk Soy Milk Alternative, Unsweetened, ~946ml",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Silk Soy Milk,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggs Large,Chinese,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Chinese,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Green Onions,Chinese,small,"Green Onion, sold in bunches",1.24,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Green Onions,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Sesame Oil,Chinese,small,"Blue Dragon Sesame Oil, 150 mL",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Sesame Oil,Chinese,bulk,"kadoya Pure Sesame Oil Bulk, 1.65L Can",49.99,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Pork Shoulder,Chinese,small,"Pork Bone-In Picnic Roast (shoulder cut), by weight",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Pork Shoulder,Chinese,bulk,"Pork Bone-In Picnic Roast (shoulder cut), by weight",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Napa Cabbage,Chinese,small,"Cabbage, Napa, sold in singles, by weight",4.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Napa Cabbage,Chinese,bulk,"Cabbage, Napa, sold in singles, by weight",4.30,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Filipino,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Filipino,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Yellow Onions,Filipino,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Yellow Onions,Filipino,bulk,"Onion, yellow, 4.54 kg/10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Garlic,Filipino,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Garlic,Filipino,bulk,"Garlic, 1 kg Bag",5.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,Filipino,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,Filipino,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,White Rice,Filipino,small,"Great Value Long Grain White Rice, ~890g",3.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,White Rice,Filipino,bulk,"Great Value Long Grain White Rice, 8kg",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Frozen Tilapia,Filipino,small,"Searay Tilapia, 350g-550g",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Frozen Tilapia,Filipino,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Coconut Milk,Filipino,small,"Delicious Kitchen Premium Light Coconut Milk, 400ml",1.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Coconut Milk,Filipino,bulk,"Aroy-D Coconut Milk UHT, 1000ml",4.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Fish Sauce,Filipino,small,"Blue Dragon Fish Sauce, 150ML",2.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Fish Sauce,Filipino,bulk,"Marca Pina Patis Fish Sauce, 1L",2.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Pork Belly,Filipino,small,"SUSPECTED DATA ERROR: original read $187.00/kg for ""Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotic"" - implausible (10x sibling stores ~$12-20/kg). Zeroed pending re-verification rather than guessing a corrected value.",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Pork Belly,Filipino,bulk,"SUSPECTED DATA ERROR: original read $187.00/kg for ""Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotic"" - implausible (10x sibling stores ~$12-20/kg). Zeroed pending re-verification rather than guessing a corrected value.",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggplant,Filipino,small,"Eggplant, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggplant,Filipino,bulk,"Eggplant, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Cane Vinegar,Filipino,small,"Datu Puti Sukang Maasim (Cane) Vinegar, 1L",2.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Cane Vinegar,Filipino,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggs Large,Korean,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Korean,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Sesame Oil,Korean,small,"Blue Dragon Sesame Oil, 150 mL",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Sesame Oil,Korean,bulk,"kadoya Pure Sesame Oil Bulk, 1.65L Can",49.99,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Short Grain Rice,Korean,small,"Botan Calrose Rice, 4kg",13.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Short Grain Rice,Korean,bulk,"Botan Calrose Rice, 8kg",22.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Kimchi,Korean,small,"THE KIMCHI (Samyang), ~800g",10.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Kimchi,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Gochujang,Korean,small,"Sempio Hot Pepper Paste, 500g",6.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Gochujang,Korean,bulk,"Sempio Gochujang Hot Pepper Paste, 2.8kg",28.96,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Bean Sprouts,Korean,small,"Bean sprouts, 1 lb (454g)",1.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Bean Sprouts,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Ground Beef,Korean,small,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Ground Beef,Korean,bulk,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Dried Seaweed Nori,Korean,small,Delicious Kitchen Sushi Nori Roasted Seaweed Sheets,2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Dried Seaweed Nori,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Silken Tofu,Korean,small,Silken tofu not found in search results - not stocked at Walmart Surrey,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Silken Tofu,Korean,bulk,Silken tofu not found in search results - not stocked at Walmart Surrey,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Frozen Mackerel,Korean,small,"Ferma Frozen Horse Mackerel, 750g",6.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Frozen Mackerel,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggs Large,European,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,European,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,European,small,"Dairyland 3.25% Milk, ~1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,European,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,European,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,European,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Cheddar Cheese,European,small,"Great Value Old Cheddar Cheese, 400g",5.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Cheddar Cheese,European,bulk,"Great Value Old Cheddar Cheese (Value Size), approx. 702g",8.77,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Ground Beef,European,small,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Ground Beef,European,bulk,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,European,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,European,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Carrots,European,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Carrots,European,bulk,No larger format available (only one carrot bag size found in search results),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Olive Oil,European,small,"Great Value Extra Virgin Olive Oil, approx. 501ml",5.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Olive Oil,European,bulk,"Healthy & Happy Extra Virgin Olive Oil, 3L",29.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Diced Canned Tomatoes,European,small,"Great Value Diced Tomatoes, approx. 796ml",1.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Diced Canned Tomatoes,European,bulk,No larger format available in-store pickup (only 2.84L shipping-only options found),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Greek Yogurt,European,small,"Our Finest 0% M.F. Plain Greek Yogurt, approx. 751g",5.56,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Greek Yogurt,European,bulk,"No larger real plain Greek yogurt tub found in search results (closest, Liberte Greek 0% Plain 1kg, is under 2x the small size)",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggs Large,Indigenous,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Indigenous,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,Indigenous,small,"Dairyland 3.25% Milk, ~1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,Indigenous,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Gold Seal Salmon,Indigenous,small,"Clover Leaf Pink Salmon, approx. 213g can",4.64,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Gold Seal Salmon,Indigenous,bulk,"Clover Leaf Pink Salmon, approx. 418g can",7.57,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Robin Hood Flour,Indigenous,small,"Robin Hood Original All Purpose Flour, 2.5kg",5.93,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Robin Hood Flour,Indigenous,bulk,"Robin Hood Original All Purpose Flour, 10kg",18.88,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Wild Blueberries,Indigenous,small,"Great Value Frozen Wild Blueberries, 400g",5.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Wild Blueberries,Indigenous,bulk,No larger wild blueberries format available (only cultivated blueberries come in bulk sizes),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Bison Ground Meat,Indigenous,small,"Ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Bison Ground Meat,Indigenous,bulk,"Ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Indigenous,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Indigenous,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Pinto Beans,Indigenous,small,"Great Value Pinto Beans, canned",1.44,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Pinto Beans,Indigenous,bulk,No larger format available in-store pickup (only case options via shipping),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Quaker Oats,Indigenous,small,"Quaker Quick Oats, 1kg",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Quaker Oats,Indigenous,bulk,No larger format available in-store pickup (2.25kg+ options are ship-only),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Crisco Shortening,Indigenous,small,"Crisco Veg Shortening, approx. 454g",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Crisco Shortening,Indigenous,bulk,No larger format available in-store pickup,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Eggs Large,Others,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Eggs Large,Others,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,Others,small,"Dairyland 3.25% Milk, ~1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Milk,Others,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,Others,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Canola Oil,Others,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,Others,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Whole Wheat Bread,Others,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Chicken Breast,Others,small,"Mina Halal Boneless Skinless Chicken Breasts, by weight",14.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Chicken Breast,Others,bulk,"Mina Halal Boneless Skinless Chicken Breasts, by weight",14.10,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Others,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Russet Potatoes,Others,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Carrots,Others,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Carrots,Others,bulk,No larger format available (only one carrot bag size found in search results),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Black Beans,Others,small,"Great Value Black Turtle Beans, canned",1.44,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Black Beans,Others,bulk,No larger format available in-store pickup (only case options via shipping),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Quaker Oats,Others,small,"Quaker Quick Oats, 1kg",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey,V3Z 0C6,Quaker Oats,Others,bulk,No larger format available in-store pickup (2.25kg+ options are ship-only),,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Bananas,Others,small,"Banana, sold in singles, by weight",1.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey,V3Z 0C6,Bananas,Others,bulk,"Banana, sold in singles, by weight",1.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Basmati Rice,South Asian,small,"Great Value Basmati Rice, cheapest small-format option found; store resolved to ""Surrey (downtown)"" at 2151-10153 King George Blvd Surrey BC V3T 2W3 (nearest match to target postal V3R 0A1, 1.7km away)",3.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Basmati Rice,South Asian,bulk,"Verka Traditional Basmati Rice 10lbs, cheapest genuine large-format bag found in search results",15.58,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Atta,South Asian,small,"Robin Hood Best for Bread Whole Wheat Flour, Made with 100% Canadian Wheat, 5kg (matches cheapest-correct-match found at other Walmart BC stores; site search results here also showed Aashirvaad Whole Wheat Atta 22.48 as a smaller-package alternative but Robin Hood is the cheaper correct match per kg)",11.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Atta,South Asian,bulk,"Aashirvaad Whole Wheat Atta, ~9kg",22.48,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Toor Dal/Red Lentils,South Asian,small,"Great Value Red Lentils, cheapest small-format option found (searched 'red lentils')",2.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Toor Dal/Red Lentils,South Asian,bulk,"Sitara Whole Red Lentils 4LB (1.8kg), genuinely larger format vs small row",4.98,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,South Asian,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,South Asian,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,South Asian,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,South Asian,bulk,"Onion, yellow, 4.54 kg/10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Roma Tomatoes,South Asian,small,"Tomato, Roma, sold in singles, by weight",4.29,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Roma Tomatoes,South Asian,bulk,"Tomato, Roma, sold in singles, by weight",4.29,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Chicken Thighs,South Asian,small,"Mina Halal Chicken Thighs Value Pack, bone-in, by weight",8.50,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Chicken Thighs,South Asian,bulk,"Mina Halal Chicken Thighs Value Pack, bone-in, by weight",8.50,per_kg,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Plain/Balkan Yogurt,South Asian,small,"Astro Original Balkan Style Plain Yogurt 6%, 750g",3.27,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Plain/Balkan Yogurt,South Asian,bulk,"Olympic Organic Plain Yogurt 3.5%, 1.75kg",14.18,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Garlic,South Asian,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Garlic,South Asian,bulk,"Garlic, 1 kg Bag",5.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,South Asian,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,South Asian,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Chinese,small,"Great Value Thai Jasmine Rice, ~900g",3.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Jasmine Rice,Chinese,bulk,"Delicious Kitchen Premium Jasmine Scented White Rice, 8kg",19.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bok Choy,Chinese,small,"Baby Bok Choy, sold bulk, by weight",5.00,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bok Choy,Chinese,bulk,"Baby Bok Choy, sold bulk, by weight",5.00,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Chinese,small,Sunrise Extra Firm Tofu,2.27,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Firm Tofu,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Kikkoman Soy Sauce,Chinese,small,"Kikkoman Gluten Free Soy Sauce, 296mL",6.67,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Kikkoman Soy Sauce,Chinese,bulk,"Kikkoman Soy Sauce, ~1.2L",12.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Silk Soy Milk,Chinese,small,"Silk Soy Milk Alternative, Unsweetened, ~946ml",2.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Silk Soy Milk,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Chinese,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Chinese,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Chinese,small,"Green Onion, sold in bunches",1.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Green Onions,Chinese,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Chinese,small,"Blue Dragon Sesame Oil, 150 mL",5.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Chinese,bulk,"kadoya Pure Sesame Oil Bulk, 1.65L Can",49.99,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pork Shoulder,Chinese,small,"Pork Bone-In Picnic Roast (shoulder cut), by weight",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pork Shoulder,Chinese,bulk,"Pork Bone-In Picnic Roast (shoulder cut), by weight",6.60,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Napa Cabbage,Chinese,small,"Cabbage, Napa, sold in singles, by weight",4.30,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Napa Cabbage,Chinese,bulk,"Cabbage, Napa, sold in singles, by weight",4.30,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Filipino,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Filipino,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,Filipino,small,"Yellow onions, bagged, Your Fresh Market, 3 lb bag",2.94,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Yellow Onions,Filipino,bulk,"Onion, yellow, 4.54 kg/10 lb bag",8.97,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Garlic,Filipino,small,"Garlic, Pack of 3 bulbs",0.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Garlic,Filipino,bulk,"Garlic, 1 kg Bag",5.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Filipino,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Filipino,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,White Rice,Filipino,small,"Great Value Long Grain White Rice, ~890g",3.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,White Rice,Filipino,bulk,"Great Value Long Grain White Rice, 8kg",12.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Frozen Tilapia,Filipino,small,"Searay Tilapia, 350g-550g",8.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Frozen Tilapia,Filipino,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Coconut Milk,Filipino,small,"Delicious Kitchen Premium Light Coconut Milk, 400ml",1.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Coconut Milk,Filipino,bulk,"Aroy-D Coconut Milk UHT, 1000ml",4.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Fish Sauce,Filipino,small,"Blue Dragon Fish Sauce, 150ML",2.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Fish Sauce,Filipino,bulk,"Marca Pina Patis Fish Sauce, 1L",2.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Filipino,small,"SUSPECTED DATA ERROR: original read $187.00/kg for ""Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotic"" - implausible (10x sibling stores ~$12-20/kg). Zeroed pending re-verification rather than guessing a corrected value.",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pork Belly,Filipino,bulk,"SUSPECTED DATA ERROR: original read $187.00/kg for ""Maple Leaf Fresh Pork Belly Slices Raised Without Antibiotic"" - implausible (10x sibling stores ~$12-20/kg). Zeroed pending re-verification rather than guessing a corrected value.",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggplant,Filipino,small,"Eggplant, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggplant,Filipino,bulk,"Eggplant, sold in singles, by weight",4.20,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Cane Vinegar,Filipino,small,"Datu Puti Sukang Maasim (Cane) Vinegar, 1L",2.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Cane Vinegar,Filipino,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Korean,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Korean,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Korean,small,"Blue Dragon Sesame Oil, 150 mL",5.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Sesame Oil,Korean,bulk,"kadoya Pure Sesame Oil Bulk, 1.65L Can",49.99,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Short Grain Rice,Korean,small,"Botan Calrose Rice, 4kg",13.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Short Grain Rice,Korean,bulk,"Botan Calrose Rice, 8kg",22.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Kimchi,Korean,small,"THE KIMCHI (Samyang), ~800g",10.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Kimchi,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Gochujang,Korean,small,"Sempio Hot Pepper Paste, 500g",6.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Gochujang,Korean,bulk,"Sempio Gochujang Hot Pepper Paste, 2.8kg",28.96,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bean Sprouts,Korean,small,"Bean sprouts, 1 lb (454g)",1.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bean Sprouts,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Ground Beef,Korean,small,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Ground Beef,Korean,bulk,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Dried Seaweed Nori,Korean,small,Delicious Kitchen Sushi Nori Roasted Seaweed Sheets,2.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Dried Seaweed Nori,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Korean,small,Silken tofu not found in search results - not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Silken Tofu,Korean,bulk,Silken tofu not found in search results - not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Frozen Mackerel,Korean,small,"Ferma Frozen Horse Mackerel, 750g",6.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Frozen Mackerel,Korean,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,European,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,European,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,European,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,European,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,European,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,European,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Cheddar Cheese,European,small,"Great Value Old Cheddar Cheese, 400g",5.48,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Cheddar Cheese,European,bulk,"Great Value Old Cheddar Cheese (Value Size), approx. 702g",8.77,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Ground Beef,European,small,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Ground Beef,European,bulk,"Ground Beef Regular Tube, Your Fresh Market, 454g, by weight",13.10,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,European,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,European,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Carrots,European,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Carrots,European,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Olive Oil,European,small,"Great Value Extra Virgin Olive Oil, approx. 501ml",5.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Olive Oil,European,bulk,"Healthy & Happy Extra Virgin Olive Oil, 3L",29.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,European,small,"Great Value Diced Tomatoes, approx. 796ml",1.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Diced Canned Tomatoes,European,bulk,No larger format available in-store pickup,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,European,small,"Our Finest 0% M.F. Plain Greek Yogurt, approx. 751g",5.56,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Greek Yogurt,European,bulk,No larger real plain Greek yogurt tub found in search results,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Indigenous,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Indigenous,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,Indigenous,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,Indigenous,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Gold Seal Salmon,Indigenous,small,"Clover Leaf Pink Salmon, approx. 213g can",4.64,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Gold Seal Salmon,Indigenous,bulk,"Clover Leaf Pink Salmon, approx. 418g can",7.57,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Robin Hood Flour,Indigenous,small,"Robin Hood Original All Purpose Flour, 2.5kg",5.93,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Robin Hood Flour,Indigenous,bulk,"Robin Hood Original All Purpose Flour, 10kg",18.88,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Wild Blueberries,Indigenous,small,"Great Value Frozen Wild Blueberries 400g, cheapest small option found; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",5.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Wild Blueberries,Indigenous,bulk,No genuinely larger frozen wild blueberries format found in search results (only 400g wild + a separate 600g cultivated/non-wild product); marking unavailable rather than substitute a different product,,,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bison Ground Meat,Indigenous,small,"Ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bison Ground Meat,Indigenous,bulk,"Ground bison not found; searched 'ground bison', only ground beef/turkey results returned; not stocked at this store",,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Indigenous,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Indigenous,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pinto Beans,Indigenous,small,"Great Value Pinto Beans, cheapest small canned option found; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",1.44,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Pinto Beans,Indigenous,bulk,No genuinely larger-format (2x+) pinto beans product found in search results (all listed items are similar single-can sizes); marking unavailable rather than substitute a different product,,,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Indigenous,small,"Quaker Quick Oats, cheapest small option found ($3.97, 40 cents/100g implies ~1kg pack); NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",3.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Indigenous,bulk,"Quaker Quick Oats larger option $6.97 (31 cents/100g implies ~2.25kg pack, roughly 2x+ the small 1kg pack)",6.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Crisco Shortening,Indigenous,small,"Crisco Veg Shortening / Crisco Golden Shortening, both $3.97, cheapest small option found; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",3.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Crisco Shortening,Indigenous,bulk,"No genuinely larger in-store format found in search results (only a 454g ship-only option and a 6-case bulk-commercial option, not a comparable single retail large size); marking unavailable rather than substitute a mismatched product",,,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Others,small,Great Value Large 12 Eggs,4.21,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Eggs Large,Others,bulk,Great Value Large White 30 Eggs,10.22,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,Others,small,"Dairyland 3.25% Milk, approx. 1L",3.04,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Whole Milk,Others,bulk,"Dairyland 3.25% Homogenized Milk, 4L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Others,small,"Great Value Canola Oil, 1L",3.98,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Canola Oil,Others,bulk,"Great Value Canola Oil, ~5L",12.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,Others,small,"Great Value Whole Wheat Bread, 570g",2.48,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Whole Wheat Bread,Others,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Chicken Breast,Others,small,"Prime Boneless Skinless Chicken Breasts, avg price $10.77 at $1.77/100g = $17.70/kg; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",17.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Chicken Breast,Others,bulk,Same per-kg shelf rate applies to bulk row per task rules for BY-WEIGHT items,17.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Others,small,"Your Fresh Market Russet Potatoes, 5lb Bag",5.47,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Russet Potatoes,Others,bulk,"Potato, Russet, 10 lb bag",4.24,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Carrots,Others,small,"Carrots, Your Fresh Market, 3 lb bag",3.94,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Carrots,Others,bulk,No larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Black Beans,Others,small,"Great Value Black Turtle Beans / Great Value No Salt Added Black Beans, both $1.44, cheapest small canned option found; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",1.44,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Black Beans,Others,bulk,"No genuinely larger-format (2x+) black beans product found in search results (all listed in-store items are similar single-can sizes; larger options are commercial multi-case only, not a single-unit bulk product); marking unavailable",,,FALSE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Others,small,"Quaker Quick Oats, cheapest small option found ($3.97); NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",3.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Quaker Oats,Others,bulk,Quaker Quick Oats larger option $6.97 (roughly 2x+ the small pack based on per-100g pricing),6.97,each,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bananas,Others,small,"Banana sold in singles 0.15-0.23 KG, 40 cents avg price at 17 cents/100g = $1.70/kg; NOTE: tab was pre-existing/opened before store selector was explicitly reconfirmed to Surrey (downtown) in this session - store context for this specific search could not be independently re-verified due to subsequent site block",1.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+Walmart Surrey Downtown,V3R 0A1,Bananas,Others,bulk,Same per-kg shelf rate applies to bulk row per task rules for BY-WEIGHT items,1.70,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Basmati Rice,South Asian,small,"Dainty World Basmati Rice Classics, 900 g",6.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Basmati Rice,South Asian,bulk,"Chalo! Signature Basmati Rice, 4.54 kg (on sale)",9.77,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Atta,South Asian,small,"Aashirwaad Atta Multigrain, 4.54 kg",14.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Atta,South Asian,bulk,"Sher Whole Wheat Flour Durum Atta Desi Style, 9.07 kg",18.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Toor Dal/Red Lentils,South Asian,small,"Chalo Toor Dal Split Pigeon Peas, 1.81 kg",8.00,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Toor Dal/Red Lentils,South Asian,bulk,"Chalo Split Pigeon Peas Toor Dal, 3.63 kg",15.00,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,South Asian,small,"Lucerne 3.25% Whole Milk, 1 L",3.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,South Asian,bulk,"Lucerne 3.35% Whole Milk, 4 L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,South Asian,small,"Compliments Onions Yellow, 1.36 kg (on sale)",3.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,South Asian,bulk,"Yellow Onions Medium, 4.54 kg",10.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Roma Tomatoes,South Asian,small,"Roma Tomato (Plum Tomato), shelf rate per kg (on sale)",4.39,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Roma Tomatoes,South Asian,bulk,"Roma Tomato (Plum Tomato), shelf rate per kg (on sale)",4.39,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Thighs,South Asian,small,"Compliments Chicken Thighs, shelf rate per kg",11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Thighs,South Asian,bulk,"Compliments Chicken Thighs, shelf rate per kg",11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Plain/Balkan Yogurt,South Asian,small,"Astro Original 0% Yogurt Balkan Style Plain, 750 g (on sale)",3.29,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Plain/Balkan Yogurt,South Asian,bulk,"Olympic Organic 3.5% Yogurt Plain, 1.75 kg",12.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,South Asian,small,"Fresh Whole Garlic, 5 Pack",1.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,South Asian,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,South Asian,small,"Compliments Canola Oil 100% Pure, 946 ml",5.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,South Asian,bulk,"Compliments Canola Oil Pure, 3 L",9.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Jasmine Rice,Chinese,small,"Wholesome Crops Wholesome Jasmine Rice, 2 kg",6.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Jasmine Rice,Chinese,bulk,"Vita Rice Jasmine Value Size, 8 kg",16.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bok Choy,Chinese,small,"Bok Choy 1 Bunch, shelf rate per kg (on sale)",2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bok Choy,Chinese,bulk,"Bok Choy 1 Bunch, shelf rate per kg (on sale)",2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Firm Tofu,Chinese,small,"Sunrise Tofu Medium Firm, 454 g",2.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Firm Tofu,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kikkoman Soy Sauce,Chinese,small,"Kikkoman Soy Sauce, 296 ml",5.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kikkoman Soy Sauce,Chinese,bulk,"Kikkoman Soy Sauce, 1.2 L",12.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silk Soy Milk,Chinese,small,"Silk Dairy-Free Soy Milk Alternative Original, 1.89 L",4.00,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silk Soy Milk,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Chinese,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Chinese,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Green Onions,Chinese,small,"Green Onions, 1 Count (bunch)",1.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Green Onions,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Chinese,small,"Compliments Sesame Oil Liquid, 185 ml",4.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Chinese,bulk,"Gagan Sesame Oil, 1 L (on sale)",13.99,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Shoulder,Chinese,small,"Picnic Bone In Pork Shoulder, shelf rate per kg",11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Shoulder,Chinese,bulk,"Picnic Bone In Pork Shoulder, shelf rate per kg",11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Napa Cabbage,Chinese,small,"Napa Cabbage 1 Count, shelf rate per kg (on sale)",2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Napa Cabbage,Chinese,bulk,"Napa Cabbage 1 Count, shelf rate per kg (on sale)",2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Filipino,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Filipino,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,Filipino,small,"Compliments Onions Yellow, 1.36 kg (on sale)",3.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Yellow Onions,Filipino,bulk,"Yellow Onions Medium, 4.54 kg",10.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,Filipino,small,"Fresh Whole Garlic, 5 Pack",1.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Garlic,Filipino,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Filipino,small,"Compliments Canola Oil 100% Pure, 946 ml",5.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Filipino,bulk,"Compliments Canola Oil Pure, 3 L",9.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,White Rice,Filipino,small,"Compliments White Rice Long Grain, 2 kg",4.97,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,White Rice,Filipino,bulk,"Dunya Harvest Rice Long Grain White, 8 kg (on sale)",14.99,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Tilapia,Filipino,small,"Compliments Naturally Simple Frozen Tilapia Fillets, 400 g",5.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Tilapia,Filipino,bulk,"Eight Treasures Frozen Whole Uncooked Tilapia, 1.36 kg",10.00,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Coconut Milk,Filipino,small,"Eight Treasures Canned Coconut Milk, 400 ml",1.69,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Coconut Milk,Filipino,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Fish Sauce,Filipino,small,"Kim Phat Fish Sauce, 298 ml",3.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Fish Sauce,Filipino,bulk,"Marca Piña Patis Fish Sauce, 1 L",3.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Belly,Filipino,small,not found in-stock as raw/comparable cut; only sliced (excluded by substitution rule) or out-of-stock cryovac portion,,per_kg,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pork Belly,Filipino,bulk,not found in-stock as raw/comparable cut; only sliced (excluded by substitution rule) or out-of-stock cryovac portion,,per_kg,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggplant,Filipino,small,"Eggplant (Chinese/Indian/regular varieties), shelf rate per kg",6.59,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggplant,Filipino,bulk,"Eggplant (Chinese/Indian/regular varieties), shelf rate per kg",6.59,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cane Vinegar,Filipino,small,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cane Vinegar,Filipino,bulk,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Korean,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Korean,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Korean,small,"Compliments Sesame Oil Liquid, 185 ml",4.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Sesame Oil,Korean,bulk,"Gagan Sesame Oil, 1 L (on sale)",13.99,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Short Grain Rice,Korean,small,not stocked at this store (no genuine short-grain/sushi rice found),,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Short Grain Rice,Korean,bulk,not stocked at this store (no genuine short-grain/sushi rice found),,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kimchi,Korean,small,"not stocked at this store (only kimchi-flavoured instant noodles found, not real kimchi)",,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Kimchi,Korean,bulk,"not stocked at this store (only kimchi-flavoured instant noodles found, not real kimchi)",,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gochujang,Korean,small,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gochujang,Korean,bulk,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bean Sprouts,Korean,small,Bean Sprouts 227 g - out of stock at time of collection,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bean Sprouts,Korean,bulk,Bean Sprouts bulk - out of stock at time of collection,,per_kg,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,Korean,small,"Medium Ground Beef, 454 g, sold per-each at CHALO! FreshCo 138 St & 72 Ave",7.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,Korean,bulk,"Ground Beef Lean VP, 1 kg, sold per-each at CHALO! FreshCo 138 St & 72 Ave",17.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Dried Seaweed Nori,Korean,small,"not stocked at this store (only seasoned seaweed snack roll found, not plain nori sheets)",,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Dried Seaweed Nori,Korean,bulk,"not stocked at this store (only seasoned seaweed snack roll found, not plain nori sheets)",,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silken Tofu,Korean,small,"Sunrise Tofu Soft, 300 g",1.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Silken Tofu,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Mackerel,Korean,small,"AA-1 Hasa Hasa Frozen Indian Mackerel, 450 g (on sale)",3.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Frozen Mackerel,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,European,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,European,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,European,small,"Lucerne 3.25% Whole Milk, 1 L",3.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,European,bulk,"Lucerne 3.35% Whole Milk, 4 L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,European,small,"Compliments Bread Whole Wheat, 570 g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,European,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cheddar Cheese,European,small,"Compliments Cheddar Marble Cheese Block, 400 g",6.29,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Cheddar Cheese,European,bulk,"Compliments Cheddar Cheese Mild Marble Value Size, 700 g",9.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,European,small,"Medium Ground Beef, 454 g, sold per-each at CHALO! FreshCo 138 St & 72 Ave",7.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Ground Beef,European,bulk,"Ground Beef Lean VP, 1 kg, sold per-each at CHALO! FreshCo 138 St & 72 Ave",17.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,European,small,"Potatoes Russet Cello, 2.27 kg",4.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,European,bulk,"Potatoes Russet, 4.54 kg",8.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,European,small,"Compliments Carrots, 1.36 kg (on sale)",3.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,European,bulk,larger 4.54 kg bag out of stock at time of collection; no other larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Olive Oil,European,small,"Compliments Olive Oil Extra Virgin, 1 L (smallest in-stock size; 500 ml size out of stock)",10.99,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Olive Oil,European,bulk,no larger pure olive oil format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Diced Canned Tomatoes,European,small,"Compliments Canned Diced Tomatoes, 796 ml",2.00,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Diced Canned Tomatoes,European,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Greek Yogurt,European,small,"Compliments 0% Greek Yogurt Plain, 650 g",4.50,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Greek Yogurt,European,bulk,"Liberté Greek 0% Yogurt Plain High Protein, 1 kg",9.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Indigenous,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Indigenous,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Indigenous,small,"Lucerne 3.25% Whole Milk, 1 L",3.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Indigenous,bulk,"Lucerne 3.35% Whole Milk, 4 L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gold Seal Salmon,Indigenous,small,"Clover Leaf Pink Salmon, 213 g (on sale; cheapest canned pink salmon, any brand)",4.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Gold Seal Salmon,Indigenous,bulk,"Clover Leaf Pink Salmon Wild Pacific, 418 g (on sale)",5.44,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Robin Hood Flour,Indigenous,small,"Robin Hood Flour All Purpose Original, 2.5 kg",6.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Robin Hood Flour,Indigenous,bulk,"Robin Hood All Purpose Flour Original, 10 kg",19.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Wild Blueberries,Indigenous,small,"Compliments Frozen Wild Blueberries, 300 g (on sale)",4.99,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Wild Blueberries,Indigenous,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bison Ground Meat,Indigenous,small,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bison Ground Meat,Indigenous,bulk,not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Indigenous,small,"Potatoes Russet Cello, 2.27 kg",4.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Indigenous,bulk,"Potatoes Russet, 4.54 kg",8.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pinto Beans,Indigenous,small,"Dunya Harvest Gluten-Free Canned Beans Pinto, 540 ml",1.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Pinto Beans,Indigenous,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Indigenous,small,"Quaker Quick Oats 100% Whole Grain, 1 kg",3.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Indigenous,bulk,"Quaker Quick Oats, 2.25 kg",7.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Crisco Shortening,Indigenous,small,"Crisco All Vegetable Shortening, 454 g",4.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Crisco Shortening,Indigenous,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Others,small,"Compliments White Eggs Large, 12 Count",4.21,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Eggs Large,Others,bulk,"Compliments White Eggs Large, 30 Count",10.22,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Others,small,"Lucerne 3.25% Whole Milk, 1 L",3.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Milk,Others,bulk,"Lucerne 3.35% Whole Milk, 4 L",6.11,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Others,small,"Compliments Canola Oil 100% Pure, 946 ml",5.79,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Canola Oil,Others,bulk,"Compliments Canola Oil Pure, 3 L",9.19,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,Others,small,"Compliments Bread Whole Wheat, 570 g",2.48,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Whole Wheat Bread,Others,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Breast,Others,small,"Compliments Chicken Breasts Boneless Skinless Value Size, shelf rate per kg",16.51,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Chicken Breast,Others,bulk,"Compliments Chicken Breasts Boneless Skinless Value Size, shelf rate per kg",16.51,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Others,small,"Potatoes Russet Cello, 2.27 kg",4.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Russet Potatoes,Others,bulk,"Potatoes Russet, 4.54 kg",8.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,Others,small,"Compliments Carrots, 1.36 kg (on sale)",3.49,each,TRUE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Carrots,Others,bulk,larger 4.54 kg bag out of stock at time of collection; no other larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Black Beans,Others,small,"Compliments No Salt Added Canned Black Beans, 540 ml",1.69,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Black Beans,Others,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,small,"Quaker Quick Oats 100% Whole Grain, 1 kg",3.99,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Quaker Oats,Others,bulk,"Quaker Quick Oats, 2.25 kg",7.49,each,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,small,"Bananas 1 Bunch (5-6 bananas), shelf rate per kg",1.74,per_kg,TRUE,FALSE,2026-08-08,FALSE
+CHALO! FreshCo 138 St & 72 Ave,V3W 7T9,Bananas,Others,bulk,"Bananas 1 Bunch (5-6 bananas), shelf rate per kg",1.74,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Basmati Rice,South Asian,small,Compliments Rice Basmati 900 g,4.79,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Basmati Rice,South Asian,bulk,India Gate Har Rooz Basmati Rice 3.63 kg,8.00,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Atta,South Asian,small,Sher Whole Wheat Flour Durum Atta Desi Style 9.07 kg (smallest real atta size available),18.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Atta,South Asian,bulk,no larger format available than 9.07 kg bag,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Toor Dal/Red Lentils,South Asian,small,Dunya Harvest Split Lentils Red 900 g,3.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Toor Dal/Red Lentils,South Asian,bulk,Dunya Harvest Lentils Red 2 kg,3.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,South Asian,small,Lucerne 3.25% Whole Milk 2 L,5.05,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,South Asian,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Yellow Onions,South Asian,small,Compliments Onions Yellow 1.36 kg (on sale),3.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Yellow Onions,South Asian,bulk,"Yellow Onions Medium 4.54 kg out of stock, no larger format in stock",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Roma Tomatoes,South Asian,small,Roma Tomato (Plum Tomato) - shelf per-kg rate (on sale),4.39,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Roma Tomatoes,South Asian,bulk,Roma Tomato (Plum Tomato) - shelf per-kg rate (on sale),4.39,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Chicken Thighs,South Asian,small,Compliments Chicken Thighs Value Pack (bone-in) - shelf per-kg rate,11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Chicken Thighs,South Asian,bulk,Compliments Chicken Thighs Value Pack (bone-in) - shelf per-kg rate,11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Plain/Balkan Yogurt,South Asian,small,Astro Original 2% Yogurt Balkan Style Plain 750 g (on sale),3.29,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Plain/Balkan Yogurt,South Asian,bulk,Olympic Organic 3.5% Yogurt Plain 1.75 kg,12.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Garlic,South Asian,small,Fresh Whole Garlic 5 Pack,1.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Garlic,South Asian,bulk,Garlic 1000 g,5.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,South Asian,small,Compliments Canola Oil 100% Pure 946 ml,4.50,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,South Asian,bulk,Compliments Canola Oil Pure 3 L,9.19,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Jasmine Rice,Chinese,small,Compliments Rice Jasmine 900 g,4.79,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Jasmine Rice,Chinese,bulk,Vita Rice Jasmine Value Size 8 kg,16.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Bok Choy,Chinese,small,Bok Choy 1 Bunch - shelf per-kg rate (on sale),2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Bok Choy,Chinese,bulk,Bok Choy 1 Bunch - shelf per-kg rate (on sale),2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Firm Tofu,Chinese,small,Sunrise Tofu Firm 500 g (on sale),2.79,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Firm Tofu,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Kikkoman Soy Sauce,Chinese,small,Kikkoman Soy Sauce 296 ml,5.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Kikkoman Soy Sauce,Chinese,bulk,Kikkoman Soy Sauce 1.2 L,12.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Silk Soy Milk,Chinese,small,Silk Dairy-Free Unsweetened Soy Milk Alternative Original Shelf Stable 946 ml,3.29,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Silk Soy Milk,Chinese,bulk,Silk Dairy-Free Soy Milk Alternative Original 1.89 L,4.00,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Chinese,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Chinese,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Green Onions,Chinese,small,Green Onions 1 Count (1 bunch),1.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Green Onions,Chinese,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Sesame Oil,Chinese,small,Compliments Sesame Oil Liquid 185 ml,4.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Sesame Oil,Chinese,bulk,Lee Kum Kee Pure Sesame Oil 443 ml (on sale),6.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Pork Shoulder,Chinese,small,Picnic Bone In Pork Shoulder - shelf per-kg rate,11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Pork Shoulder,Chinese,bulk,Picnic Bone In Pork Shoulder - shelf per-kg rate,11.00,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Napa Cabbage,Chinese,small,Napa Cabbage 1 Count - shelf per-kg rate (on sale),2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Napa Cabbage,Chinese,bulk,Napa Cabbage 1 Count - shelf per-kg rate (on sale),2.84,per_kg,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Filipino,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Filipino,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Yellow Onions,Filipino,small,Compliments Onions Yellow 1.36 kg (on sale),3.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Yellow Onions,Filipino,bulk,"Yellow Onions Medium 4.54 kg out of stock, no larger format in stock",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Garlic,Filipino,small,Fresh Whole Garlic 5 Pack,1.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Garlic,Filipino,bulk,Garlic 1000 g,5.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,Filipino,small,Compliments Canola Oil 100% Pure 946 ml,4.50,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,Filipino,bulk,Compliments Canola Oil Pure 3 L,9.19,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,White Rice,Filipino,small,Dunya Harvest Rice Long Grain White 2 kg,5.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,White Rice,Filipino,bulk,Dunya Harvest Rice Long Grain White 4 kg,9.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Frozen Tilapia,Filipino,small,Compliments Naturally Simple Frozen Tilapia Fillets 400 g,5.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Frozen Tilapia,Filipino,bulk,Eight Treasures Frozen Whole Uncooked Tilapia 1.36 kg,10.00,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Coconut Milk,Filipino,small,Eight Treasures Canned Coconut Milk 400 ml,1.69,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Coconut Milk,Filipino,bulk,"no larger format available, 400 ml is standard size across all brands",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Fish Sauce,Filipino,small,Kim Phat Fish Sauce 298 ml,3.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Fish Sauce,Filipino,bulk,Pangasinan Patis Fish Sauce 750 ml (on sale),3.19,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Pork Belly,Filipino,small,"only sliced pork belly in stock ($18.72/kg), which does not count as raw cut per substitution rule; skin-on and boneless cryovac cuts out of stock",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Pork Belly,Filipino,bulk,"only sliced pork belly in stock ($18.72/kg), which does not count as raw cut per substitution rule; skin-on and boneless cryovac cuts out of stock",,per_kg,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Eggplant,Filipino,small,Eggplant 1 Count - shelf per-kg rate,6.59,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggplant,Filipino,bulk,Eggplant 1 Count - shelf per-kg rate,6.59,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Cane Vinegar,Filipino,small,not stocked at this store (no cane vinegar / sukang found under any search term),,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Cane Vinegar,Filipino,bulk,not stocked at this store (no cane vinegar / sukang found under any search term),,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Korean,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Korean,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Sesame Oil,Korean,small,Compliments Sesame Oil Liquid 185 ml,4.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Sesame Oil,Korean,bulk,Lee Kum Kee Pure Sesame Oil 443 ml (on sale),6.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Short Grain Rice,Korean,small,Kim Phat Calrose Sushi Rice 900 g,4.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Short Grain Rice,Korean,bulk,Sunwhite Australian Calrose Rice 4.5 kg,16.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Kimchi,Korean,small,Jongga Pouch Kimchi 80 g (only real jarred kimchi in stock),1.79,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Kimchi,Korean,bulk,"no larger format available, only 80 g pouch stocked",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Gochujang,Korean,small,Ajumma Republic Chili Sauce Gochujang 315 g,6.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Gochujang,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Bean Sprouts,Korean,small,Bean Sprouts 227 g,2.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Bean Sprouts,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Ground Beef,Korean,small,"Medium Ground Beef 454 g, sold per-each at FreshCo No 2 & Blundell",7.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Ground Beef,Korean,bulk,Tube Lean Ground Beef 3lb 1.36 kg out of stock; no other larger real in-stock format,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Dried Seaweed Nori,Korean,small,Nico Nico Foods Sushi Seaweed 25 g (on sale),2.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Dried Seaweed Nori,Korean,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Silken Tofu,Korean,small,Sunrise Tofu Soft 300 g,1.79,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Silken Tofu,Korean,bulk,Sunrise Tofu Premium Soft 530 g (on sale),1.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Frozen Mackerel,Korean,small,AA-1 Hasa Hasa Frozen Indian Mackerel 450 g (on sale),3.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Frozen Mackerel,Korean,bulk,"no larger format available, only one size in stock",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,European,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,European,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,European,small,Lucerne 3.25% Whole Milk 2 L,5.05,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,European,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Bread,European,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Bread,European,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Cheddar Cheese,European,small,Compliments Cheddar Marble Cheese Block 400 g,6.29,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Cheddar Cheese,European,bulk,Compliments Cheddar Cheese Mild Marble Value Size 700 g,9.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Ground Beef,European,small,"Medium Ground Beef 454 g, sold per-each at FreshCo No 2 & Blundell",7.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Ground Beef,European,bulk,Tube Lean Ground Beef 3lb 1.36 kg out of stock; no other larger real in-stock format,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,European,small,Potatoes Russet Cello 2.27 kg,4.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,European,bulk,Potatoes Russet 4.54 kg,8.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Carrots,European,small,Compliments Carrots 1.36 kg (on sale),3.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Carrots,European,bulk,Carrots 4.54 kg out of stock; no larger in-stock format confirmed,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Olive Oil,European,small,Best Buy Olive Oil Extra Virgin 750 ml,8.00,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Olive Oil,European,bulk,Compliments Olive Oil Extras Virgin Pure Rich Taste 2 L,23.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Diced Canned Tomatoes,European,small,Compliments Canned Diced Tomatoes 796 ml,2.00,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Diced Canned Tomatoes,European,bulk,"no larger format available, 796 ml is standard/largest size",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Greek Yogurt,European,small,Compliments 0% Greek Yogurt Plain 650 g,4.50,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Greek Yogurt,European,bulk,Olympic 2% Greek Yogurt Plain 1.75 kg,12.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Indigenous,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Indigenous,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,Indigenous,small,Lucerne 3.25% Whole Milk 2 L,5.05,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,Indigenous,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Gold Seal Salmon,Indigenous,small,Clover Leaf Canned Pink Salmon Flaked 142 g (on sale),2.77,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Gold Seal Salmon,Indigenous,bulk,Clover Leaf Pink Salmon Wild Pacific 418 g (on sale),5.44,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Robin Hood Flour,Indigenous,small,Robin Hood Flour All Purpose Original 2.5 kg,6.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Robin Hood Flour,Indigenous,bulk,Robin Hood All Purpose Flour Original 10 kg,19.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Wild Blueberries,Indigenous,small,Compliments Frozen Wild Blueberries 300 g (on sale),4.99,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Wild Blueberries,Indigenous,bulk,"Oxford Frozen Wild Blueberries 1.5 kg out of stock, no larger in-stock format",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Bison Ground Meat,Indigenous,small,bison not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Bison Ground Meat,Indigenous,bulk,bison not stocked at this store,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,Indigenous,small,Potatoes Russet Cello 2.27 kg,4.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,Indigenous,bulk,Potatoes Russet 4.54 kg,8.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Pinto Beans,Indigenous,small,"Dunya Harvest Pinto Beans 900 g, dry bagged beans, not canned - no plain canned pinto beans stocked",3.29,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Pinto Beans,Indigenous,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Quaker Oats,Indigenous,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Quaker Oats,Indigenous,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Crisco Shortening,Indigenous,small,Crisco All Vegetable Shortening 454 g,4.79,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Crisco Shortening,Indigenous,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Others,small,Compliments White Eggs Large 12 Count,4.21,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Eggs Large,Others,bulk,Compliments White Eggs Large 30 Count,10.22,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,Others,small,Lucerne 3.25% Whole Milk 2 L,5.05,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Milk,Others,bulk,Lucerne 3.35% Whole Milk 4 L,6.11,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,Others,small,Compliments Canola Oil 100% Pure 946 ml,4.50,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Canola Oil,Others,bulk,Compliments Canola Oil Pure 3 L,9.19,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Bread,Others,small,Compliments Bread Whole Wheat 570 g,2.48,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Whole Wheat Bread,Others,bulk,no larger format available,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Chicken Breast,Others,small,Compliments Chicken Breast Air Chilled Boneless Skinless Value Size - shelf per-kg rate,17.39,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Chicken Breast,Others,bulk,Compliments Chicken Breast Air Chilled Boneless Skinless Value Size - shelf per-kg rate,17.39,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,Others,small,Potatoes Russet Cello 2.27 kg,4.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Russet Potatoes,Others,bulk,Potatoes Russet 4.54 kg,8.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Carrots,Others,small,Compliments Carrots 1.36 kg (on sale),3.49,each,TRUE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Carrots,Others,bulk,Carrots 4.54 kg out of stock; no larger in-stock format confirmed,,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Black Beans,Others,small,Compliments Black Beans 540 ml,1.69,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Black Beans,Others,bulk,"no larger format available, 540 ml is standard/largest size",,each,FALSE,FALSE,2026-08-08,TRUE
+FreshCo No 2 & Blundell,V7C 1H8,Quaker Oats,Others,small,Quaker Quick Oats 100% Whole Grain 1 kg,3.99,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Quaker Oats,Others,bulk,Quaker Quick Oats 2.25 kg,7.49,each,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Bananas,Others,small,Bananas 1 Bunch (5-6 bananas) - shelf per-kg rate,1.74,per_kg,TRUE,FALSE,2026-08-08,FALSE
+FreshCo No 2 & Blundell,V7C 1H8,Bananas,Others,bulk,Bananas 1 Bunch (5-6 bananas) - shelf per-kg rate,1.74,per_kg,TRUE,FALSE,2026-08-08,FALSE
