@@ -5,7 +5,7 @@ Metro Vancouver's first culturally-specific grocery affordability tracker. Monit
 - **Store Premium Score** — how much each store charges above or below the Statistics Canada BC provincial baseline.
 - **Poverty Penalty** — the extra dollars low-income families pay per bi-weekly basket simply because they cannot afford to buy in bulk.
 
-> **Data: May–July 2026** — 6,212 price points across 22 stores and 7 culturally specific baskets (46 store snapshots).
+> **Data: May–August 2026** — 11,182 price observations across 22 stores and 7 culturally specific baskets (81 store snapshots).
 
 This is a [Vite](https://vite.dev) + [React](https://react.dev) + TypeScript single-page app. It is **not** a set of static HTML pages — the dashboard is compiled at build time and reads the price CSV in the browser at runtime.
 
@@ -113,6 +113,8 @@ Then set **Settings → Pages → Source: Deploy from a branch → `gh-pages` / 
 | `price_approximate` | `True` if the price is estimated |
 | `collection_date` | Date collected (`YYYY-MM-DD`) |
 | `needs_manual_review` | `True` if the data needs verification |
+| `is_on_sale` | `TRUE` or `FALSE` — whether the item was on sale when collected |
+| `regular_price_cad` | Pre-sale price in CAD, populated only when the collected `description` contained a recoverable "was $X.XX" figure; left blank otherwise. A blank value does **not** mean "not on sale" — use `is_on_sale` for that |
 
 ### Weekly update steps
 
@@ -128,6 +130,8 @@ Then set **Settings → Pages → Source: Deploy from a branch → `gh-pages` / 
    ```
 
 That's all. With automatic deploy enabled (see [Deploy](#deploy-to-github-pages)), the push triggers GitHub Actions, which rebuilds and republishes the dashboard within a couple of minutes — no manual rebuild step.
+
+**Collection rotation:** Prices are now gathered on a weekly rolling rotation of five batches (A through E), each covering a subset of the 22 stores. The rotation is currently operating and is on its second full loop through every store. On-sale items are recorded at their sale price, with the exact original ("was") price captured in `regular_price_cad` whenever the listing exposes it.
 
 ### Adding a new store
 
@@ -158,10 +162,12 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others.
 - **22 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta, North Vancouver, New Westminster, and Maple Ridge.
 - **3 chain tiers** — discount (No Frills, FreshCo/CHALO!), mid-tier (Superstore, Save-On-Foods), mass (Walmart).
-- **6,212 price data points** collected May–July 2026 across 46 store snapshots, updated weekly.
+- **11,182 price observations** collected May–August 2026 across 81 store snapshots, updated weekly.
 - **2 package sizes** (small + bulk) per product, recorded for the planned poverty-penalty analysis.
 
-Across the current data, the gap between the most and least expensive store for the full basket is **$126.79 per bi-weekly trip** (Save-On-Foods Maple Ridge at **$451.17** vs. Walmart Surrey Downtown at **$324.38**) — roughly **$3,297 per year** over 26 trips — the premium a family pays simply for where they shop.
+Across the current data, the gap between the most and least expensive store for the full basket is **$175.65 per bi-weekly trip** (Save-On-Foods Fleetwood Surrey at **$479.63** vs. CHALO! FreshCo 138 St & 72 Ave at **$303.98**) — roughly **$4,567 per year** over 26 trips — the premium a family pays simply for where they shop.
+
+*Figures above reflect the dataset as of August 13, 2026; the live dashboard always shows current calculated values, which shift as prices are refreshed.*
 
 > **Bulk-vs-small "poverty penalty" analysis is future work**, pending structured package-size data across all stores. The figure above is the store-to-store price gap computed directly from the master CSV, not a small-vs-bulk penalty.
 
@@ -173,4 +179,4 @@ The `/dashboard` route provides the interactive store comparison; the home page 
 
 **Kritubvna Sharma** — kritubvnabhattarai10@gmail.com
 
-_Data collected from store websites. Some prices approximate. Data: May–July 2026, updated weekly._
+_Data collected from store websites. Some prices approximate. Data: May–August 2026, updated weekly. Last updated August 13, 2026._
