@@ -5,7 +5,7 @@ Metro Vancouver's first culturally-specific grocery affordability tracker. Monit
 - **Store Premium Score** — how much each store charges above or below the Statistics Canada BC provincial baseline.
 - **Poverty Penalty** — the extra dollars low-income families pay per bi-weekly basket simply because they cannot afford to buy in bulk.
 
-> **Data: May–August 2026** — 11,182 price observations across 22 stores and 7 culturally specific baskets (81 store snapshots).
+> **Data: May–August 2026** — 15,584 price observations across 22 stores and 7 culturally specific baskets (112 store snapshots).
 
 This is a [Vite](https://vite.dev) + [React](https://react.dev) + TypeScript single-page app. It is **not** a set of static HTML pages — the dashboard is compiled at build time and reads the price CSV in the browser at runtime.
 
@@ -162,7 +162,7 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others.
 - **22 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta, North Vancouver, New Westminster, and Maple Ridge.
 - **3 chain tiers** — discount (No Frills, FreshCo/CHALO!), mid-tier (Superstore, Save-On-Foods), mass (Walmart).
-- **11,182 price observations** collected May–August 2026 across 81 store snapshots, updated weekly.
+- **15,584 price observations** collected May–August 2026 across 112 store snapshots, updated weekly.
 - **2 package sizes** (small + bulk) per product, recorded for the planned poverty-penalty analysis.
 
 Across the current data, the gap between the most and least expensive store for the full basket is **$175.65 per bi-weekly trip** (Save-On-Foods Fleetwood Surrey at **$479.63** vs. CHALO! FreshCo 138 St & 72 Ave at **$303.98**) — roughly **$4,567 per year** over 26 trips — the premium a family pays simply for where they shop.
@@ -179,4 +179,4 @@ The `/dashboard` route provides the interactive store comparison; the home page 
 
 **Kritubvna Sharma** — kritubvnabhattarai10@gmail.com
 
-_Data collected from store websites. Some prices approximate. Data: May–August 2026, updated weekly. Last updated August 13, 2026._
+_Data collected from store websites. Some prices approximate. Data: May–August 2026, updated weekly. Last updated August 29, 2026._
