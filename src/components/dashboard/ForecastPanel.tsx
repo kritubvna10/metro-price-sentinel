@@ -431,14 +431,13 @@ function HonestyNote(): React.JSX.Element {
           maxWidth: '760px',
         }}
       >
-        <strong style={{ color: '#111827' }}>How to read this.</strong> These are
-        model estimates for each store&rsquo;s next collection, typically 2 to 3
-        weeks out, not predictions for a specific day. Stores are visited roughly
-        every 3 weeks, so the model cannot tell you what a price will be on a
-        particular date. Tested on data it had never seen, the model&rsquo;s
-        estimates are about 40% closer to the real price than simply assuming
-        nothing changes ($1.57 vs $2.62 average error per item). It is a research
-        prototype and the estimates are signals, not guarantees.
+        <strong style={{ color: '#111827' }}>How to read this.</strong> Think of
+        these as smart estimates, not promises. We check each store about once
+        every three weeks, so each number is our best guess for the next visit
+        &mdash; not a price for any single day. When we tested it on prices it had
+        never seen, it came out roughly 40% closer to reality than assuming
+        nothing changes. It&rsquo;s an early research prototype, so treat these as
+        signals worth watching, not sure things.
       </p>
     </div>
   );
