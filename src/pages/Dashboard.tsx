@@ -5,6 +5,7 @@ import { BASKET_OPTIONS } from '../components/dashboard/basketOptions';
 import KpiRow from '../components/dashboard/KpiRow';
 import PremiumChart from '../components/dashboard/PremiumChart';
 import ContextPanel from '../components/dashboard/ContextPanel';
+import ForecastPanel from '../components/dashboard/ForecastPanel';
 import StoreTable from '../components/dashboard/StoreTable';
 import MethodologyFooter from '../components/dashboard/MethodologyFooter';
 import { usePriceData } from '../hooks/usePriceData';
@@ -266,6 +267,10 @@ export default function Dashboard(): React.JSX.Element {
             <div className="mt-6 grid grid-cols-1 gap-6 lg:grid-cols-[3fr_2fr] lg:items-stretch">
               <PremiumChart stores={viewStores} />
               <ContextPanel />
+            </div>
+
+            <div className="mt-6">
+              <ForecastPanel />
             </div>
 
             <div className="mt-6 pb-16">

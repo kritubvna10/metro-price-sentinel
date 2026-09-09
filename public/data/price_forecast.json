@@ -1,0 +1,1261 @@
+{
+  "generated_on": "2026-09-06",
+  "forecast_window": "2026-09-17 to 2026-09-21",
+  "model_note": "beats naive baseline by ~40% MAE on held-out data",
+  "stores": [
+    {
+      "store_name": "CHALO! FreshCo 138 St & 72 Ave",
+      "last_actual_date": "2026-08-27",
+      "last_actual_basket": 327.9,
+      "predicted_basket": 327.19,
+      "expected_next_visit": "2026-09-19",
+      "products": [
+        {
+          "product_name": "Ground Beef",
+          "last_actual": 16.49,
+          "predicted": 15.59,
+          "change": -0.9
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 8.0,
+          "predicted": 7.2,
+          "change": -0.8
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 10.49,
+          "predicted": 9.89,
+          "change": -0.6
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 11.99,
+          "predicted": 12.44,
+          "change": 0.45
+        },
+        {
+          "product_name": "Plain/Balkan Yogurt",
+          "last_actual": 2.29,
+          "predicted": 2.7,
+          "change": 0.41
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 6.99,
+          "predicted": 7.39,
+          "change": 0.4
+        },
+        {
+          "product_name": "Canola Oil",
+          "last_actual": 4.5,
+          "predicted": 4.89,
+          "change": 0.39
+        },
+        {
+          "product_name": "Pinto Beans",
+          "last_actual": 2.89,
+          "predicted": 2.54,
+          "change": -0.35
+        }
+      ]
+    },
+    {
+      "store_name": "FreshCo No 2 & Blundell",
+      "last_actual_date": "2026-08-27",
+      "last_actual_basket": 366.21,
+      "predicted_basket": 361.73,
+      "expected_next_visit": "2026-09-19",
+      "products": [
+        {
+          "product_name": "Fish Sauce",
+          "last_actual": 10.98,
+          "predicted": 9.86,
+          "change": -1.12
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 9.47,
+          "predicted": 8.77,
+          "change": -0.7
+        },
+        {
+          "product_name": "Ground Beef",
+          "last_actual": 16.49,
+          "predicted": 15.92,
+          "change": -0.57
+        },
+        {
+          "product_name": "Olive Oil",
+          "last_actual": 9.99,
+          "predicted": 9.59,
+          "change": -0.4
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 4.47,
+          "predicted": 4.07,
+          "change": -0.4
+        },
+        {
+          "product_name": "Whole Milk",
+          "last_actual": 5.05,
+          "predicted": 4.68,
+          "change": -0.37
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.69,
+          "predicted": 2.99,
+          "change": 0.3
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 4.49,
+          "predicted": 4.79,
+          "change": 0.3
+        }
+      ]
+    },
+    {
+      "store_name": "No Frills Burnaby Hastings",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 343.68,
+      "predicted_basket": 342.65,
+      "expected_next_visit": "2026-09-15",
+      "products": [
+        {
+          "product_name": "Kimchi",
+          "last_actual": 12.5,
+          "predicted": 10.4,
+          "change": -2.1
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 3.79,
+          "predicted": 4.74,
+          "change": 0.95
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 2.99,
+          "predicted": 3.74,
+          "change": 0.75
+        },
+        {
+          "product_name": "Frozen Tilapia",
+          "last_actual": 9.0,
+          "predicted": 8.45,
+          "change": -0.55
+        },
+        {
+          "product_name": "Roma Tomatoes",
+          "last_actual": 6.6,
+          "predicted": 6.1,
+          "change": -0.5
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 8.99,
+          "predicted": 8.49,
+          "change": -0.5
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 16.2,
+          "predicted": 16.69,
+          "change": 0.49
+        },
+        {
+          "product_name": "Napa Cabbage",
+          "last_actual": 3.28,
+          "predicted": 3.61,
+          "change": 0.33
+        }
+      ]
+    },
+    {
+      "store_name": "No Frills Coquitlam",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 339.38,
+      "predicted_basket": 335.4,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Kimchi",
+          "last_actual": 12.5,
+          "predicted": 10.4,
+          "change": -2.1
+        },
+        {
+          "product_name": "Frozen Mackerel",
+          "last_actual": 8.99,
+          "predicted": 8.62,
+          "change": -0.37
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 7.0,
+          "predicted": 6.65,
+          "change": -0.35
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 2.99,
+          "predicted": 3.33,
+          "change": 0.34
+        },
+        {
+          "product_name": "Napa Cabbage",
+          "last_actual": 3.28,
+          "predicted": 3.61,
+          "change": 0.33
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 6.0,
+          "predicted": 5.69,
+          "change": -0.31
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 4.0,
+          "predicted": 4.3,
+          "change": 0.3
+        },
+        {
+          "product_name": "Sesame Oil",
+          "last_actual": 6.49,
+          "predicted": 6.24,
+          "change": -0.25
+        }
+      ]
+    },
+    {
+      "store_name": "No Frills Delta",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 322.39,
+      "predicted_basket": 321.68,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 9.88,
+          "predicted": 11.26,
+          "change": 1.38
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 14.97,
+          "predicted": 14.23,
+          "change": -0.74
+        },
+        {
+          "product_name": "Cheddar Cheese",
+          "last_actual": 6.0,
+          "predicted": 5.5,
+          "change": -0.5
+        },
+        {
+          "product_name": "Ground Beef",
+          "last_actual": 18.3,
+          "predicted": 17.81,
+          "change": -0.49
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 4.49,
+          "predicted": 4.87,
+          "change": 0.38
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 5.5,
+          "predicted": 5.85,
+          "change": 0.35
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 4.99,
+          "predicted": 4.66,
+          "change": -0.33
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 6.0,
+          "predicted": 5.69,
+          "change": -0.31
+        }
+      ]
+    },
+    {
+      "store_name": "No Frills Hastings Vancouver",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 329.82,
+      "predicted_basket": 325.7,
+      "expected_next_visit": "2026-09-13",
+      "products": [
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 15.99,
+          "predicted": 14.16,
+          "change": -1.83
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 12.99,
+          "predicted": 11.79,
+          "change": -1.2
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 4.99,
+          "predicted": 4.66,
+          "change": -0.33
+        },
+        {
+          "product_name": "Napa Cabbage",
+          "last_actual": 3.28,
+          "predicted": 3.61,
+          "change": 0.33
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 4.49,
+          "predicted": 4.74,
+          "change": 0.25
+        },
+        {
+          "product_name": "Dried Seaweed Nori",
+          "last_actual": 1.5,
+          "predicted": 1.74,
+          "change": 0.24
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 5.5,
+          "predicted": 5.28,
+          "change": -0.22
+        },
+        {
+          "product_name": "Eggplant",
+          "last_actual": 6.59,
+          "predicted": 6.37,
+          "change": -0.22
+        }
+      ]
+    },
+    {
+      "store_name": "No Frills Surrey",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 352.39,
+      "predicted_basket": 350.36,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 2.99,
+          "predicted": 3.74,
+          "change": 0.75
+        },
+        {
+          "product_name": "Russet Potatoes",
+          "last_actual": 5.99,
+          "predicted": 5.62,
+          "change": -0.37
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 7.25,
+          "predicted": 7.59,
+          "change": 0.34
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 6.0,
+          "predicted": 5.7,
+          "change": -0.3
+        },
+        {
+          "product_name": "Frozen Mackerel",
+          "last_actual": 8.99,
+          "predicted": 8.69,
+          "change": -0.3
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 5.5,
+          "predicted": 5.28,
+          "change": -0.22
+        },
+        {
+          "product_name": "Eggplant",
+          "last_actual": 6.59,
+          "predicted": 6.37,
+          "change": -0.22
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 13.0,
+          "predicted": 13.2,
+          "change": 0.2
+        }
+      ]
+    },
+    {
+      "store_name": "Real Canadian Superstore Seymour Blvd",
+      "last_actual_date": "2026-09-06",
+      "last_actual_basket": 364.08,
+      "predicted_basket": 356.53,
+      "expected_next_visit": "2026-09-20",
+      "products": [
+        {
+          "product_name": "Canola Oil",
+          "last_actual": 9.26,
+          "predicted": 7.66,
+          "change": -1.6
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 15.99,
+          "predicted": 14.79,
+          "change": -1.2
+        },
+        {
+          "product_name": "Cheddar Cheese",
+          "last_actual": 8.79,
+          "predicted": 8.03,
+          "change": -0.76
+        },
+        {
+          "product_name": "Pinto Beans",
+          "last_actual": 3.79,
+          "predicted": 3.13,
+          "change": -0.66
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 17.61,
+          "predicted": 17.02,
+          "change": -0.59
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 11.0,
+          "predicted": 10.45,
+          "change": -0.55
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 6.29,
+          "predicted": 5.75,
+          "change": -0.54
+        },
+        {
+          "product_name": "Frozen Tilapia",
+          "last_actual": 8.99,
+          "predicted": 8.47,
+          "change": -0.52
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Cambie Street Vancouver",
+      "last_actual_date": "2026-08-30",
+      "last_actual_basket": 452.23,
+      "predicted_basket": 444.25,
+      "expected_next_visit": "2026-09-10",
+      "products": [
+        {
+          "product_name": "Kimchi",
+          "last_actual": 15.49,
+          "predicted": 13.79,
+          "change": -1.7
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 19.2,
+          "predicted": 17.98,
+          "change": -1.22
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 9.29,
+          "predicted": 8.29,
+          "change": -1.0
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 16.5,
+          "predicted": 15.57,
+          "change": -0.93
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 15.4,
+          "predicted": 14.74,
+          "change": -0.66
+        },
+        {
+          "product_name": "Roma Tomatoes",
+          "last_actual": 5.9,
+          "predicted": 6.55,
+          "change": 0.65
+        },
+        {
+          "product_name": "Eggplant",
+          "last_actual": 6.6,
+          "predicted": 5.99,
+          "change": -0.61
+        },
+        {
+          "product_name": "Plain/Balkan Yogurt",
+          "last_actual": 3.29,
+          "predicted": 3.85,
+          "change": 0.56
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Coquitlam",
+      "last_actual_date": "2026-08-31",
+      "last_actual_basket": 429.03,
+      "predicted_basket": 427.56,
+      "expected_next_visit": "2026-09-12",
+      "products": [
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 11.3,
+          "predicted": 13.77,
+          "change": 2.47
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 20.5,
+          "predicted": 18.85,
+          "change": -1.65
+        },
+        {
+          "product_name": "Robin Hood Flour",
+          "last_actual": 6.29,
+          "predicted": 7.86,
+          "change": 1.57
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 9.29,
+          "predicted": 8.28,
+          "change": -1.01
+        },
+        {
+          "product_name": "Frozen Tilapia",
+          "last_actual": 16.99,
+          "predicted": 16.16,
+          "change": -0.83
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 16.5,
+          "predicted": 17.32,
+          "change": 0.82
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 14.99,
+          "predicted": 14.23,
+          "change": -0.76
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 11.99,
+          "predicted": 11.34,
+          "change": -0.65
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Delta",
+      "last_actual_date": "2026-08-31",
+      "last_actual_basket": 448.18,
+      "predicted_basket": 449.3,
+      "expected_next_visit": "2026-09-12",
+      "products": [
+        {
+          "product_name": "Kimchi",
+          "last_actual": 7.99,
+          "predicted": 9.87,
+          "change": 1.88
+        },
+        {
+          "product_name": "Canola Oil",
+          "last_actual": 11.99,
+          "predicted": 10.49,
+          "change": -1.5
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 16.5,
+          "predicted": 17.96,
+          "change": 1.46
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 13.2,
+          "predicted": 14.3,
+          "change": 1.1
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 12.99,
+          "predicted": 14.02,
+          "change": 1.03
+        },
+        {
+          "product_name": "Russet Potatoes",
+          "last_actual": 6.99,
+          "predicted": 7.86,
+          "change": 0.87
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.99,
+          "predicted": 3.71,
+          "change": 0.72
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 9.49,
+          "predicted": 8.84,
+          "change": -0.65
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Fleetwood Surrey",
+      "last_actual_date": "2026-08-31",
+      "last_actual_basket": 447.43,
+      "predicted_basket": 447.4,
+      "expected_next_visit": "2026-09-11",
+      "products": [
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 12.99,
+          "predicted": 14.94,
+          "change": 1.95
+        },
+        {
+          "product_name": "Robin Hood Flour",
+          "last_actual": 16.99,
+          "predicted": 15.4,
+          "change": -1.59
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 20.9,
+          "predicted": 19.44,
+          "change": -1.46
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 12.1,
+          "predicted": 13.09,
+          "change": 0.99
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 15.4,
+          "predicted": 14.52,
+          "change": -0.88
+        },
+        {
+          "product_name": "Sesame Oil",
+          "last_actual": 4.39,
+          "predicted": 5.15,
+          "change": 0.76
+        },
+        {
+          "product_name": "Eggplant",
+          "last_actual": 6.6,
+          "predicted": 5.95,
+          "change": -0.65
+        },
+        {
+          "product_name": "Greek Yogurt",
+          "last_actual": 6.99,
+          "predicted": 6.36,
+          "change": -0.63
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Langley",
+      "last_actual_date": "2026-09-01",
+      "last_actual_basket": 418.73,
+      "predicted_basket": 421.67,
+      "expected_next_visit": "2026-09-13",
+      "products": [
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 11.3,
+          "predicted": 13.39,
+          "change": 2.09
+        },
+        {
+          "product_name": "Robin Hood Flour",
+          "last_actual": 6.29,
+          "predicted": 7.86,
+          "change": 1.57
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 20.5,
+          "predicted": 19.04,
+          "change": -1.46
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 9.39,
+          "predicted": 10.78,
+          "change": 1.39
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 15.49,
+          "predicted": 14.52,
+          "change": -0.97
+        },
+        {
+          "product_name": "Roma Tomatoes",
+          "last_actual": 9.9,
+          "predicted": 9.07,
+          "change": -0.83
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 9.49,
+          "predicted": 8.84,
+          "change": -0.65
+        },
+        {
+          "product_name": "Plain/Balkan Yogurt",
+          "last_actual": 3.29,
+          "predicted": 3.89,
+          "change": 0.6
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Lonsdale",
+      "last_actual_date": "2026-09-01",
+      "last_actual_basket": 460.19,
+      "predicted_basket": 456.42,
+      "expected_next_visit": "2026-09-13",
+      "products": [
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 13.2,
+          "predicted": 14.52,
+          "change": 1.32
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 20.5,
+          "predicted": 19.41,
+          "change": -1.09
+        },
+        {
+          "product_name": "Olive Oil",
+          "last_actual": 6.99,
+          "predicted": 7.94,
+          "change": 0.95
+        },
+        {
+          "product_name": "Roma Tomatoes",
+          "last_actual": 9.9,
+          "predicted": 9.07,
+          "change": -0.83
+        },
+        {
+          "product_name": "Eggplant",
+          "last_actual": 6.6,
+          "predicted": 5.82,
+          "change": -0.78
+        },
+        {
+          "product_name": "Plain/Balkan Yogurt",
+          "last_actual": 3.29,
+          "predicted": 4.01,
+          "change": 0.72
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 11.99,
+          "predicted": 12.71,
+          "change": 0.72
+        },
+        {
+          "product_name": "Jasmine Rice",
+          "last_actual": 9.49,
+          "predicted": 8.79,
+          "change": -0.7
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods Maple Ridge",
+      "last_actual_date": "2026-09-01",
+      "last_actual_basket": 446.39,
+      "predicted_basket": 439.21,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Eggplant",
+          "last_actual": 11.0,
+          "predicted": 8.9,
+          "change": -2.1
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 9.29,
+          "predicted": 8.04,
+          "change": -1.25
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 20.5,
+          "predicted": 19.41,
+          "change": -1.09
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 6.69,
+          "predicted": 7.71,
+          "change": 1.02
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 15.49,
+          "predicted": 14.62,
+          "change": -0.87
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 9.99,
+          "predicted": 9.16,
+          "change": -0.83
+        },
+        {
+          "product_name": "Roma Tomatoes",
+          "last_actual": 9.9,
+          "predicted": 9.07,
+          "change": -0.83
+        },
+        {
+          "product_name": "Whole Milk",
+          "last_actual": 5.29,
+          "predicted": 4.67,
+          "change": -0.62
+        }
+      ]
+    },
+    {
+      "store_name": "Save-On-Foods New Westminster",
+      "last_actual_date": "2026-09-02",
+      "last_actual_basket": 436.1,
+      "predicted_basket": 429.78,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 14.99,
+          "predicted": 12.94,
+          "change": -2.05
+        },
+        {
+          "product_name": "Robin Hood Flour",
+          "last_actual": 16.99,
+          "predicted": 15.09,
+          "change": -1.9
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 10.3,
+          "predicted": 11.76,
+          "change": 1.46
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 15.49,
+          "predicted": 14.29,
+          "change": -1.2
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 20.9,
+          "predicted": 20.11,
+          "change": -0.79
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 19.2,
+          "predicted": 18.43,
+          "change": -0.77
+        },
+        {
+          "product_name": "Plain/Balkan Yogurt",
+          "last_actual": 3.29,
+          "predicted": 3.86,
+          "change": 0.57
+        },
+        {
+          "product_name": "Quaker Oats",
+          "last_actual": 6.99,
+          "predicted": 6.47,
+          "change": -0.52
+        }
+      ]
+    },
+    {
+      "store_name": "Superstore Guildford Surrey",
+      "last_actual_date": "2026-09-04",
+      "last_actual_basket": 343.37,
+      "predicted_basket": 340.64,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 7.72,
+          "predicted": 7.0,
+          "change": -0.72
+        },
+        {
+          "product_name": "Cheddar Cheese",
+          "last_actual": 8.79,
+          "predicted": 8.07,
+          "change": -0.72
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 5.99,
+          "predicted": 5.32,
+          "change": -0.67
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 6.29,
+          "predicted": 5.62,
+          "change": -0.67
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 8.8,
+          "predicted": 9.46,
+          "change": 0.66
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 11.99,
+          "predicted": 11.39,
+          "change": -0.6
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 11.0,
+          "predicted": 10.45,
+          "change": -0.55
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 4.75,
+          "predicted": 5.29,
+          "change": 0.54
+        }
+      ]
+    },
+    {
+      "store_name": "Superstore Lougheed Burnaby",
+      "last_actual_date": "2026-09-04",
+      "last_actual_basket": 352.1,
+      "predicted_basket": 349.24,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 8.8,
+          "predicted": 9.79,
+          "change": 0.99
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 15.99,
+          "predicted": 15.17,
+          "change": -0.82
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 4.75,
+          "predicted": 5.52,
+          "change": 0.77
+        },
+        {
+          "product_name": "Cheddar Cheese",
+          "last_actual": 8.79,
+          "predicted": 8.08,
+          "change": -0.71
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 6.29,
+          "predicted": 5.6,
+          "change": -0.69
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 6.35,
+          "predicted": 5.71,
+          "change": -0.64
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 17.61,
+          "predicted": 17.02,
+          "change": -0.59
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 11.0,
+          "predicted": 10.45,
+          "change": -0.55
+        }
+      ]
+    },
+    {
+      "store_name": "Superstore Richmond",
+      "last_actual_date": "2026-09-04",
+      "last_actual_basket": 354.11,
+      "predicted_basket": 350.98,
+      "expected_next_visit": "2026-09-14",
+      "products": [
+        {
+          "product_name": "Canola Oil",
+          "last_actual": 9.26,
+          "predicted": 7.68,
+          "change": -1.58
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 15.99,
+          "predicted": 14.69,
+          "change": -1.3
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 6.0,
+          "predicted": 7.22,
+          "change": 1.22
+        },
+        {
+          "product_name": "Pork Shoulder",
+          "last_actual": 8.8,
+          "predicted": 9.79,
+          "change": 0.99
+        },
+        {
+          "product_name": "Gold Seal Salmon",
+          "last_actual": 6.29,
+          "predicted": 5.6,
+          "change": -0.69
+        },
+        {
+          "product_name": "Cheddar Cheese",
+          "last_actual": 8.79,
+          "predicted": 8.13,
+          "change": -0.66
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.5,
+          "predicted": 3.12,
+          "change": 0.62
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 4.75,
+          "predicted": 5.29,
+          "change": 0.54
+        }
+      ]
+    },
+    {
+      "store_name": "Walmart Langley",
+      "last_actual_date": "2026-08-25",
+      "last_actual_basket": 328.16,
+      "predicted_basket": 331.63,
+      "expected_next_visit": "2026-09-15",
+      "products": [
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 11.97,
+          "predicted": 13.73,
+          "change": 1.76
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 7.97,
+          "predicted": 9.07,
+          "change": 1.1
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.97,
+          "predicted": 3.67,
+          "change": 0.7
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 8.5,
+          "predicted": 9.0,
+          "change": 0.5
+        },
+        {
+          "product_name": "Olive Oil",
+          "last_actual": 7.49,
+          "predicted": 7.03,
+          "change": -0.46
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 6.6,
+          "predicted": 6.17,
+          "change": -0.43
+        },
+        {
+          "product_name": "Carrots",
+          "last_actual": 2.94,
+          "predicted": 3.24,
+          "change": 0.3
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 5.97,
+          "predicted": 5.77,
+          "change": -0.2
+        }
+      ]
+    },
+    {
+      "store_name": "Walmart Surrey",
+      "last_actual_date": "2026-08-26",
+      "last_actual_basket": 398.74,
+      "predicted_basket": 378.9,
+      "expected_next_visit": "2026-09-16",
+      "products": [
+        {
+          "product_name": "Sesame Oil",
+          "last_actual": 39.99,
+          "predicted": 29.99,
+          "change": -10.0
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 7.97,
+          "predicted": 9.62,
+          "change": 1.65
+        },
+        {
+          "product_name": "Pork Belly",
+          "last_actual": 18.7,
+          "predicted": 17.57,
+          "change": -1.13
+        },
+        {
+          "product_name": "Olive Oil",
+          "last_actual": 8.97,
+          "predicted": 8.07,
+          "change": -0.9
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.97,
+          "predicted": 3.71,
+          "change": 0.74
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 5.47,
+          "predicted": 6.02,
+          "change": 0.55
+        },
+        {
+          "product_name": "Basmati Rice",
+          "last_actual": 5.97,
+          "predicted": 5.47,
+          "change": -0.5
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 5.97,
+          "predicted": 5.52,
+          "change": -0.45
+        }
+      ]
+    },
+    {
+      "store_name": "Walmart Surrey Downtown",
+      "last_actual_date": "2026-08-26",
+      "last_actual_basket": 322.36,
+      "predicted_basket": 325.16,
+      "expected_next_visit": "2026-09-16",
+      "products": [
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 11.97,
+          "predicted": 11.0,
+          "change": -0.97
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 12.98,
+          "predicted": 12.03,
+          "change": -0.95
+        },
+        {
+          "product_name": "Robin Hood Flour",
+          "last_actual": 3.77,
+          "predicted": 4.42,
+          "change": 0.65
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 5.47,
+          "predicted": 6.02,
+          "change": 0.55
+        },
+        {
+          "product_name": "Napa Cabbage",
+          "last_actual": 2.8,
+          "predicted": 3.25,
+          "change": 0.45
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 6.6,
+          "predicted": 6.17,
+          "change": -0.43
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 5.97,
+          "predicted": 6.39,
+          "change": 0.42
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 14.1,
+          "predicted": 14.5,
+          "change": 0.4
+        }
+      ]
+    }
+  ]
+}
