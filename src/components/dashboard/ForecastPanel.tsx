@@ -435,9 +435,9 @@ function HonestyNote(): React.JSX.Element {
         these as smart estimates, not promises. We check each store about once
         every three weeks, so each number is our best guess for the next visit
         &mdash; not a price for any single day. When we tested it on prices it had
-        never seen, it came out roughly 40% closer to reality than assuming
-        nothing changes. It&rsquo;s an early research prototype, so treat these as
-        signals worth watching, not sure things.
+        never seen, it came out about 38% closer to reality than assuming nothing
+        changes. It&rsquo;s a research prototype, so treat these as signals worth
+        watching, not sure things.
       </p>
     </div>
   );
