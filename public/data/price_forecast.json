@@ -1203,40 +1203,10 @@
     {
       "store_name": "Walmart Surrey Downtown",
       "last_actual_date": "2026-09-09",
-      "last_actual_basket": 375.68,
-      "predicted_basket": 333.79,
+      "last_actual_basket": 278.7,
+      "predicted_basket": 287.79,
       "expected_next_visit": "2026-09-23",
       "products": [
-        {
-          "product_name": "Jasmine Rice",
-          "last_actual": 14.88,
-          "predicted": 4.67,
-          "change": -10.21
-        },
-        {
-          "product_name": "Short Grain Rice",
-          "last_actual": 18.97,
-          "predicted": 9.27,
-          "change": -9.7
-        },
-        {
-          "product_name": "White Rice",
-          "last_actual": 12.97,
-          "predicted": 5.1,
-          "change": -7.87
-        },
-        {
-          "product_name": "Whole Wheat Atta",
-          "last_actual": 19.27,
-          "predicted": 11.51,
-          "change": -7.76
-        },
-        {
-          "product_name": "Kikkoman Soy Sauce",
-          "last_actual": 12.47,
-          "predicted": 5.07,
-          "change": -7.4
-        },
         {
           "product_name": "Pork Belly",
           "last_actual": 18.7,
@@ -1244,16 +1214,46 @@
           "change": -5.11
         },
         {
-          "product_name": "Basmati Rice",
-          "last_actual": 10.78,
-          "predicted": 6.72,
-          "change": -4.06
+          "product_name": "Cheddar Cheese",
+          "last_actual": 8.77,
+          "predicted": 5.6,
+          "change": -3.17
         },
         {
-          "product_name": "Toor Dal/Red Lentils",
-          "last_actual": 7.64,
-          "predicted": 3.66,
-          "change": -3.98
+          "product_name": "Olive Oil",
+          "last_actual": 5.97,
+          "predicted": 8.54,
+          "change": 2.57
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 5.47,
+          "predicted": 7.76,
+          "change": 2.29
+        },
+        {
+          "product_name": "Ground Beef",
+          "last_actual": 13.1,
+          "predicted": 14.9,
+          "change": 1.8
+        },
+        {
+          "product_name": "Chicken Thighs",
+          "last_actual": 8.5,
+          "predicted": 10.0,
+          "change": 1.5
+        },
+        {
+          "product_name": "Silk Soy Milk",
+          "last_actual": 4.98,
+          "predicted": 3.49,
+          "change": -1.49
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 6.6,
+          "predicted": 5.15,
+          "change": -1.45
         }
       ]
     }
