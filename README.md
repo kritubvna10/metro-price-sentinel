@@ -165,9 +165,9 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **24,246 price observations** collected May–October 2026 across 173 store snapshots, updated weekly.
 - **2 package sizes** (small + bulk) per product, recorded for the planned poverty-penalty analysis.
 
-Across the current data, the gap between the most and least expensive store for the full basket is **$175.65 per bi-weekly trip** (Save-On-Foods Fleetwood Surrey at **$479.63** vs. CHALO! FreshCo 138 St & 72 Ave at **$303.98**) — roughly **$4,567 per year** over 26 trips — the premium a family pays simply for where they shop.
+As of the 2026-10-03 data, the gap between the most and least expensive store for the full basket is **$133.97 per bi-weekly trip** (Save-On-Foods Fleetwood Surrey at **$430.80** vs. Walmart Langley at **$296.83**), roughly **$3,483 per year** over 26 trips: the premium a family pays simply for where they shop.
 
-*Figures above reflect the dataset as of August 13, 2026; the live dashboard always shows current calculated values, which shift as prices are refreshed.*
+*Figures above reflect the dataset as of October 3, 2026; the live dashboard always shows current calculated values, which shift as prices are refreshed.*
 
 > **Bulk-vs-small "poverty penalty" analysis is future work**, pending structured package-size data across all stores. The figure above is the store-to-store price gap computed directly from the master CSV, not a small-vs-bulk penalty.
 
