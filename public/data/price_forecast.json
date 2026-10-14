@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-10-14",
   "forecast_window": "2026-10-14 to 2026-10-26",
-  "model_note": "LightGBM; +38% MAE over per-product-median naive on held-out time split",
+  "model_note": "LightGBM (retrained 2026-10-13); +41% MAE over per-product-median naive and +3% over last-price carry-forward on held-out time split",
   "stores": [
     {
       "store_name": "CHALO! FreshCo 138 St & 72 Ave",

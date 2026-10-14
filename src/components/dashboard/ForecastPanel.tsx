@@ -432,12 +432,15 @@ function HonestyNote(): React.JSX.Element {
         }}
       >
         <strong style={{ color: '#111827' }}>How to read this.</strong> Think of
-        these as smart estimates, not promises. We check each store about once
-        every three weeks, so each number is our best guess for the next visit
-        &mdash; not a price for any single day. When we tested it on prices it had
-        never seen, it came out about 38% closer to reality than assuming nothing
-        changes. It&rsquo;s a research prototype, so treat these as signals worth
-        watching, not sure things.
+        these as rough estimates, not promises. We check each store about once
+        every two weeks, so each number is our best guess for the next visit,
+        not a price for any single day. In our test on prices it had never seen,
+        the model came out about 41% closer to reality than a plain typical price
+        for each product, and about 3% closer than simply assuming a price stays
+        the same as last visit. That 3% edge is small and comes from a short test,
+        so it could be luck. About half of prices do not change between visits, so
+        &ldquo;no change&rdquo; is a hard guess to beat. It is a research
+        prototype, so treat these as signals worth watching, not sure things.
       </p>
     </div>
   );
