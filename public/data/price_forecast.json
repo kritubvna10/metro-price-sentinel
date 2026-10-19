@@ -1,6 +1,6 @@
 {
-  "generated_on": "2026-10-14",
-  "forecast_window": "2026-10-14 to 2026-10-26",
+  "generated_on": "2026-10-19",
+  "forecast_window": "2026-10-16 to 2026-11-02",
   "model_note": "LightGBM (retrained 2026-10-13); +41% MAE over per-product-median naive and +3% over last-price carry-forward on held-out time split",
   "stores": [
     {
@@ -689,74 +689,68 @@
     },
     {
       "store_name": "Save-On-Foods Langley",
-      "last_actual_date": "2026-10-01",
-      "last_actual_basket": 411.94,
-      "predicted_basket": 411.91,
-      "expected_next_visit": "2026-10-15",
+      "last_actual_date": "2026-10-18",
+      "last_actual_basket": 413.34,
+      "predicted_basket": 408.27,
+      "expected_next_visit": "2026-11-02",
       "products": [
         {
           "product_name": "Frozen Tilapia",
           "last_actual": 16.99,
-          "predicted": 11.78,
-          "change": -5.21
+          "predicted": 11.71,
+          "change": -5.28
         },
         {
           "product_name": "Kimchi",
           "last_actual": 15.49,
-          "predicted": 10.65,
-          "change": -4.84
+          "predicted": 10.59,
+          "change": -4.9
         },
         {
           "product_name": "Pork Shoulder",
           "last_actual": 8.8,
-          "predicted": 12.41,
-          "change": 3.61
-        },
-        {
-          "product_name": "Dried Seaweed Nori",
-          "last_actual": 1.49,
-          "predicted": 3.32,
-          "change": 1.83
-        },
-        {
-          "product_name": "Bok Choy",
-          "last_actual": 8.8,
-          "predicted": 7.0,
-          "change": -1.8
-        },
-        {
-          "product_name": "Russet Potatoes",
-          "last_actual": 5.49,
-          "predicted": 7.03,
-          "change": 1.54
-        },
-        {
-          "product_name": "Jasmine Rice",
-          "last_actual": 8.99,
-          "predicted": 7.62,
-          "change": -1.37
+          "predicted": 12.64,
+          "change": 3.84
         },
         {
           "product_name": "Chicken Breast",
-          "last_actual": 16.5,
-          "predicted": 17.78,
-          "change": 1.28
+          "last_actual": 20.9,
+          "predicted": 18.23,
+          "change": -2.67
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 5.5,
+          "predicted": 7.17,
+          "change": 1.67
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 3.49,
+          "predicted": 5.01,
+          "change": 1.52
+        },
+        {
+          "product_name": "Short Grain Rice",
+          "last_actual": 11.99,
+          "predicted": 10.53,
+          "change": -1.46
+        },
+        {
+          "product_name": "Quaker Oats",
+          "last_actual": 4.69,
+          "predicted": 5.91,
+          "change": 1.22
         }
       ]
     },
     {
       "store_name": "Save-On-Foods Lonsdale",
-      "last_actual_date": "2026-10-01",
-      "last_actual_basket": 417.99,
-      "predicted_basket": 446.8,
-      "expected_next_visit": "2026-10-14",
+      "last_actual_date": "2026-10-18",
+      "last_actual_basket": 436.96,
+      "predicted_basket": 429.79,
+      "expected_next_visit": "2026-11-02",
       "products": [
-        {
-          "product_name": "Wild Blueberries",
-          "last_actual": 11.79,
-          "predicted": 6.68,
-          "change": -5.11
-        },
         {
           "product_name": "Frozen Tilapia",
           "last_actual": 16.99,
@@ -764,56 +758,56 @@
           "change": -5.1
         },
         {
-          "product_name": "Short Grain Rice",
-          "last_actual": 6.99,
-          "predicted": 11.17,
-          "change": 4.18
-        },
-        {
-          "product_name": "Olive Oil",
-          "last_actual": 6.99,
-          "predicted": 10.27,
-          "change": 3.28
-        },
-        {
-          "product_name": "Basmati Rice",
-          "last_actual": 5.99,
-          "predicted": 9.09,
-          "change": 3.1
-        },
-        {
-          "product_name": "Jasmine Rice",
-          "last_actual": 3.99,
-          "predicted": 6.76,
-          "change": 2.77
-        },
-        {
           "product_name": "Kimchi",
-          "last_actual": 7.99,
+          "last_actual": 14.99,
           "predicted": 10.67,
-          "change": 2.68
+          "change": -4.32
+        },
+        {
+          "product_name": "Bok Choy",
+          "last_actual": 5.5,
+          "predicted": 7.63,
+          "change": 2.13
+        },
+        {
+          "product_name": "Chicken Breast",
+          "last_actual": 20.9,
+          "predicted": 18.89,
+          "change": -2.01
         },
         {
           "product_name": "Kikkoman Soy Sauce",
-          "last_actual": 4.39,
-          "predicted": 7.04,
-          "change": 2.65
+          "last_actual": 3.49,
+          "predicted": 5.06,
+          "change": 1.57
+        },
+        {
+          "product_name": "Silk Soy Milk",
+          "last_actual": 2.89,
+          "predicted": 4.42,
+          "change": 1.53
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 5.99,
+          "predicted": 4.47,
+          "change": -1.52
+        },
+        {
+          "product_name": "Quaker Oats",
+          "last_actual": 4.69,
+          "predicted": 6.04,
+          "change": 1.35
         }
       ]
     },
     {
       "store_name": "Save-On-Foods Maple Ridge",
-      "last_actual_date": "2026-10-01",
-      "last_actual_basket": 391.77,
-      "predicted_basket": 403.07,
-      "expected_next_visit": "2026-10-14",
+      "last_actual_date": "2026-10-18",
+      "last_actual_basket": 405.97,
+      "predicted_basket": 401.74,
+      "expected_next_visit": "2026-11-02",
       "products": [
-        {
-          "product_name": "Chicken Breast",
-          "last_actual": 26.4,
-          "predicted": 17.66,
-          "change": -8.74
-        },
         {
           "product_name": "Frozen Tilapia",
           "last_actual": 16.99,
@@ -821,55 +815,73 @@
           "change": -5.46
         },
         {
+          "product_name": "Chicken Breast",
+          "last_actual": 20.9,
+          "predicted": 18.01,
+          "change": -2.89
+        },
+        {
           "product_name": "Short Grain Rice",
-          "last_actual": 6.99,
-          "predicted": 11.14,
-          "change": 4.15
-        },
-        {
-          "product_name": "Olive Oil",
-          "last_actual": 6.99,
-          "predicted": 10.02,
-          "change": 3.03
-        },
-        {
-          "product_name": "Basmati Rice",
-          "last_actual": 5.99,
-          "predicted": 8.79,
-          "change": 2.8
-        },
-        {
-          "product_name": "Jasmine Rice",
-          "last_actual": 3.99,
-          "predicted": 6.74,
-          "change": 2.75
-        },
-        {
-          "product_name": "Kikkoman Soy Sauce",
-          "last_actual": 4.39,
-          "predicted": 6.74,
-          "change": 2.35
+          "last_actual": 12.49,
+          "predicted": 10.37,
+          "change": -2.12
         },
         {
           "product_name": "Bok Choy",
           "last_actual": 5.5,
-          "predicted": 7.05,
-          "change": 1.55
+          "predicted": 7.19,
+          "change": 1.69
+        },
+        {
+          "product_name": "Ground Beef",
+          "last_actual": 16.5,
+          "predicted": 18.12,
+          "change": 1.62
+        },
+        {
+          "product_name": "Kimchi",
+          "last_actual": 11.99,
+          "predicted": 10.39,
+          "change": -1.6
+        },
+        {
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 3.49,
+          "predicted": 5.05,
+          "change": 1.56
+        },
+        {
+          "product_name": "Toor Dal/Red Lentils",
+          "last_actual": 2.99,
+          "predicted": 4.3,
+          "change": 1.31
         }
       ]
     },
     {
       "store_name": "Save-On-Foods New Westminster",
-      "last_actual_date": "2026-10-01",
-      "last_actual_basket": 369.59,
-      "predicted_basket": 394.8,
-      "expected_next_visit": "2026-10-14",
+      "last_actual_date": "2026-10-18",
+      "last_actual_basket": 396.95,
+      "predicted_basket": 396.41,
+      "expected_next_visit": "2026-11-01",
       "products": [
+        {
+          "product_name": "Kimchi",
+          "last_actual": 15.49,
+          "predicted": 10.27,
+          "change": -5.22
+        },
+        {
+          "product_name": "Whole Wheat Atta",
+          "last_actual": 7.99,
+          "predicted": 12.15,
+          "change": 4.16
+        },
         {
           "product_name": "Short Grain Rice",
           "last_actual": 6.99,
-          "predicted": 10.97,
-          "change": 3.98
+          "predicted": 10.23,
+          "change": 3.24
         },
         {
           "product_name": "Chicken Breast",
@@ -878,40 +890,28 @@
           "change": -3.05
         },
         {
-          "product_name": "Olive Oil",
-          "last_actual": 6.99,
-          "predicted": 9.9,
-          "change": 2.91
-        },
-        {
           "product_name": "Pork Shoulder",
           "last_actual": 10.3,
-          "predicted": 12.91,
-          "change": 2.61
+          "predicted": 12.15,
+          "change": 1.85
         },
         {
-          "product_name": "Basmati Rice",
-          "last_actual": 5.99,
-          "predicted": 8.56,
-          "change": 2.57
+          "product_name": "Bok Choy",
+          "last_actual": 8.8,
+          "predicted": 7.13,
+          "change": -1.67
         },
         {
-          "product_name": "Jasmine Rice",
-          "last_actual": 3.99,
-          "predicted": 6.53,
-          "change": 2.54
+          "product_name": "Chicken Thighs",
+          "last_actual": 15.4,
+          "predicted": 13.91,
+          "change": -1.49
         },
         {
-          "product_name": "White Rice",
-          "last_actual": 3.99,
-          "predicted": 5.97,
-          "change": 1.98
-        },
-        {
-          "product_name": "Sesame Oil",
-          "last_actual": 3.75,
-          "predicted": 5.43,
-          "change": 1.68
+          "product_name": "Kikkoman Soy Sauce",
+          "last_actual": 3.49,
+          "predicted": 4.88,
+          "change": 1.39
         }
       ]
     },
