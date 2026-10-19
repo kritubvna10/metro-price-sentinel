@@ -5,7 +5,7 @@ Metro Vancouver's first culturally-specific grocery affordability tracker. Monit
 - **Store Premium Score** — how much each store charges above or below the Statistics Canada BC provincial baseline.
 - **Poverty Penalty** — the extra dollars low-income families pay per bi-weekly basket simply because they cannot afford to buy in bulk.
 
-> **Data: May–October 2026** — 24,246 price observations across 22 stores and 7 culturally specific baskets (173 store snapshots).
+> **Data: May–October 2026** — 26,802 price observations across 22 stores and 7 culturally specific baskets (191 store snapshots).
 
 This is a [Vite](https://vite.dev) + [React](https://react.dev) + TypeScript single-page app. It is **not** a set of static HTML pages — the dashboard is compiled at build time and reads the price CSV in the browser at runtime.
 
@@ -162,12 +162,12 @@ Source: Statistics Canada Table 18-10-0245-01, BC Consumer Price Index (food com
 - **7 culturally specific baskets** built from peer-reviewed research: South Asian, Chinese, Filipino, Korean, European, Indigenous, Others.
 - **22 stores** across Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Langley, Delta, North Vancouver, New Westminster, and Maple Ridge.
 - **3 chain tiers** — discount (No Frills, FreshCo/CHALO!), mid-tier (Superstore, Save-On-Foods), mass (Walmart).
-- **24,246 price observations** collected May–October 2026 across 173 store snapshots, updated weekly.
+- **26,802 price observations** collected May–October 2026 across 191 store snapshots, updated weekly.
 - **2 package sizes** (small + bulk) per product, recorded for the planned poverty-penalty analysis.
 
-As of the 2026-10-03 data, the gap between the most and least expensive store for the full basket is **$133.97 per bi-weekly trip** (Save-On-Foods Fleetwood Surrey at **$430.80** vs. Walmart Langley at **$296.83**), roughly **$3,483 per year** over 26 trips: the premium a family pays simply for where they shop.
+As of the 2026-10-18 data, the gap between the most and least expensive store for the full basket is **$154.26 per bi-weekly trip** (Save-On-Foods Lonsdale at **$436.96** vs. Walmart Surrey Downtown at **$282.70**, about 55% more), roughly **$4,011 per year** over 26 trips: the premium a family pays simply for where they shop.
 
-*Figures above reflect the dataset as of October 3, 2026; the live dashboard always shows current calculated values, which shift as prices are refreshed.*
+*Figures above reflect the dataset as of October 18, 2026; the live dashboard always shows current calculated values, which shift as prices are refreshed.*
 
 > **Bulk-vs-small "poverty penalty" analysis is future work**, pending structured package-size data across all stores. The figure above is the store-to-store price gap computed directly from the master CSV, not a small-vs-bulk penalty.
 
@@ -179,4 +179,4 @@ The `/dashboard` route provides the interactive store comparison; the home page 
 
 **Kritubvna Sharma** — kritubvnabhattarai10@gmail.com
 
-_Data collected from store websites. Some prices approximate. Data: May–October 2026, updated weekly. Last updated October 4, 2026._
+_Data collected from store websites. Some prices approximate. Data: May–October 2026, updated weekly. Last updated October 19, 2026._
